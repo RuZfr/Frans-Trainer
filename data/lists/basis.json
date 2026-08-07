@@ -1,0 +1,1438 @@
+{
+  "id": "basis",
+  "name": "Basiswoordenschat",
+  "description": "De huidige basiswoordenbank van Frans Trainer.",
+  "words": [
+    {
+      "fr": "bonjour",
+      "nl": "hallo",
+      "category": "Begroetingen",
+      "type": "expression",
+      "alts": [
+        "goedendag"
+      ]
+    },
+    {
+      "fr": "salut",
+      "nl": "hoi",
+      "category": "Begroetingen",
+      "type": "expression",
+      "alts": [
+        "dag"
+      ]
+    },
+    {
+      "fr": "au revoir",
+      "nl": "tot ziens",
+      "category": "Begroetingen",
+      "type": "expression",
+      "alts": [
+        "dag"
+      ]
+    },
+    {
+      "fr": "merci",
+      "nl": "dank je",
+      "category": "Begroetingen",
+      "type": "expression",
+      "alts": [
+        "bedankt",
+        "dank u"
+      ]
+    },
+    {
+      "fr": "s’il vous plaît",
+      "nl": "alstublieft",
+      "category": "Begroetingen",
+      "type": "expression",
+      "alts": [
+        "alsjeblieft"
+      ]
+    },
+    {
+      "fr": "oui",
+      "nl": "ja",
+      "category": "Basiswoorden",
+      "type": "adverb"
+    },
+    {
+      "fr": "non",
+      "nl": "nee",
+      "category": "Basiswoorden",
+      "type": "adverb"
+    },
+    {
+      "fr": "peut-être",
+      "nl": "misschien",
+      "category": "Basiswoorden",
+      "type": "adverb"
+    },
+    {
+      "fr": "excusez-moi",
+      "nl": "pardon",
+      "category": "Begroetingen",
+      "type": "expression",
+      "alts": [
+        "excuseer mij"
+      ]
+    },
+    {
+      "fr": "comment ça va ?",
+      "nl": "hoe gaat het?",
+      "category": "Begroetingen",
+      "type": "expression",
+      "alts": [
+        "hoe gaat het"
+      ]
+    },
+    {
+      "fr": "bien",
+      "nl": "goed",
+      "category": "Basiswoorden",
+      "type": "adverb"
+    },
+    {
+      "fr": "mal",
+      "nl": "slecht",
+      "category": "Basiswoorden",
+      "type": "adverb"
+    },
+    {
+      "fr": "être",
+      "nl": "zijn",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "avoir",
+      "nl": "hebben",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "aller",
+      "nl": "gaan",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "venir",
+      "nl": "komen",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "faire",
+      "nl": "doen",
+      "category": "Werkwoorden",
+      "type": "verb",
+      "alts": [
+        "maken"
+      ],
+      "note": "Betekent afhankelijk van de context “doen” of “maken”."
+    },
+    {
+      "fr": "dire",
+      "nl": "zeggen",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "parler",
+      "nl": "spreken",
+      "category": "Werkwoorden",
+      "type": "verb",
+      "alts": [
+        "praten"
+      ]
+    },
+    {
+      "fr": "écouter",
+      "nl": "luisteren",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "regarder",
+      "nl": "kijken",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "voir",
+      "nl": "zien",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "entendre",
+      "nl": "horen",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "comprendre",
+      "nl": "begrijpen",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "apprendre",
+      "nl": "leren",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "lire",
+      "nl": "lezen",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "écrire",
+      "nl": "schrijven",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "manger",
+      "nl": "eten",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "boire",
+      "nl": "drinken",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "dormir",
+      "nl": "slapen",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "jouer",
+      "nl": "spelen",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "travailler",
+      "nl": "werken",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "habiter",
+      "nl": "wonen",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "aimer",
+      "nl": "houden van",
+      "category": "Werkwoorden",
+      "type": "verb",
+      "alts": [
+        "graag hebben"
+      ]
+    },
+    {
+      "fr": "adorer",
+      "nl": "dol zijn op",
+      "category": "Werkwoorden",
+      "type": "verb",
+      "alts": [
+        "heel graag hebben"
+      ]
+    },
+    {
+      "fr": "vouloir",
+      "nl": "willen",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "pouvoir",
+      "nl": "kunnen",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "devoir",
+      "nl": "moeten",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "savoir",
+      "nl": "weten",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "connaître",
+      "nl": "kennen",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "prendre",
+      "nl": "nemen",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "donner",
+      "nl": "geven",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "mettre",
+      "nl": "zetten",
+      "category": "Werkwoorden",
+      "type": "verb",
+      "alts": [
+        "leggen",
+        "aantrekken"
+      ],
+      "note": "De vertaling hangt af van de context."
+    },
+    {
+      "fr": "enlever",
+      "nl": "verwijderen",
+      "category": "Werkwoorden",
+      "type": "verb",
+      "alts": [
+        "wegnemen",
+        "uitdoen",
+        "uittrekken"
+      ],
+      "note": "Bij kleding betekent dit vaak “uitdoen” of “uittrekken”."
+    },
+    {
+      "fr": "ouvrir",
+      "nl": "openen",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "fermer",
+      "nl": "sluiten",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "commencer",
+      "nl": "beginnen",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "finir",
+      "nl": "eindigen",
+      "category": "Werkwoorden",
+      "type": "verb",
+      "alts": [
+        "afmaken"
+      ]
+    },
+    {
+      "fr": "chercher",
+      "nl": "zoeken",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "trouver",
+      "nl": "vinden",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "demander",
+      "nl": "vragen",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "répondre",
+      "nl": "antwoorden",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "acheter",
+      "nl": "kopen",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "porter",
+      "nl": "dragen",
+      "category": "Werkwoorden",
+      "type": "verb"
+    },
+    {
+      "fr": "courir",
+      "nl": "rennen",
+      "category": "Werkwoorden",
+      "type": "verb",
+      "alts": [
+        "lopen"
+      ]
+    },
+    {
+      "fr": "marcher",
+      "nl": "lopen",
+      "category": "Werkwoorden",
+      "type": "verb",
+      "alts": [
+        "wandelen"
+      ]
+    },
+    {
+      "fr": "la famille",
+      "nl": "de familie",
+      "category": "Familie",
+      "type": "noun",
+      "alts": [
+        "familie"
+      ]
+    },
+    {
+      "fr": "la mère",
+      "nl": "de moeder",
+      "category": "Familie",
+      "type": "noun",
+      "alts": [
+        "moeder"
+      ]
+    },
+    {
+      "fr": "le père",
+      "nl": "de vader",
+      "category": "Familie",
+      "type": "noun",
+      "alts": [
+        "vader"
+      ]
+    },
+    {
+      "fr": "les parents",
+      "nl": "de ouders",
+      "category": "Familie",
+      "type": "noun",
+      "alts": [
+        "ouders"
+      ]
+    },
+    {
+      "fr": "la sœur",
+      "nl": "de zus",
+      "category": "Familie",
+      "type": "noun",
+      "alts": [
+        "zus"
+      ]
+    },
+    {
+      "fr": "le frère",
+      "nl": "de broer",
+      "category": "Familie",
+      "type": "noun",
+      "alts": [
+        "broer"
+      ]
+    },
+    {
+      "fr": "la grand-mère",
+      "nl": "de grootmoeder",
+      "category": "Familie",
+      "type": "noun",
+      "alts": [
+        "grootmoeder",
+        "de oma",
+        "oma"
+      ]
+    },
+    {
+      "fr": "le grand-père",
+      "nl": "de grootvader",
+      "category": "Familie",
+      "type": "noun",
+      "alts": [
+        "grootvader",
+        "de opa",
+        "opa"
+      ]
+    },
+    {
+      "fr": "le bébé",
+      "nl": "de baby",
+      "category": "Familie",
+      "type": "noun",
+      "alts": [
+        "baby"
+      ]
+    },
+    {
+      "fr": "l’enfant",
+      "nl": "het kind",
+      "category": "Familie",
+      "type": "noun",
+      "alts": [
+        "kind"
+      ]
+    },
+    {
+      "fr": "l’ami",
+      "nl": "de vriend",
+      "category": "Mensen",
+      "type": "noun",
+      "alts": [
+        "vriend"
+      ]
+    },
+    {
+      "fr": "l’amie",
+      "nl": "de vriendin",
+      "category": "Mensen",
+      "type": "noun",
+      "alts": [
+        "vriendin"
+      ]
+    },
+    {
+      "fr": "le garçon",
+      "nl": "de jongen",
+      "category": "Mensen",
+      "type": "noun",
+      "alts": [
+        "jongen"
+      ]
+    },
+    {
+      "fr": "la fille",
+      "nl": "het meisje",
+      "category": "Mensen",
+      "type": "noun",
+      "alts": [
+        "meisje",
+        "de dochter",
+        "dochter"
+      ]
+    },
+    {
+      "fr": "l’homme",
+      "nl": "de man",
+      "category": "Mensen",
+      "type": "noun",
+      "alts": [
+        "man"
+      ]
+    },
+    {
+      "fr": "la femme",
+      "nl": "de vrouw",
+      "category": "Mensen",
+      "type": "noun",
+      "alts": [
+        "vrouw"
+      ]
+    },
+    {
+      "fr": "l’école",
+      "nl": "de school",
+      "category": "School",
+      "type": "noun",
+      "alts": [
+        "school"
+      ]
+    },
+    {
+      "fr": "la classe",
+      "nl": "de klas",
+      "category": "School",
+      "type": "noun",
+      "alts": [
+        "klas"
+      ]
+    },
+    {
+      "fr": "le professeur",
+      "nl": "de leerkracht",
+      "category": "School",
+      "type": "noun",
+      "alts": [
+        "leerkracht",
+        "de leraar",
+        "leraar",
+        "de docent",
+        "docent"
+      ]
+    },
+    {
+      "fr": "l’élève",
+      "nl": "de leerling",
+      "category": "School",
+      "type": "noun",
+      "alts": [
+        "leerling"
+      ]
+    },
+    {
+      "fr": "le livre",
+      "nl": "het boek",
+      "category": "School",
+      "type": "noun",
+      "alts": [
+        "boek"
+      ]
+    },
+    {
+      "fr": "le cahier",
+      "nl": "het schrift",
+      "category": "School",
+      "type": "noun",
+      "alts": [
+        "schrift"
+      ]
+    },
+    {
+      "fr": "le crayon",
+      "nl": "het potlood",
+      "category": "School",
+      "type": "noun",
+      "alts": [
+        "potlood"
+      ]
+    },
+    {
+      "fr": "le stylo",
+      "nl": "de pen",
+      "category": "School",
+      "type": "noun",
+      "alts": [
+        "pen"
+      ]
+    },
+    {
+      "fr": "la gomme",
+      "nl": "de gom",
+      "category": "School",
+      "type": "noun",
+      "alts": [
+        "gom",
+        "de gum",
+        "gum"
+      ]
+    },
+    {
+      "fr": "la règle",
+      "nl": "de liniaal",
+      "category": "School",
+      "type": "noun",
+      "alts": [
+        "liniaal"
+      ]
+    },
+    {
+      "fr": "le sac",
+      "nl": "de tas",
+      "category": "School",
+      "type": "noun",
+      "alts": [
+        "tas"
+      ]
+    },
+    {
+      "fr": "la question",
+      "nl": "de vraag",
+      "category": "School",
+      "type": "noun",
+      "alts": [
+        "vraag"
+      ]
+    },
+    {
+      "fr": "la réponse",
+      "nl": "het antwoord",
+      "category": "School",
+      "type": "noun",
+      "alts": [
+        "antwoord"
+      ]
+    },
+    {
+      "fr": "la maison",
+      "nl": "het huis",
+      "category": "Huis",
+      "type": "noun",
+      "alts": [
+        "huis"
+      ]
+    },
+    {
+      "fr": "l’appartement",
+      "nl": "het appartement",
+      "category": "Huis",
+      "type": "noun",
+      "alts": [
+        "appartement"
+      ]
+    },
+    {
+      "fr": "la chambre",
+      "nl": "de slaapkamer",
+      "category": "Huis",
+      "type": "noun",
+      "alts": [
+        "slaapkamer",
+        "de kamer",
+        "kamer"
+      ]
+    },
+    {
+      "fr": "la cuisine",
+      "nl": "de keuken",
+      "category": "Huis",
+      "type": "noun",
+      "alts": [
+        "keuken"
+      ]
+    },
+    {
+      "fr": "la salle de bains",
+      "nl": "de badkamer",
+      "category": "Huis",
+      "type": "noun",
+      "alts": [
+        "badkamer"
+      ]
+    },
+    {
+      "fr": "le salon",
+      "nl": "de woonkamer",
+      "category": "Huis",
+      "type": "noun",
+      "alts": [
+        "woonkamer"
+      ]
+    },
+    {
+      "fr": "la porte",
+      "nl": "de deur",
+      "category": "Huis",
+      "type": "noun",
+      "alts": [
+        "deur"
+      ]
+    },
+    {
+      "fr": "la fenêtre",
+      "nl": "het raam",
+      "category": "Huis",
+      "type": "noun",
+      "alts": [
+        "raam",
+        "het venster",
+        "venster"
+      ]
+    },
+    {
+      "fr": "la table",
+      "nl": "de tafel",
+      "category": "Huis",
+      "type": "noun",
+      "alts": [
+        "tafel"
+      ]
+    },
+    {
+      "fr": "la chaise",
+      "nl": "de stoel",
+      "category": "Huis",
+      "type": "noun",
+      "alts": [
+        "stoel"
+      ]
+    },
+    {
+      "fr": "le lit",
+      "nl": "het bed",
+      "category": "Huis",
+      "type": "noun",
+      "alts": [
+        "bed"
+      ]
+    },
+    {
+      "fr": "le jardin",
+      "nl": "de tuin",
+      "category": "Huis",
+      "type": "noun",
+      "alts": [
+        "tuin"
+      ]
+    },
+    {
+      "fr": "le pain",
+      "nl": "het brood",
+      "category": "Eten en drinken",
+      "type": "noun",
+      "alts": [
+        "brood"
+      ]
+    },
+    {
+      "fr": "l’eau",
+      "nl": "het water",
+      "category": "Eten en drinken",
+      "type": "noun",
+      "alts": [
+        "water"
+      ]
+    },
+    {
+      "fr": "le lait",
+      "nl": "de melk",
+      "category": "Eten en drinken",
+      "type": "noun",
+      "alts": [
+        "melk"
+      ]
+    },
+    {
+      "fr": "le fromage",
+      "nl": "de kaas",
+      "category": "Eten en drinken",
+      "type": "noun",
+      "alts": [
+        "kaas"
+      ]
+    },
+    {
+      "fr": "la pomme",
+      "nl": "de appel",
+      "category": "Eten en drinken",
+      "type": "noun",
+      "alts": [
+        "appel"
+      ]
+    },
+    {
+      "fr": "la banane",
+      "nl": "de banaan",
+      "category": "Eten en drinken",
+      "type": "noun",
+      "alts": [
+        "banaan"
+      ]
+    },
+    {
+      "fr": "l’orange",
+      "nl": "de sinaasappel",
+      "category": "Eten en drinken",
+      "type": "noun",
+      "alts": [
+        "sinaasappel"
+      ]
+    },
+    {
+      "fr": "le fruit",
+      "nl": "het fruit",
+      "category": "Eten en drinken",
+      "type": "noun",
+      "alts": [
+        "fruit"
+      ]
+    },
+    {
+      "fr": "le légume",
+      "nl": "de groente",
+      "category": "Eten en drinken",
+      "type": "noun",
+      "alts": [
+        "groente"
+      ]
+    },
+    {
+      "fr": "la viande",
+      "nl": "het vlees",
+      "category": "Eten en drinken",
+      "type": "noun",
+      "alts": [
+        "vlees"
+      ]
+    },
+    {
+      "fr": "le poisson",
+      "nl": "de vis",
+      "category": "Eten en drinken",
+      "type": "noun",
+      "alts": [
+        "vis"
+      ]
+    },
+    {
+      "fr": "le gâteau",
+      "nl": "de taart",
+      "category": "Eten en drinken",
+      "type": "noun",
+      "alts": [
+        "taart",
+        "de cake",
+        "cake"
+      ]
+    },
+    {
+      "fr": "le petit déjeuner",
+      "nl": "het ontbijt",
+      "category": "Eten en drinken",
+      "type": "noun",
+      "alts": [
+        "ontbijt"
+      ]
+    },
+    {
+      "fr": "le déjeuner",
+      "nl": "de lunch",
+      "category": "Eten en drinken",
+      "type": "noun",
+      "alts": [
+        "lunch",
+        "het middagmaal",
+        "middagmaal"
+      ]
+    },
+    {
+      "fr": "le dîner",
+      "nl": "het avondeten",
+      "category": "Eten en drinken",
+      "type": "noun",
+      "alts": [
+        "avondeten",
+        "het diner",
+        "diner"
+      ]
+    },
+    {
+      "fr": "la ville",
+      "nl": "de stad",
+      "category": "Plaatsen",
+      "type": "noun",
+      "alts": [
+        "stad"
+      ]
+    },
+    {
+      "fr": "la rue",
+      "nl": "de straat",
+      "category": "Plaatsen",
+      "type": "noun",
+      "alts": [
+        "straat"
+      ]
+    },
+    {
+      "fr": "le magasin",
+      "nl": "de winkel",
+      "category": "Plaatsen",
+      "type": "noun",
+      "alts": [
+        "winkel"
+      ]
+    },
+    {
+      "fr": "le supermarché",
+      "nl": "de supermarkt",
+      "category": "Plaatsen",
+      "type": "noun",
+      "alts": [
+        "supermarkt"
+      ]
+    },
+    {
+      "fr": "la boulangerie",
+      "nl": "de bakkerij",
+      "category": "Plaatsen",
+      "type": "noun",
+      "alts": [
+        "bakkerij"
+      ],
+      "note": "De persoon is “le boulanger”."
+    },
+    {
+      "fr": "la pharmacie",
+      "nl": "de apotheek",
+      "category": "Plaatsen",
+      "type": "noun",
+      "alts": [
+        "apotheek"
+      ]
+    },
+    {
+      "fr": "la gare",
+      "nl": "het station",
+      "category": "Vervoer",
+      "type": "noun",
+      "alts": [
+        "station"
+      ]
+    },
+    {
+      "fr": "la voiture",
+      "nl": "de auto",
+      "category": "Vervoer",
+      "type": "noun",
+      "alts": [
+        "auto"
+      ]
+    },
+    {
+      "fr": "le vélo",
+      "nl": "de fiets",
+      "category": "Vervoer",
+      "type": "noun",
+      "alts": [
+        "fiets"
+      ]
+    },
+    {
+      "fr": "le bus",
+      "nl": "de bus",
+      "category": "Vervoer",
+      "type": "noun",
+      "alts": [
+        "bus"
+      ]
+    },
+    {
+      "fr": "le train",
+      "nl": "de trein",
+      "category": "Vervoer",
+      "type": "noun",
+      "alts": [
+        "trein"
+      ]
+    },
+    {
+      "fr": "la route",
+      "nl": "de weg",
+      "category": "Vervoer",
+      "type": "noun",
+      "alts": [
+        "weg"
+      ]
+    },
+    {
+      "fr": "le parc",
+      "nl": "het park",
+      "category": "Plaatsen",
+      "type": "noun",
+      "alts": [
+        "park"
+      ]
+    },
+    {
+      "fr": "la tête",
+      "nl": "het hoofd",
+      "category": "Lichaam",
+      "type": "noun",
+      "alts": [
+        "hoofd"
+      ]
+    },
+    {
+      "fr": "la main",
+      "nl": "de hand",
+      "category": "Lichaam",
+      "type": "noun",
+      "alts": [
+        "hand"
+      ]
+    },
+    {
+      "fr": "le pied",
+      "nl": "de voet",
+      "category": "Lichaam",
+      "type": "noun",
+      "alts": [
+        "voet"
+      ]
+    },
+    {
+      "fr": "les yeux",
+      "nl": "de ogen",
+      "category": "Lichaam",
+      "type": "noun",
+      "alts": [
+        "ogen"
+      ]
+    },
+    {
+      "fr": "le nez",
+      "nl": "de neus",
+      "category": "Lichaam",
+      "type": "noun",
+      "alts": [
+        "neus"
+      ]
+    },
+    {
+      "fr": "la bouche",
+      "nl": "de mond",
+      "category": "Lichaam",
+      "type": "noun",
+      "alts": [
+        "mond"
+      ]
+    },
+    {
+      "fr": "le manteau",
+      "nl": "de jas",
+      "category": "Kleding",
+      "type": "noun",
+      "alts": [
+        "jas"
+      ]
+    },
+    {
+      "fr": "le pantalon",
+      "nl": "de broek",
+      "category": "Kleding",
+      "type": "noun",
+      "alts": [
+        "broek"
+      ]
+    },
+    {
+      "fr": "la robe",
+      "nl": "de jurk",
+      "category": "Kleding",
+      "type": "noun",
+      "alts": [
+        "jurk"
+      ]
+    },
+    {
+      "fr": "la chaussure",
+      "nl": "de schoen",
+      "category": "Kleding",
+      "type": "noun",
+      "alts": [
+        "schoen"
+      ]
+    },
+    {
+      "fr": "le chat",
+      "nl": "de kat",
+      "category": "Dieren",
+      "type": "noun",
+      "alts": [
+        "kat"
+      ]
+    },
+    {
+      "fr": "le chien",
+      "nl": "de hond",
+      "category": "Dieren",
+      "type": "noun",
+      "alts": [
+        "hond"
+      ]
+    },
+    {
+      "fr": "l’oiseau",
+      "nl": "de vogel",
+      "category": "Dieren",
+      "type": "noun",
+      "alts": [
+        "vogel"
+      ]
+    },
+    {
+      "fr": "le cheval",
+      "nl": "het paard",
+      "category": "Dieren",
+      "type": "noun",
+      "alts": [
+        "paard"
+      ]
+    },
+    {
+      "fr": "rouge",
+      "nl": "rood",
+      "category": "Kleuren",
+      "type": "adjective"
+    },
+    {
+      "fr": "bleu",
+      "nl": "blauw",
+      "category": "Kleuren",
+      "type": "adjective"
+    },
+    {
+      "fr": "vert",
+      "nl": "groen",
+      "category": "Kleuren",
+      "type": "adjective"
+    },
+    {
+      "fr": "jaune",
+      "nl": "geel",
+      "category": "Kleuren",
+      "type": "adjective"
+    },
+    {
+      "fr": "noir",
+      "nl": "zwart",
+      "category": "Kleuren",
+      "type": "adjective"
+    },
+    {
+      "fr": "blanc",
+      "nl": "wit",
+      "category": "Kleuren",
+      "type": "adjective"
+    },
+    {
+      "fr": "aujourd’hui",
+      "nl": "vandaag",
+      "category": "Tijd",
+      "type": "adverb"
+    },
+    {
+      "fr": "demain",
+      "nl": "morgen",
+      "category": "Tijd",
+      "type": "adverb"
+    },
+    {
+      "fr": "hier",
+      "nl": "gisteren",
+      "category": "Tijd",
+      "type": "adverb"
+    },
+    {
+      "fr": "le matin",
+      "nl": "de ochtend",
+      "category": "Tijd",
+      "type": "noun",
+      "alts": [
+        "ochtend"
+      ]
+    },
+    {
+      "fr": "le soir",
+      "nl": "de avond",
+      "category": "Tijd",
+      "type": "noun",
+      "alts": [
+        "avond"
+      ]
+    },
+    {
+      "fr": "la nuit",
+      "nl": "de nacht",
+      "category": "Tijd",
+      "type": "noun",
+      "alts": [
+        "nacht"
+      ]
+    },
+    {
+      "fr": "grand",
+      "nl": "groot",
+      "category": "Eigenschappen",
+      "type": "adjective"
+    },
+    {
+      "fr": "petit",
+      "nl": "klein",
+      "category": "Eigenschappen",
+      "type": "adjective"
+    },
+    {
+      "fr": "beau",
+      "nl": "mooi",
+      "category": "Eigenschappen",
+      "type": "adjective"
+    },
+    {
+      "fr": "bon",
+      "nl": "goed",
+      "category": "Eigenschappen",
+      "type": "adjective"
+    },
+    {
+      "fr": "mauvais",
+      "nl": "slecht",
+      "category": "Eigenschappen",
+      "type": "adjective"
+    },
+    {
+      "fr": "jeune",
+      "nl": "jong",
+      "category": "Eigenschappen",
+      "type": "adjective"
+    },
+    {
+      "fr": "vieux",
+      "nl": "oud",
+      "category": "Eigenschappen",
+      "type": "adjective"
+    },
+    {
+      "fr": "nouveau",
+      "nl": "nieuw",
+      "category": "Eigenschappen",
+      "type": "adjective"
+    },
+    {
+      "fr": "chaud",
+      "nl": "warm",
+      "category": "Eigenschappen",
+      "type": "adjective"
+    },
+    {
+      "fr": "froid",
+      "nl": "koud",
+      "category": "Eigenschappen",
+      "type": "adjective"
+    },
+    {
+      "fr": "heureux",
+      "nl": "gelukkig",
+      "category": "Gevoelens",
+      "type": "adjective",
+      "alts": [
+        "blij"
+      ]
+    },
+    {
+      "fr": "triste",
+      "nl": "verdrietig",
+      "category": "Gevoelens",
+      "type": "adjective"
+    },
+    {
+      "fr": "fatigué",
+      "nl": "moe",
+      "category": "Gevoelens",
+      "type": "adjective"
+    },
+    {
+      "fr": "ici",
+      "nl": "hier",
+      "category": "Plaatswoorden",
+      "type": "adverb"
+    },
+    {
+      "fr": "là",
+      "nl": "daar",
+      "category": "Plaatswoorden",
+      "type": "adverb"
+    },
+    {
+      "fr": "à gauche",
+      "nl": "links",
+      "category": "Plaatswoorden",
+      "type": "expression"
+    },
+    {
+      "fr": "à droite",
+      "nl": "rechts",
+      "category": "Plaatswoorden",
+      "type": "expression"
+    },
+    {
+      "fr": "tout droit",
+      "nl": "rechtdoor",
+      "category": "Plaatswoorden",
+      "type": "expression"
+    },
+    {
+      "fr": "avec",
+      "nl": "met",
+      "category": "Basiswoorden",
+      "type": "preposition"
+    },
+    {
+      "fr": "sans",
+      "nl": "zonder",
+      "category": "Basiswoorden",
+      "type": "preposition"
+    },
+    {
+      "fr": "dans",
+      "nl": "in",
+      "category": "Basiswoorden",
+      "type": "preposition"
+    },
+    {
+      "fr": "sur",
+      "nl": "op",
+      "category": "Basiswoorden",
+      "type": "preposition"
+    },
+    {
+      "fr": "sous",
+      "nl": "onder",
+      "category": "Basiswoorden",
+      "type": "preposition"
+    },
+    {
+      "fr": "et",
+      "nl": "en",
+      "category": "Basiswoorden",
+      "type": "conjunction"
+    },
+    {
+      "fr": "ou",
+      "nl": "of",
+      "category": "Basiswoorden",
+      "type": "conjunction"
+    },
+    {
+      "fr": "mais",
+      "nl": "maar",
+      "category": "Basiswoorden",
+      "type": "conjunction"
+    },
+    {
+      "fr": "parce que",
+      "nl": "omdat",
+      "category": "Basiswoorden",
+      "type": "conjunction"
+    },
+    {
+      "fr": "toujours",
+      "nl": "altijd",
+      "category": "Tijd",
+      "type": "adverb"
+    },
+    {
+      "fr": "souvent",
+      "nl": "vaak",
+      "category": "Tijd",
+      "type": "adverb"
+    },
+    {
+      "fr": "parfois",
+      "nl": "soms",
+      "category": "Tijd",
+      "type": "adverb"
+    },
+    {
+      "fr": "jamais",
+      "nl": "nooit",
+      "category": "Tijd",
+      "type": "adverb"
+    }
+  ]
+}

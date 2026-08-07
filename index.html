@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#2563eb">
+  <meta name="description" content="Eenvoudige Franse woordentrainer">
+  <title>Frans Trainer</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="css/style.css?v=1.8.2">
+</head>
+<body>
+  <main class="app">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">WOORDENSCHAT</p>
+        <h1>🇫🇷 Frans Trainer</h1>
+      </div>
+      <button id="themeBtn" class="icon-button" aria-label="Donkere modus">🌙</button>
+    </header>
+
+    <section class="controls" aria-label="Oefeninstellingen">
+      <label for="wordListSelect">Woordenlijst</label>
+      <select id="wordListSelect" aria-label="Woordenlijst">
+        <option value="basis">Basiswoordenschat</option>
+      </select>
+
+      <label for="exerciseMode">Oefening</label>
+      <select id="exerciseMode">
+        <option value="cards">Flitskaartjes</option>
+        <option value="typing">Schriftelijk</option>
+      </select>
+
+      <label for="direction">Richting</label>
+      <select id="direction">
+        <option value="fr-nl">Frans → Nederlands</option>
+        <option value="nl-fr">Nederlands → Frans</option>
+        <option value="random">Willekeurig</option>
+      </select>
+    </section>
+
+    <div class="statusline">
+      <span id="status">Laden…</span>
+      <span id="progressCount"></span>
+    </div>
+
+    <div class="progress-wrap" aria-label="Voortgang">
+      <div id="progressBar" class="progress-bar"></div>
+    </div>
+
+    <button id="card" class="card" aria-live="polite" aria-label="Toon antwoord">
+      <span id="question" class="question">Laden…</span>
+      <span id="answer" class="answer" hidden></span>
+      <span id="answerInfo" class="answer-info" hidden></span>
+    </button>
+
+
+    <form id="typingForm" class="typing-panel" hidden>
+      <label for="typingInput">Jouw antwoord</label>
+      <div class="typing-row">
+        <input id="typingInput" autocomplete="off" autocapitalize="none" spellcheck="false">
+        <button id="checkBtn" type="submit" class="primary-small">Controleer</button>
+      </div>
+      <p id="feedback" class="feedback" aria-live="polite"></p>
+    </form>
+
+    <div id="ratingActions" class="actions">
+      <button id="hardBtn" class="hard" disabled>✗ Moeilijk</button>
+      <button id="easyBtn" class="easy" disabled>✓ Weet ik</button>
+    </div>
+
+    <button id="hardOnlyBtn" class="secondary">Alleen moeilijke woorden</button>
+
+  </main>
+
+  <script src="js/words.js?v=1.8.2"></script>
+  <script src="js/storage.js?v=1.8.2"></script>
+  <script src="js/app.js?v=1.8.2"></script>
+</body>
+</html>
