@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.15.1 — Logo & Splash Fix
+- Nieuw statisch logo met golvend Frans vlagje
+- Bewegende logo-animatie verwijderd in header en splashscreen
+- Splashtekst verkort naar “Gemakkelijk Frans oefenen”
+- Splashscreen blijft langer zichtbaar zodat de tekst leesbaar is, ook op telefoon
+- App-iconen en favicon afgestemd op het nieuwe logo
+- Cacheversie verhoogd naar v1.15.1
+
+
 ## v1.15.0 — Stability Fix
 - PWA/offline-cache hersteld voor bestanden met `?v=` cache-busting
 - Alle appversies gelijkgetrokken naar v1.15.0

@@ -1,28 +1,54 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
   <title id="title">Frans Trainer logo</title>
-  <desc id="desc">Open boek in de kleuren van de Franse vlag</desc>
+  <desc id="desc">Statisch golvend Frans vlagje in een afgerond icoon</desc>
   <defs>
     <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0%" stop-color="#315EE8"/>
-      <stop offset="100%" stop-color="#234ACC"/>
+      <stop offset="100%" stop-color="#244AD0"/>
     </linearGradient>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
-      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#17307A" flood-opacity=".18"/>
+      <feDropShadow dx="0" dy="9" stdDeviation="10" flood-color="#17307A" flood-opacity=".18"/>
     </filter>
+    <clipPath id="flagShape">
+      <path d="M52 75
+               C70 63, 91 63, 108 75
+               C126 87, 147 87, 165 75
+               C183 63, 204 63, 220 75
+               L220 164
+               C204 176, 183 176, 165 164
+               C147 152, 126 152, 108 164
+               C91 176, 70 176, 52 164 Z"/>
+    </clipPath>
   </defs>
-  <rect x="8" y="8" width="240" height="240" rx="52" fill="url(#bg)"/>
+  <rect x="8" y="8" width="240" height="240" rx="56" fill="url(#bg)"/>
   <g filter="url(#shadow)">
-    <rect x="40" y="30" width="176" height="176" rx="34" fill="#FAFBFE" stroke="#34485C" stroke-width="4"/>
-    <rect x="40" y="30" width="176" height="28" rx="34" fill="#EEF3FB"/>
-    <rect x="40" y="44" width="176" height="14" fill="#EEF3FB"/>
-    <rect x="62" y="42" width="52" height="5" rx="2.5" fill="#7A899F"/>
-    <g>
-      <rect x="72" y="82" width="50" height="78" rx="13" fill="#1F4EB4" stroke="#34485C" stroke-width="4"/>
-      <rect x="134" y="82" width="50" height="78" rx="13" fill="#E23C45" stroke="#34485C" stroke-width="4"/>
-      <rect x="116" y="76" width="24" height="90" rx="10" fill="#FFFFFF" stroke="#34485C" stroke-width="4"/>
+    <rect x="34" y="30" width="188" height="188" rx="38" fill="#FAFBFE" stroke="#34485C" stroke-width="4"/>
+    <rect x="34" y="30" width="188" height="26" rx="38" fill="#EEF3FB"/>
+    <rect x="58" y="41" width="56" height="5" rx="2.5" fill="#7A899F"/>
+    <g clip-path="url(#flagShape)">
+      <rect x="52" y="72" width="56" height="96" fill="#1F4EB4"/>
+      <rect x="108" y="72" width="56" height="96" fill="#FFFFFF"/>
+      <rect x="164" y="72" width="56" height="96" fill="#DF2935"/>
     </g>
-    <rect x="70" y="177" width="116" height="17" rx="8.5" fill="#315EE8"/>
-    <path d="M92 116c10 4 18 9 24 17" stroke="#FFFFFF" stroke-opacity=".35" stroke-width="4" stroke-linecap="round"/>
-    <path d="M164 116c-10 4-18 9-24 17" stroke="#FFFFFF" stroke-opacity=".25" stroke-width="4" stroke-linecap="round"/>
+    <path d="M52 75
+             C70 63, 91 63, 108 75
+             C126 87, 147 87, 165 75
+             C183 63, 204 63, 220 75
+             L220 164
+             C204 176, 183 176, 165 164
+             C147 152, 126 152, 108 164
+             C91 176, 70 176, 52 164 Z"
+          fill="none" stroke="#34485C" stroke-width="4"/>
+    <path d="M108 75
+             C126 87, 147 87, 165 75
+             L165 164
+             C147 152, 126 152, 108 164 Z"
+          fill="none" stroke="#34485C" stroke-width="4"/>
+    <path d="M164 75
+             C183 63, 204 63, 220 75
+             L220 164
+             C204 176, 183 176, 165 164 Z"
+          fill="none" stroke="#34485C" stroke-width="4"/>
+    <rect x="70" y="181" width="116" height="14" rx="7" fill="#315EE8"/>
   </g>
 </svg>
