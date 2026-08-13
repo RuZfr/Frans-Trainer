@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.15.2 — New Logo Refresh
+- Volledig nieuw logo ontworpen voor Frans Trainer
+- Nieuw app-icoon en favicon in dezelfde stijl
+- Splashtekst aangepast naar “snel Frans oefenen”
+- Cacheversie verhoogd naar v1.15.2
+
+
 ## v1.15.1 — Logo & Splash Fix
 - Nieuw statisch logo met golvend Frans vlagje
 - Bewegende logo-animatie verwijderd in header en splashscreen

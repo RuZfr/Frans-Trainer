@@ -1,4 +1,4 @@
-const APP_VERSION="1.15.1";
+const APP_VERSION="1.15.2";
 let WORDS=[];
 let WORD_LISTS=[];
 let CURRENT_LIST_ID="basis";
