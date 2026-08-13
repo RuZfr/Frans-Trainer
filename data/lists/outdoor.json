@@ -1,0 +1,165 @@
+{
+  "id": "outdoor",
+  "name": "Buiten & avontuur 🌿",
+  "description": "Natuur, dieren en buiten zijn.",
+  "level": "A1-A2",
+  "words": [
+    {
+      "fr": "la nature",
+      "nl": "de natuur",
+      "type": "noun",
+      "category": "Buiten & avontuur 🌿"
+    },
+    {
+      "fr": "la forêt",
+      "nl": "het bos",
+      "type": "noun",
+      "category": "Buiten & avontuur 🌿"
+    },
+    {
+      "fr": "l’arbre",
+      "nl": "de boom",
+      "type": "noun",
+      "category": "Buiten & avontuur 🌿"
+    },
+    {
+      "fr": "la fleur",
+      "nl": "de bloem",
+      "type": "noun",
+      "category": "Buiten & avontuur 🌿"
+    },
+    {
+      "fr": "l’herbe",
+      "nl": "het gras",
+      "type": "noun",
+      "category": "Buiten & avontuur 🌿"
+    },
+    {
+      "fr": "la rivière",
+      "nl": "de rivier",
+      "type": "noun",
+      "category": "Buiten & avontuur 🌿"
+    },
+    {
+      "fr": "le lac",
+      "nl": "het meer",
+      "type": "noun",
+      "category": "Buiten & avontuur 🌿"
+    },
+    {
+      "fr": "la colline",
+      "nl": "de heuvel",
+      "type": "noun",
+      "category": "Buiten & avontuur 🌿"
+    },
+    {
+      "fr": "le chemin",
+      "nl": "het pad",
+      "type": "noun",
+      "alts": [
+        "de weg"
+      ],
+      "category": "Buiten & avontuur 🌿"
+    },
+    {
+      "fr": "le ciel",
+      "nl": "de lucht",
+      "type": "noun",
+      "alts": [
+        "de hemel"
+      ],
+      "category": "Buiten & avontuur 🌿"
+    },
+    {
+      "fr": "le nuage",
+      "nl": "de wolk",
+      "type": "noun",
+      "category": "Buiten & avontuur 🌿"
+    },
+    {
+      "fr": "la neige",
+      "nl": "de sneeuw",
+      "type": "noun",
+      "category": "Buiten & avontuur 🌿"
+    },
+    {
+      "fr": "le temps",
+      "nl": "het weer",
+      "type": "noun",
+      "alts": [
+        "de tijd"
+      ],
+      "note": "Le temps kan zowel ‘het weer’ als ‘de tijd’ betekenen.",
+      "category": "Buiten & avontuur 🌿"
+    },
+    {
+      "fr": "l’animal",
+      "nl": "het dier",
+      "type": "noun",
+      "category": "Buiten & avontuur 🌿"
+    },
+    {
+      "fr": "le lapin",
+      "nl": "het konijn",
+      "type": "noun",
+      "category": "Buiten & avontuur 🌿"
+    },
+    {
+      "fr": "le canard",
+      "nl": "de eend",
+      "type": "noun",
+      "category": "Buiten & avontuur 🌿"
+    },
+    {
+      "fr": "la vache",
+      "nl": "de koe",
+      "type": "noun",
+      "category": "Buiten & avontuur 🌿"
+    },
+    {
+      "fr": "le mouton",
+      "nl": "het schaap",
+      "type": "noun",
+      "category": "Buiten & avontuur 🌿"
+    },
+    {
+      "fr": "l’insecte",
+      "nl": "het insect",
+      "type": "noun",
+      "category": "Buiten & avontuur 🌿"
+    },
+    {
+      "fr": "marcher dans la nature",
+      "nl": "wandelen in de natuur",
+      "type": "expression",
+      "category": "Buiten & avontuur 🌿"
+    },
+    {
+      "fr": "faire du vélo",
+      "nl": "fietsen",
+      "type": "expression",
+      "category": "Buiten & avontuur 🌿"
+    },
+    {
+      "fr": "pique-niquer",
+      "nl": "picknicken",
+      "type": "verb",
+      "category": "Buiten & avontuur 🌿"
+    },
+    {
+      "fr": "prendre l’air",
+      "nl": "een luchtje scheppen",
+      "type": "expression",
+      "alts": [
+        "naar buiten gaan"
+      ],
+      "category": "Buiten & avontuur 🌿"
+    },
+    {
+      "fr": "il neige",
+      "nl": "het sneeuwt",
+      "type": "expression",
+      "category": "Buiten & avontuur 🌿"
+    }
+  ]
+}

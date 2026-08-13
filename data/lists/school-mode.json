@@ -1,0 +1,193 @@
+{
+  "id": "school-mode",
+  "name": "School mode 🎒",
+  "description": "Vakken, toetsen en alles rond school.",
+  "level": "A1-A2",
+  "words": [
+    {
+      "fr": "la matière",
+      "nl": "het schoolvak",
+      "type": "noun",
+      "alts": [
+        "de stof",
+        "het materiaal"
+      ],
+      "note": "Op school betekent la matière vaak ‘het vak/de leerstof’; algemeen ook ‘de stof/het materiaal’.",
+      "category": "School mode 🎒"
+    },
+    {
+      "fr": "le français",
+      "nl": "het Frans",
+      "type": "noun",
+      "category": "School mode 🎒"
+    },
+    {
+      "fr": "les mathématiques",
+      "nl": "de wiskunde",
+      "type": "noun",
+      "category": "School mode 🎒"
+    },
+    {
+      "fr": "l’histoire",
+      "nl": "de geschiedenis",
+      "type": "noun",
+      "alts": [
+        "het verhaal"
+      ],
+      "note": "Als schoolvak is l’histoire ‘de geschiedenis’; in andere contexten ook ‘het verhaal’.",
+      "category": "School mode 🎒"
+    },
+    {
+      "fr": "la géographie",
+      "nl": "de aardrijkskunde",
+      "type": "noun",
+      "category": "School mode 🎒"
+    },
+    {
+      "fr": "les sciences",
+      "nl": "de wetenschappen",
+      "type": "noun",
+      "category": "School mode 🎒"
+    },
+    {
+      "fr": "l’informatique",
+      "nl": "de informatica",
+      "type": "noun",
+      "category": "School mode 🎒"
+    },
+    {
+      "fr": "les devoirs",
+      "nl": "het huiswerk",
+      "type": "noun",
+      "category": "School mode 🎒"
+    },
+    {
+      "fr": "l’exercice",
+      "nl": "de oefening",
+      "type": "noun",
+      "category": "School mode 🎒"
+    },
+    {
+      "fr": "le test",
+      "nl": "de toets",
+      "type": "noun",
+      "alts": [
+        "de test"
+      ],
+      "category": "School mode 🎒"
+    },
+    {
+      "fr": "l’examen",
+      "nl": "het examen",
+      "type": "noun",
+      "category": "School mode 🎒"
+    },
+    {
+      "fr": "la note",
+      "nl": "het cijfer",
+      "type": "noun",
+      "alts": [
+        "de score",
+        "de notitie"
+      ],
+      "note": "Op school is la note meestal ‘het cijfer’; algemeen kan het ook ‘de notitie’ betekenen.",
+      "category": "School mode 🎒"
+    },
+    {
+      "fr": "la récréation",
+      "nl": "de speeltijd",
+      "type": "noun",
+      "alts": [
+        "de pauze"
+      ],
+      "category": "School mode 🎒"
+    },
+    {
+      "fr": "la cantine",
+      "nl": "de schoolkantine",
+      "type": "noun",
+      "alts": [
+        "de kantine"
+      ],
+      "category": "School mode 🎒"
+    },
+    {
+      "fr": "la cour",
+      "nl": "de speelplaats",
+      "type": "noun",
+      "alts": [
+        "de binnenplaats"
+      ],
+      "category": "School mode 🎒"
+    },
+    {
+      "fr": "le tableau",
+      "nl": "het bord",
+      "type": "noun",
+      "alts": [
+        "het schilderij",
+        "de tabel"
+      ],
+      "note": "In de klas is le tableau ‘het bord’; algemeen kan het ook ‘het schilderij’ of ‘de tabel’ zijn.",
+      "category": "School mode 🎒"
+    },
+    {
+      "fr": "l’ordinateur",
+      "nl": "de computer",
+      "type": "noun",
+      "category": "School mode 🎒"
+    },
+    {
+      "fr": "les ciseaux",
+      "nl": "de schaar",
+      "type": "noun",
+      "category": "School mode 🎒"
+    },
+    {
+      "fr": "la colle",
+      "nl": "de lijm",
+      "type": "noun",
+      "category": "School mode 🎒"
+    },
+    {
+      "fr": "apprendre par cœur",
+      "nl": "uit het hoofd leren",
+      "type": "expression",
+      "category": "School mode 🎒"
+    },
+    {
+      "fr": "réviser",
+      "nl": "herhalen",
+      "type": "verb",
+      "alts": [
+        "studeren"
+      ],
+      "category": "School mode 🎒"
+    },
+    {
+      "fr": "réussir",
+      "nl": "slagen",
+      "type": "verb",
+      "alts": [
+        "lukken"
+      ],
+      "category": "School mode 🎒"
+    },
+    {
+      "fr": "rater",
+      "nl": "missen",
+      "type": "verb",
+      "alts": [
+        "niet slagen",
+        "zakken"
+      ],
+      "category": "School mode 🎒"
+    },
+    {
+      "fr": "être prêt",
+      "nl": "klaar zijn",
+      "type": "expression",
+      "category": "School mode 🎒"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "id": "weekend-vibes",
+  "name": "Weekend vibes 🎉",
+  "description": "Films, feestjes en vrije tijd.",
+  "level": "A1-A2",
+  "words": [
+    {
+      "fr": "le cinéma",
+      "nl": "de bioscoop",
+      "type": "noun",
+      "alts": [
+        "de cinema"
+      ],
+      "category": "Weekend vibes 🎉"
+    },
+    {
+      "fr": "le film",
+      "nl": "de film",
+      "type": "noun",
+      "category": "Weekend vibes 🎉"
+    },
+    {
+      "fr": "la série",
+      "nl": "de serie",
+      "type": "noun",
+      "category": "Weekend vibes 🎉"
+    },
+    {
+      "fr": "l’épisode",
+      "nl": "de aflevering",
+      "type": "noun",
+      "category": "Weekend vibes 🎉"
+    },
+    {
+      "fr": "le personnage",
+      "nl": "het personage",
+      "type": "noun",
+      "category": "Weekend vibes 🎉"
+    },
+    {
+      "fr": "le héros",
+      "nl": "de held",
+      "type": "noun",
+      "category": "Weekend vibes 🎉"
+    },
+    {
+      "fr": "l’acteur",
+      "nl": "de acteur",
+      "type": "noun",
+      "category": "Weekend vibes 🎉"
+    },
+    {
+      "fr": "l’actrice",
+      "nl": "de actrice",
+      "type": "noun",
+      "category": "Weekend vibes 🎉"
+    },
+    {
+      "fr": "le dessin animé",
+      "nl": "de tekenfilm",
+      "type": "noun",
+      "category": "Weekend vibes 🎉"
+    },
+    {
+      "fr": "la bande dessinée",
+      "nl": "het stripverhaal",
+      "type": "noun",
+      "alts": [
+        "de strip"
+      ],
+      "category": "Weekend vibes 🎉"
+    },
+    {
+      "fr": "la fête",
+      "nl": "het feest",
+      "type": "noun",
+      "category": "Weekend vibes 🎉"
+    },
+    {
+      "fr": "l’anniversaire",
+      "nl": "de verjaardag",
+      "type": "noun",
+      "alts": [
+        "het jubileum"
+      ],
+      "category": "Weekend vibes 🎉"
+    },
+    {
+      "fr": "le cadeau",
+      "nl": "het cadeau",
+      "type": "noun",
+      "alts": [
+        "het geschenk"
+      ],
+      "category": "Weekend vibes 🎉"
+    },
+    {
+      "fr": "le gâteau d’anniversaire",
+      "nl": "de verjaardagstaart",
+      "type": "noun",
+      "category": "Weekend vibes 🎉"
+    },
+    {
+      "fr": "s’amuser",
+      "nl": "plezier maken",
+      "type": "verb",
+      "alts": [
+        "zich amuseren"
+      ],
+      "category": "Weekend vibes 🎉"
+    },
+    {
+      "fr": "regarder un film",
+      "nl": "een film kijken",
+      "type": "expression",
+      "alts": [
+        "een film bekijken"
+      ],
+      "category": "Weekend vibes 🎉"
+    },
+    {
+      "fr": "sortir",
+      "nl": "uitgaan",
+      "type": "verb",
+      "alts": [
+        "naar buiten gaan"
+      ],
+      "category": "Weekend vibes 🎉"
+    },
+    {
+      "fr": "rester",
+      "nl": "blijven",
+      "type": "verb",
+      "category": "Weekend vibes 🎉"
+    },
+    {
+      "fr": "se reposer",
+      "nl": "rusten",
+      "type": "verb",
+      "alts": [
+        "uitrusten"
+      ],
+      "category": "Weekend vibes 🎉"
+    },
+    {
+      "fr": "se promener",
+      "nl": "wandelen",
+      "type": "verb",
+      "category": "Weekend vibes 🎉"
+    },
+    {
+      "fr": "faire la grasse matinée",
+      "nl": "uitslapen",
+      "type": "expression",
+      "category": "Weekend vibes 🎉"
+    },
+    {
+      "fr": "jouer dehors",
+      "nl": "buiten spelen",
+      "type": "expression",
+      "category": "Weekend vibes 🎉"
+    },
+    {
+      "fr": "bonne idée !",
+      "nl": "goed idee!",
+      "type": "expression",
+      "category": "Weekend vibes 🎉"
+    },
+    {
+      "fr": "à ce soir !",
+      "nl": "tot vanavond!",
+      "type": "expression",
+      "category": "Weekend vibes 🎉"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "id": "music-live",
+  "name": "Live & muziek 🎵",
+  "description": "Muziek, concerten en favoriete nummers.",
+  "level": "A1-A2",
+  "words": [
+    {
+      "fr": "la musique",
+      "nl": "de muziek",
+      "type": "noun",
+      "category": "Live & muziek 🎵"
+    },
+    {
+      "fr": "la chanson",
+      "nl": "het lied",
+      "type": "noun",
+      "alts": [
+        "het nummer",
+        "het liedje"
+      ],
+      "category": "Live & muziek 🎵"
+    },
+    {
+      "fr": "le chanteur",
+      "nl": "de zanger",
+      "type": "noun",
+      "category": "Live & muziek 🎵"
+    },
+    {
+      "fr": "la chanteuse",
+      "nl": "de zangeres",
+      "type": "noun",
+      "category": "Live & muziek 🎵"
+    },
+    {
+      "fr": "le groupe",
+      "nl": "de band",
+      "type": "noun",
+      "alts": [
+        "de groep"
+      ],
+      "category": "Live & muziek 🎵"
+    },
+    {
+      "fr": "le concert",
+      "nl": "het concert",
+      "type": "noun",
+      "category": "Live & muziek 🎵"
+    },
+    {
+      "fr": "la scène",
+      "nl": "het podium",
+      "type": "noun",
+      "alts": [
+        "het toneel",
+        "de scène"
+      ],
+      "category": "Live & muziek 🎵"
+    },
+    {
+      "fr": "le public",
+      "nl": "het publiek",
+      "type": "noun",
+      "category": "Live & muziek 🎵"
+    },
+    {
+      "fr": "le billet",
+      "nl": "het ticket",
+      "type": "noun",
+      "alts": [
+        "het kaartje"
+      ],
+      "category": "Live & muziek 🎵"
+    },
+    {
+      "fr": "le festival",
+      "nl": "het festival",
+      "type": "noun",
+      "category": "Live & muziek 🎵"
+    },
+    {
+      "fr": "la guitare",
+      "nl": "de gitaar",
+      "type": "noun",
+      "category": "Live & muziek 🎵"
+    },
+    {
+      "fr": "le piano",
+      "nl": "de piano",
+      "type": "noun",
+      "category": "Live & muziek 🎵"
+    },
+    {
+      "fr": "la batterie",
+      "nl": "het drumstel",
+      "type": "noun",
+      "alts": [
+        "de drums",
+        "de batterij"
+      ],
+      "note": "In muziek is la batterie ‘het drumstel’; het woord kan ook ‘de batterij’ betekenen.",
+      "category": "Live & muziek 🎵"
+    },
+    {
+      "fr": "le rythme",
+      "nl": "het ritme",
+      "type": "noun",
+      "category": "Live & muziek 🎵"
+    },
+    {
+      "fr": "la voix",
+      "nl": "de stem",
+      "type": "noun",
+      "category": "Live & muziek 🎵"
+    },
+    {
+      "fr": "le son",
+      "nl": "het geluid",
+      "type": "noun",
+      "alts": [
+        "de klank"
+      ],
+      "category": "Live & muziek 🎵"
+    },
+    {
+      "fr": "danser",
+      "nl": "dansen",
+      "type": "verb",
+      "category": "Live & muziek 🎵"
+    },
+    {
+      "fr": "chanter",
+      "nl": "zingen",
+      "type": "verb",
+      "category": "Live & muziek 🎵"
+    },
+    {
+      "fr": "applaudir",
+      "nl": "applaudisseren",
+      "type": "verb",
+      "alts": [
+        "klappen"
+      ],
+      "category": "Live & muziek 🎵"
+    },
+    {
+      "fr": "répéter",
+      "nl": "repeteren",
+      "type": "verb",
+      "alts": [
+        "herhalen"
+      ],
+      "category": "Live & muziek 🎵"
+    },
+    {
+      "fr": "monter sur scène",
+      "nl": "het podium opgaan",
+      "type": "expression",
+      "category": "Live & muziek 🎵"
+    },
+    {
+      "fr": "écouter de la musique",
+      "nl": "naar muziek luisteren",
+      "type": "expression",
+      "category": "Live & muziek 🎵"
+    },
+    {
+      "fr": "ma chanson préférée",
+      "nl": "mijn favoriete lied",
+      "type": "expression",
+      "alts": [
+        "mijn favoriete nummer"
+      ],
+      "category": "Live & muziek 🎵"
+    },
+    {
+      "fr": "c’est génial !",
+      "nl": "dat is geweldig!",
+      "type": "expression",
+      "alts": [
+        "dat is super!"
+      ],
+      "category": "Live & muziek 🎵"
+    }
+  ]
+}
