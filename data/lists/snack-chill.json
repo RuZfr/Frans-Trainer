@@ -1,0 +1,182 @@
+{
+  "id": "snack-chill",
+  "name": "Snack & chill 🍕",
+  "description": "Eten, drinken en iets lekkers bestellen.",
+  "level": "A1-A2",
+  "words": [
+    {
+      "fr": "la pizza",
+      "nl": "de pizza",
+      "type": "noun",
+      "category": "Snack & chill 🍕"
+    },
+    {
+      "fr": "le hamburger",
+      "nl": "de hamburger",
+      "type": "noun",
+      "category": "Snack & chill 🍕"
+    },
+    {
+      "fr": "les frites",
+      "nl": "de frieten",
+      "type": "noun",
+      "alts": [
+        "de frietjes"
+      ],
+      "category": "Snack & chill 🍕"
+    },
+    {
+      "fr": "le sandwich",
+      "nl": "de sandwich",
+      "type": "noun",
+      "alts": [
+        "het broodje"
+      ],
+      "category": "Snack & chill 🍕"
+    },
+    {
+      "fr": "les pâtes",
+      "nl": "de pasta",
+      "type": "noun",
+      "category": "Snack & chill 🍕"
+    },
+    {
+      "fr": "le riz",
+      "nl": "de rijst",
+      "type": "noun",
+      "category": "Snack & chill 🍕"
+    },
+    {
+      "fr": "la soupe",
+      "nl": "de soep",
+      "type": "noun",
+      "category": "Snack & chill 🍕"
+    },
+    {
+      "fr": "la salade",
+      "nl": "de salade",
+      "type": "noun",
+      "category": "Snack & chill 🍕"
+    },
+    {
+      "fr": "le poulet",
+      "nl": "de kip",
+      "type": "noun",
+      "alts": [
+        "het kippenvlees"
+      ],
+      "category": "Snack & chill 🍕"
+    },
+    {
+      "fr": "l’œuf",
+      "nl": "het ei",
+      "type": "noun",
+      "category": "Snack & chill 🍕"
+    },
+    {
+      "fr": "le chocolat",
+      "nl": "de chocolade",
+      "type": "noun",
+      "category": "Snack & chill 🍕"
+    },
+    {
+      "fr": "la glace",
+      "nl": "het ijs",
+      "type": "noun",
+      "alts": [
+        "het roomijs",
+        "de spiegel"
+      ],
+      "note": "Als eten is la glace ‘het ijs’; het woord kan ook ‘de spiegel’ betekenen.",
+      "category": "Snack & chill 🍕"
+    },
+    {
+      "fr": "le bonbon",
+      "nl": "het snoepje",
+      "type": "noun",
+      "alts": [
+        "het snoep"
+      ],
+      "category": "Snack & chill 🍕"
+    },
+    {
+      "fr": "le jus",
+      "nl": "het sap",
+      "type": "noun",
+      "category": "Snack & chill 🍕"
+    },
+    {
+      "fr": "le soda",
+      "nl": "de frisdrank",
+      "type": "noun",
+      "category": "Snack & chill 🍕"
+    },
+    {
+      "fr": "le café",
+      "nl": "de koffie",
+      "type": "noun",
+      "alts": [
+        "het café"
+      ],
+      "note": "Le café kan zowel ‘de koffie’ als ‘het café’ betekenen.",
+      "category": "Snack & chill 🍕"
+    },
+    {
+      "fr": "le thé",
+      "nl": "de thee",
+      "type": "noun",
+      "category": "Snack & chill 🍕"
+    },
+    {
+      "fr": "avoir faim",
+      "nl": "honger hebben",
+      "type": "expression",
+      "category": "Snack & chill 🍕"
+    },
+    {
+      "fr": "avoir soif",
+      "nl": "dorst hebben",
+      "type": "expression",
+      "category": "Snack & chill 🍕"
+    },
+    {
+      "fr": "délicieux",
+      "nl": "heerlijk",
+      "type": "adjective",
+      "alts": [
+        "lekker"
+      ],
+      "category": "Snack & chill 🍕"
+    },
+    {
+      "fr": "sucré",
+      "nl": "zoet",
+      "type": "adjective",
+      "alts": [
+        "gesuikerd"
+      ],
+      "category": "Snack & chill 🍕"
+    },
+    {
+      "fr": "salé",
+      "nl": "zout",
+      "type": "adjective",
+      "alts": [
+        "hartig"
+      ],
+      "category": "Snack & chill 🍕"
+    },
+    {
+      "fr": "commander",
+      "nl": "bestellen",
+      "type": "verb",
+      "category": "Snack & chill 🍕"
+    },
+    {
+      "fr": "l’addition",
+      "nl": "de rekening",
+      "type": "noun",
+      "category": "Snack & chill 🍕"
+    }
+  ]
+}

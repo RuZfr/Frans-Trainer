@@ -47,3 +47,38 @@ De oefenlogica hoeft hiervoor niet aangepast te worden.
 
 Open de map `FransTrainer` zelf in Visual Studio Code en start `index.html` met **Go Live**.
 Op localhost/127.0.0.1 verwijdert de app automatisch oude service workers en caches.
+
+
+## Woordenbankkwaliteit
+
+Zie `WORDLIST_REVIEW.md` voor de inhoudelijke controle en antwoordregels van de huidige basiswoordenbank.
+
+
+## ThemaBoost v1.10.0
+
+14 extra woordenlijsten met 336 nieuwe leeritems:
+
+- Game on 🎮 — Gamen, winnen en online spelen.
+- Sport & actie ⚽ — Scoren, trainen en supporteren.
+- Live & muziek 🎵 — Muziek, concerten en favoriete nummers.
+- Mijn crew 👯 — Vrienden, afspreken en samen plezier maken.
+- School mode 🎒 — Vakken, toetsen en alles rond school.
+- Snack & chill 🍕 — Eten, drinken en iets lekkers bestellen.
+- Style check 👟 — Kleding, sneakers en shoppen.
+- Online 📱 — Smartphone, apps en berichten.
+- Op pad 🚲 — Onderweg, in de stad en de weg vinden.
+- Weekend vibes 🎉 — Films, feestjes en vrije tijd.
+- Thuis chillen 🛋️ — Mijn kamer, dagelijkse dingen en relaxen.
+- Vakantie mode ✈️ — Reizen, weer en vakantiegevoel.
+- Fit & gezond 💪 — Je goed voelen, bewegen en gezond blijven.
+- Buiten & avontuur 🌿 — Natuur, dieren en buiten zijn.
+
+
+## v1.11.0 — categorieën en eigen woordenlijsten
+
+- Kies op het oefenscherm een woordenlijst en daarbinnen eventueel één categorie.
+- Importeer via ⚙️ **Instellingen** een JSON- of CSV-bestand.
+- Ondersteunde velden: `fr`, `nl`, `alts`, `frAlts`, `category`, `type`, `note`.
+- Voor zelfstandige naamwoorden is `type=noun` aanbevolen; de import waarschuwt dan wanneer een Frans of Nederlands lidwoord ontbreekt.
+- Eigen lijsten worden alleen lokaal in de browser opgeslagen.
+- Een voorbeeld staat in `data/templates/woordenlijst-voorbeeld.csv`.

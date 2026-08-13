@@ -4,6 +4,7 @@ function loadState(){
     direction:"fr-nl",
     wordListId:"basis",
     exerciseMode:"cards",
+    category:"all",
     dark:false,
     hardOnly:false,
     difficult:[],
@@ -11,7 +12,14 @@ function loadState(){
     sessionSeen:0,
     sessionKnown:0
   };
-  try{return {...defaults,...JSON.parse(localStorage.getItem(KEY)||"{}")}}
-  catch{return defaults}
+  try{
+    const saved=JSON.parse(localStorage.getItem(KEY)||"{}");
+    return {...defaults,...saved,sessionSeen:0,sessionKnown:0};
+  }catch{
+    return defaults;
+  }
 }
-function saveState(state){localStorage.setItem(KEY,JSON.stringify(state))}
+function saveState(state){
+  const {sessionSeen,sessionKnown,...persistent}=state;
+  localStorage.setItem(KEY,JSON.stringify(persistent));
+}

@@ -4,5 +4,89 @@
     "name": "Basiswoordenschat",
     "file": "basis.json",
     "description": "Basiswoorden voor dagelijks Frans."
+  },
+  {
+    "id": "game-on",
+    "name": "Game on 🎮",
+    "file": "game-on.json",
+    "description": "Gamen, winnen en online spelen."
+  },
+  {
+    "id": "sport-action",
+    "name": "Sport & actie ⚽",
+    "file": "sport-action.json",
+    "description": "Scoren, trainen en supporteren."
+  },
+  {
+    "id": "music-live",
+    "name": "Live & muziek 🎵",
+    "file": "music-live.json",
+    "description": "Muziek, concerten en favoriete nummers."
+  },
+  {
+    "id": "my-crew",
+    "name": "Mijn crew 👯",
+    "file": "my-crew.json",
+    "description": "Vrienden, afspreken en samen plezier maken."
+  },
+  {
+    "id": "school-mode",
+    "name": "School mode 🎒",
+    "file": "school-mode.json",
+    "description": "Vakken, toetsen en alles rond school."
+  },
+  {
+    "id": "snack-chill",
+    "name": "Snack & chill 🍕",
+    "file": "snack-chill.json",
+    "description": "Eten, drinken en iets lekkers bestellen."
+  },
+  {
+    "id": "style-check",
+    "name": "Style check 👟",
+    "file": "style-check.json",
+    "description": "Kleding, sneakers en shoppen."
+  },
+  {
+    "id": "online",
+    "name": "Online 📱",
+    "file": "online.json",
+    "description": "Smartphone, apps en berichten."
+  },
+  {
+    "id": "on-the-go",
+    "name": "Op pad 🚲",
+    "file": "on-the-go.json",
+    "description": "Onderweg, in de stad en de weg vinden."
+  },
+  {
+    "id": "weekend-vibes",
+    "name": "Weekend vibes 🎉",
+    "file": "weekend-vibes.json",
+    "description": "Films, feestjes en vrije tijd."
+  },
+  {
+    "id": "home-chill",
+    "name": "Thuis chillen 🛋️",
+    "file": "home-chill.json",
+    "description": "Mijn kamer, dagelijkse dingen en relaxen."
+  },
+  {
+    "id": "holiday-mode",
+    "name": "Vakantie mode ✈️",
+    "file": "holiday-mode.json",
+    "description": "Reizen, weer en vakantiegevoel."
+  },
+  {
+    "id": "fit-healthy",
+    "name": "Fit & gezond 💪",
+    "file": "fit-healthy.json",
+    "description": "Je goed voelen, bewegen en gezond blijven."
+  },
+  {
+    "id": "outdoor",
+    "name": "Buiten & avontuur 🌿",
+    "file": "outdoor.json",
+    "description": "Natuur, dieren en buiten zijn."
   }
 ]

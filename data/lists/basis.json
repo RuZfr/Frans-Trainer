@@ -18,7 +18,9 @@
       "category": "Begroetingen",
       "type": "expression",
       "alts": [
-        "dag"
+        "dag",
+        "hallo",
+        "doei"
       ]
     },
     {
@@ -27,7 +29,9 @@
       "category": "Begroetingen",
       "type": "expression",
       "alts": [
-        "dag"
+        "dag",
+        "tot weerziens",
+        "vaarwel"
       ]
     },
     {
@@ -37,7 +41,9 @@
       "type": "expression",
       "alts": [
         "bedankt",
-        "dank u"
+        "dank u",
+        "dankjewel",
+        "dank u wel"
       ]
     },
     {
@@ -73,7 +79,10 @@
       "category": "Begroetingen",
       "type": "expression",
       "alts": [
-        "excuseer mij"
+        "excuseer mij",
+        "excuseer me",
+        "excuseert u mij",
+        "sorry"
       ]
     },
     {
@@ -89,7 +98,10 @@
       "fr": "bien",
       "nl": "goed",
       "category": "Basiswoorden",
-      "type": "adverb"
+      "type": "adverb",
+      "alts": [
+        "prima"
+      ]
     },
     {
       "fr": "mal",
@@ -135,7 +147,10 @@
       "fr": "dire",
       "nl": "zeggen",
       "category": "Werkwoorden",
-      "type": "verb"
+      "type": "verb",
+      "alts": [
+        "vertellen"
+      ]
     },
     {
       "fr": "parler",
@@ -150,13 +165,20 @@
       "fr": "écouter",
       "nl": "luisteren",
       "category": "Werkwoorden",
-      "type": "verb"
+      "type": "verb",
+      "alts": [
+        "luisteren naar"
+      ]
     },
     {
       "fr": "regarder",
       "nl": "kijken",
       "category": "Werkwoorden",
-      "type": "verb"
+      "type": "verb",
+      "alts": [
+        "kijken naar",
+        "bekijken"
+      ]
     },
     {
       "fr": "voir",
@@ -174,13 +196,21 @@
       "fr": "comprendre",
       "nl": "begrijpen",
       "category": "Werkwoorden",
-      "type": "verb"
+      "type": "verb",
+      "alts": [
+        "snappen",
+        "verstaan"
+      ]
     },
     {
       "fr": "apprendre",
       "nl": "leren",
       "category": "Werkwoorden",
-      "type": "verb"
+      "type": "verb",
+      "alts": [
+        "aanleren"
+      ],
+      "note": "Betekent meestal “leren”; in sommige constructies ook “iemand iets leren/aanleren”."
     },
     {
       "fr": "lire",
@@ -228,7 +258,10 @@
       "fr": "habiter",
       "nl": "wonen",
       "category": "Werkwoorden",
-      "type": "verb"
+      "type": "verb",
+      "alts": [
+        "bewonen"
+      ]
     },
     {
       "fr": "aimer",
@@ -236,8 +269,12 @@
       "category": "Werkwoorden",
       "type": "verb",
       "alts": [
-        "graag hebben"
-      ]
+        "graag hebben",
+        "leuk vinden",
+        "liefhebben",
+        "graag zien"
+      ],
+      "note": "Kan afhankelijk van de context “houden van”, “leuk vinden” of sterker “liefhebben” betekenen."
     },
     {
       "fr": "adorer",
@@ -245,7 +282,8 @@
       "category": "Werkwoorden",
       "type": "verb",
       "alts": [
-        "heel graag hebben"
+        "heel graag hebben",
+        "gek zijn op"
       ]
     },
     {
@@ -270,7 +308,11 @@
       "fr": "savoir",
       "nl": "weten",
       "category": "Werkwoorden",
-      "type": "verb"
+      "type": "verb",
+      "alts": [
+        "kunnen"
+      ],
+      "note": "Hoofdvertaling is “weten”. Voor een aangeleerde vaardigheid kan savoir ook “kunnen” betekenen, bv. savoir nager."
     },
     {
       "fr": "connaître",
@@ -282,13 +324,19 @@
       "fr": "prendre",
       "nl": "nemen",
       "category": "Werkwoorden",
-      "type": "verb"
+      "type": "verb",
+      "alts": [
+        "pakken"
+      ]
     },
     {
       "fr": "donner",
       "nl": "geven",
       "category": "Werkwoorden",
-      "type": "verb"
+      "type": "verb",
+      "alts": [
+        "schenken"
+      ]
     },
     {
       "fr": "mettre",
@@ -297,9 +345,13 @@
       "type": "verb",
       "alts": [
         "leggen",
-        "aantrekken"
+        "aantrekken",
+        "plaatsen",
+        "aandoen",
+        "neerzetten",
+        "neerleggen"
       ],
-      "note": "De vertaling hangt af van de context."
+      "note": "Kan o.a. “zetten”, “leggen”, “plaatsen” of bij kleding “aantrekken/aandoen” betekenen."
     },
     {
       "fr": "enlever",
@@ -309,21 +361,32 @@
       "alts": [
         "wegnemen",
         "uitdoen",
-        "uittrekken"
+        "uittrekken",
+        "weghalen",
+        "afnemen",
+        "afdoen",
+        "ontvoeren"
       ],
-      "note": "Bij kleding betekent dit vaak “uitdoen” of “uittrekken”."
+      "note": "Kan o.a. “verwijderen/wegnemen”, bij kleding “uitdoen/uittrekken” en bij personen “ontvoeren” betekenen."
     },
     {
       "fr": "ouvrir",
       "nl": "openen",
       "category": "Werkwoorden",
-      "type": "verb"
+      "type": "verb",
+      "alts": [
+        "openmaken"
+      ]
     },
     {
       "fr": "fermer",
       "nl": "sluiten",
       "category": "Werkwoorden",
-      "type": "verb"
+      "type": "verb",
+      "alts": [
+        "dichtdoen",
+        "dichtmaken"
+      ]
     },
     {
       "fr": "commencer",
@@ -337,14 +400,19 @@
       "category": "Werkwoorden",
       "type": "verb",
       "alts": [
-        "afmaken"
+        "afmaken",
+        "beëindigen",
+        "afronden"
       ]
     },
     {
       "fr": "chercher",
       "nl": "zoeken",
       "category": "Werkwoorden",
-      "type": "verb"
+      "type": "verb",
+      "alts": [
+        "zoeken naar"
+      ]
     },
     {
       "fr": "trouver",
@@ -356,13 +424,21 @@
       "fr": "demander",
       "nl": "vragen",
       "category": "Werkwoorden",
-      "type": "verb"
+      "type": "verb",
+      "alts": [
+        "verzoeken",
+        "vragen om"
+      ]
     },
     {
       "fr": "répondre",
       "nl": "antwoorden",
       "category": "Werkwoorden",
-      "type": "verb"
+      "type": "verb",
+      "alts": [
+        "beantwoorden",
+        "reageren"
+      ]
     },
     {
       "fr": "acheter",
@@ -374,7 +450,12 @@
       "fr": "porter",
       "nl": "dragen",
       "category": "Werkwoorden",
-      "type": "verb"
+      "type": "verb",
+      "alts": [
+        "aanhebben",
+        "meedragen"
+      ],
+      "note": "Kan “dragen” betekenen in de zin van iets meedragen of kleding aanhebben."
     },
     {
       "fr": "courir",
@@ -382,7 +463,8 @@
       "category": "Werkwoorden",
       "type": "verb",
       "alts": [
-        "lopen"
+        "lopen",
+        "hardlopen"
       ]
     },
     {
@@ -391,62 +473,48 @@
       "category": "Werkwoorden",
       "type": "verb",
       "alts": [
-        "wandelen"
-      ]
+        "wandelen",
+        "stappen",
+        "werken",
+        "functioneren"
+      ],
+      "note": "Betekent vaak “lopen/wandelen”; bij een toestel of systeem kan het ook “werken/functioneren” betekenen."
     },
     {
       "fr": "la famille",
       "nl": "de familie",
       "category": "Familie",
-      "type": "noun",
-      "alts": [
-        "familie"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la mère",
       "nl": "de moeder",
       "category": "Familie",
-      "type": "noun",
-      "alts": [
-        "moeder"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le père",
       "nl": "de vader",
       "category": "Familie",
-      "type": "noun",
-      "alts": [
-        "vader"
-      ]
+      "type": "noun"
     },
     {
       "fr": "les parents",
       "nl": "de ouders",
       "category": "Familie",
-      "type": "noun",
-      "alts": [
-        "ouders"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la sœur",
       "nl": "de zus",
       "category": "Familie",
-      "type": "noun",
-      "alts": [
-        "zus"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le frère",
       "nl": "de broer",
       "category": "Familie",
-      "type": "noun",
-      "alts": [
-        "broer"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la grand-mère",
@@ -454,9 +522,7 @@
       "category": "Familie",
       "type": "noun",
       "alts": [
-        "grootmoeder",
-        "de oma",
-        "oma"
+        "de oma"
       ]
     },
     {
@@ -465,55 +531,38 @@
       "category": "Familie",
       "type": "noun",
       "alts": [
-        "grootvader",
-        "de opa",
-        "opa"
+        "de opa"
       ]
     },
     {
       "fr": "le bébé",
       "nl": "de baby",
       "category": "Familie",
-      "type": "noun",
-      "alts": [
-        "baby"
-      ]
+      "type": "noun"
     },
     {
       "fr": "l’enfant",
       "nl": "het kind",
       "category": "Familie",
-      "type": "noun",
-      "alts": [
-        "kind"
-      ]
+      "type": "noun"
     },
     {
       "fr": "l’ami",
       "nl": "de vriend",
       "category": "Mensen",
-      "type": "noun",
-      "alts": [
-        "vriend"
-      ]
+      "type": "noun"
     },
     {
       "fr": "l’amie",
       "nl": "de vriendin",
       "category": "Mensen",
-      "type": "noun",
-      "alts": [
-        "vriendin"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le garçon",
       "nl": "de jongen",
       "category": "Mensen",
-      "type": "noun",
-      "alts": [
-        "jongen"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la fille",
@@ -521,37 +570,26 @@
       "category": "Mensen",
       "type": "noun",
       "alts": [
-        "meisje",
-        "de dochter",
-        "dochter"
+        "de dochter"
       ]
     },
     {
       "fr": "l’homme",
       "nl": "de man",
       "category": "Mensen",
-      "type": "noun",
-      "alts": [
-        "man"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la femme",
       "nl": "de vrouw",
       "category": "Mensen",
-      "type": "noun",
-      "alts": [
-        "vrouw"
-      ]
+      "type": "noun"
     },
     {
       "fr": "l’école",
       "nl": "de school",
       "category": "School",
-      "type": "noun",
-      "alts": [
-        "school"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la classe",
@@ -559,7 +597,7 @@
       "category": "School",
       "type": "noun",
       "alts": [
-        "klas"
+        "het klaslokaal"
       ]
     },
     {
@@ -568,30 +606,21 @@
       "category": "School",
       "type": "noun",
       "alts": [
-        "leerkracht",
         "de leraar",
-        "leraar",
-        "de docent",
-        "docent"
+        "de docent"
       ]
     },
     {
       "fr": "l’élève",
       "nl": "de leerling",
       "category": "School",
-      "type": "noun",
-      "alts": [
-        "leerling"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le livre",
       "nl": "het boek",
       "category": "School",
-      "type": "noun",
-      "alts": [
-        "boek"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le cahier",
@@ -599,26 +628,20 @@
       "category": "School",
       "type": "noun",
       "alts": [
-        "schrift"
+        "het schriftje"
       ]
     },
     {
       "fr": "le crayon",
       "nl": "het potlood",
       "category": "School",
-      "type": "noun",
-      "alts": [
-        "potlood"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le stylo",
       "nl": "de pen",
       "category": "School",
-      "type": "noun",
-      "alts": [
-        "pen"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la gomme",
@@ -626,9 +649,7 @@
       "category": "School",
       "type": "noun",
       "alts": [
-        "gom",
-        "de gum",
-        "gum"
+        "de gum"
       ]
     },
     {
@@ -637,8 +658,9 @@
       "category": "School",
       "type": "noun",
       "alts": [
-        "liniaal"
-      ]
+        "de regel"
+      ],
+      "note": "Kan “de liniaal” betekenen, maar ook “de regel” (bv. een afspraak of voorschrift)."
     },
     {
       "fr": "le sac",
@@ -646,73 +668,54 @@
       "category": "School",
       "type": "noun",
       "alts": [
-        "tas"
+        "de zak"
       ]
     },
     {
       "fr": "la question",
       "nl": "de vraag",
       "category": "School",
-      "type": "noun",
-      "alts": [
-        "vraag"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la réponse",
       "nl": "het antwoord",
       "category": "School",
-      "type": "noun",
-      "alts": [
-        "antwoord"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la maison",
       "nl": "het huis",
       "category": "Huis",
-      "type": "noun",
-      "alts": [
-        "huis"
-      ]
+      "type": "noun"
     },
     {
       "fr": "l’appartement",
       "nl": "het appartement",
       "category": "Huis",
-      "type": "noun",
-      "alts": [
-        "appartement"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la chambre",
-      "nl": "de slaapkamer",
+      "nl": "de kamer",
       "category": "Huis",
       "type": "noun",
       "alts": [
-        "slaapkamer",
-        "de kamer",
-        "kamer"
-      ]
+        "de slaapkamer"
+      ],
+      "note": "Betekent “kamer”; in een woning gaat het heel vaak om een slaapkamer."
     },
     {
       "fr": "la cuisine",
       "nl": "de keuken",
       "category": "Huis",
-      "type": "noun",
-      "alts": [
-        "keuken"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la salle de bains",
       "nl": "de badkamer",
       "category": "Huis",
-      "type": "noun",
-      "alts": [
-        "badkamer"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le salon",
@@ -720,17 +723,15 @@
       "category": "Huis",
       "type": "noun",
       "alts": [
-        "woonkamer"
+        "de salon",
+        "de zitkamer"
       ]
     },
     {
       "fr": "la porte",
       "nl": "de deur",
       "category": "Huis",
-      "type": "noun",
-      "alts": [
-        "deur"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la fenêtre",
@@ -738,109 +739,74 @@
       "category": "Huis",
       "type": "noun",
       "alts": [
-        "raam",
-        "het venster",
-        "venster"
+        "het venster"
       ]
     },
     {
       "fr": "la table",
       "nl": "de tafel",
       "category": "Huis",
-      "type": "noun",
-      "alts": [
-        "tafel"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la chaise",
       "nl": "de stoel",
       "category": "Huis",
-      "type": "noun",
-      "alts": [
-        "stoel"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le lit",
       "nl": "het bed",
       "category": "Huis",
-      "type": "noun",
-      "alts": [
-        "bed"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le jardin",
       "nl": "de tuin",
       "category": "Huis",
-      "type": "noun",
-      "alts": [
-        "tuin"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le pain",
       "nl": "het brood",
       "category": "Eten en drinken",
-      "type": "noun",
-      "alts": [
-        "brood"
-      ]
+      "type": "noun"
     },
     {
       "fr": "l’eau",
       "nl": "het water",
       "category": "Eten en drinken",
-      "type": "noun",
-      "alts": [
-        "water"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le lait",
       "nl": "de melk",
       "category": "Eten en drinken",
-      "type": "noun",
-      "alts": [
-        "melk"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le fromage",
       "nl": "de kaas",
       "category": "Eten en drinken",
-      "type": "noun",
-      "alts": [
-        "kaas"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la pomme",
       "nl": "de appel",
       "category": "Eten en drinken",
-      "type": "noun",
-      "alts": [
-        "appel"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la banane",
       "nl": "de banaan",
       "category": "Eten en drinken",
-      "type": "noun",
-      "alts": [
-        "banaan"
-      ]
+      "type": "noun"
     },
     {
       "fr": "l’orange",
       "nl": "de sinaasappel",
       "category": "Eten en drinken",
-      "type": "noun",
-      "alts": [
-        "sinaasappel"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le fruit",
@@ -848,35 +814,26 @@
       "category": "Eten en drinken",
       "type": "noun",
       "alts": [
-        "fruit"
+        "de vrucht"
       ]
     },
     {
       "fr": "le légume",
       "nl": "de groente",
       "category": "Eten en drinken",
-      "type": "noun",
-      "alts": [
-        "groente"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la viande",
       "nl": "het vlees",
       "category": "Eten en drinken",
-      "type": "noun",
-      "alts": [
-        "vlees"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le poisson",
       "nl": "de vis",
       "category": "Eten en drinken",
-      "type": "noun",
-      "alts": [
-        "vis"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le gâteau",
@@ -884,19 +841,16 @@
       "category": "Eten en drinken",
       "type": "noun",
       "alts": [
-        "taart",
         "de cake",
-        "cake"
-      ]
+        "het gebak"
+      ],
+      "note": "Algemene term voor gebak; afhankelijk van het soort kan “taart”, “cake” of “gebak” de beste vertaling zijn."
     },
     {
       "fr": "le petit déjeuner",
       "nl": "het ontbijt",
       "category": "Eten en drinken",
-      "type": "noun",
-      "alts": [
-        "ontbijt"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le déjeuner",
@@ -904,10 +858,10 @@
       "category": "Eten en drinken",
       "type": "noun",
       "alts": [
-        "lunch",
         "het middagmaal",
-        "middagmaal"
-      ]
+        "het ontbijt"
+      ],
+      "note": "In standaard Frans meestal “lunch/middagmaal”. In delen van België, Zwitserland en Québec kan déjeuner ook “ontbijt” betekenen."
     },
     {
       "fr": "le dîner",
@@ -915,65 +869,48 @@
       "category": "Eten en drinken",
       "type": "noun",
       "alts": [
-        "avondeten",
         "het diner",
-        "diner"
-      ]
+        "het middagmaal",
+        "de lunch"
+      ],
+      "note": "In standaard Frans meestal “avondeten”. In België, Zwitserland en Québec kan dîner ook het middagmaal zijn."
     },
     {
       "fr": "la ville",
       "nl": "de stad",
       "category": "Plaatsen",
-      "type": "noun",
-      "alts": [
-        "stad"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la rue",
       "nl": "de straat",
       "category": "Plaatsen",
-      "type": "noun",
-      "alts": [
-        "straat"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le magasin",
       "nl": "de winkel",
       "category": "Plaatsen",
-      "type": "noun",
-      "alts": [
-        "winkel"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le supermarché",
       "nl": "de supermarkt",
       "category": "Plaatsen",
-      "type": "noun",
-      "alts": [
-        "supermarkt"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la boulangerie",
       "nl": "de bakkerij",
       "category": "Plaatsen",
       "type": "noun",
-      "alts": [
-        "bakkerij"
-      ],
       "note": "De persoon is “le boulanger”."
     },
     {
       "fr": "la pharmacie",
       "nl": "de apotheek",
       "category": "Plaatsen",
-      "type": "noun",
-      "alts": [
-        "apotheek"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la gare",
@@ -981,44 +918,32 @@
       "category": "Vervoer",
       "type": "noun",
       "alts": [
-        "station"
+        "het treinstation"
       ]
     },
     {
       "fr": "la voiture",
       "nl": "de auto",
       "category": "Vervoer",
-      "type": "noun",
-      "alts": [
-        "auto"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le vélo",
       "nl": "de fiets",
       "category": "Vervoer",
-      "type": "noun",
-      "alts": [
-        "fiets"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le bus",
       "nl": "de bus",
       "category": "Vervoer",
-      "type": "noun",
-      "alts": [
-        "bus"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le train",
       "nl": "de trein",
       "category": "Vervoer",
-      "type": "noun",
-      "alts": [
-        "trein"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la route",
@@ -1026,71 +951,50 @@
       "category": "Vervoer",
       "type": "noun",
       "alts": [
-        "weg"
+        "de route"
       ]
     },
     {
       "fr": "le parc",
       "nl": "het park",
       "category": "Plaatsen",
-      "type": "noun",
-      "alts": [
-        "park"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la tête",
       "nl": "het hoofd",
       "category": "Lichaam",
-      "type": "noun",
-      "alts": [
-        "hoofd"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la main",
       "nl": "de hand",
       "category": "Lichaam",
-      "type": "noun",
-      "alts": [
-        "hand"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le pied",
       "nl": "de voet",
       "category": "Lichaam",
-      "type": "noun",
-      "alts": [
-        "voet"
-      ]
+      "type": "noun"
     },
     {
       "fr": "les yeux",
       "nl": "de ogen",
       "category": "Lichaam",
-      "type": "noun",
-      "alts": [
-        "ogen"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le nez",
       "nl": "de neus",
       "category": "Lichaam",
-      "type": "noun",
-      "alts": [
-        "neus"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la bouche",
       "nl": "de mond",
       "category": "Lichaam",
-      "type": "noun",
-      "alts": [
-        "mond"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le manteau",
@@ -1098,17 +1002,14 @@
       "category": "Kleding",
       "type": "noun",
       "alts": [
-        "jas"
+        "de mantel"
       ]
     },
     {
       "fr": "le pantalon",
       "nl": "de broek",
       "category": "Kleding",
-      "type": "noun",
-      "alts": [
-        "broek"
-      ]
+      "type": "noun"
     },
     {
       "fr": "la robe",
@@ -1116,53 +1017,38 @@
       "category": "Kleding",
       "type": "noun",
       "alts": [
-        "jurk"
+        "het kleedje"
       ]
     },
     {
       "fr": "la chaussure",
       "nl": "de schoen",
       "category": "Kleding",
-      "type": "noun",
-      "alts": [
-        "schoen"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le chat",
       "nl": "de kat",
       "category": "Dieren",
-      "type": "noun",
-      "alts": [
-        "kat"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le chien",
       "nl": "de hond",
       "category": "Dieren",
-      "type": "noun",
-      "alts": [
-        "hond"
-      ]
+      "type": "noun"
     },
     {
       "fr": "l’oiseau",
       "nl": "de vogel",
       "category": "Dieren",
-      "type": "noun",
-      "alts": [
-        "vogel"
-      ]
+      "type": "noun"
     },
     {
       "fr": "le cheval",
       "nl": "het paard",
       "category": "Dieren",
-      "type": "noun",
-      "alts": [
-        "paard"
-      ]
+      "type": "noun"
     },
     {
       "fr": "rouge",
@@ -1216,7 +1102,8 @@
       "fr": "hier",
       "nl": "gisteren",
       "category": "Tijd",
-      "type": "adverb"
+      "type": "adverb",
+      "note": "Frans hier betekent “gisteren”; niet verwarren met het Nederlandse woord “hier”."
     },
     {
       "fr": "le matin",
@@ -1224,8 +1111,11 @@
       "category": "Tijd",
       "type": "noun",
       "alts": [
-        "ochtend"
-      ]
+        "'s morgens",
+        "'s ochtends",
+        "in de ochtend"
+      ],
+      "note": "Als tijdsbepaling betekent le matin vaak “’s morgens/’s ochtends”; als zelfstandig naamwoord “de ochtend”."
     },
     {
       "fr": "le soir",
@@ -1233,8 +1123,10 @@
       "category": "Tijd",
       "type": "noun",
       "alts": [
-        "avond"
-      ]
+        "'s avonds",
+        "in de avond"
+      ],
+      "note": "Kan “de avond” betekenen of als tijdsbepaling “’s avonds”."
     },
     {
       "fr": "la nuit",
@@ -1242,14 +1134,20 @@
       "category": "Tijd",
       "type": "noun",
       "alts": [
-        "nacht"
-      ]
+        "'s nachts",
+        "in de nacht"
+      ],
+      "note": "Kan “de nacht” betekenen of als tijdsbepaling “’s nachts”."
     },
     {
       "fr": "grand",
       "nl": "groot",
       "category": "Eigenschappen",
-      "type": "adjective"
+      "type": "adjective",
+      "alts": [
+        "lang"
+      ],
+      "note": "Betekent “groot”; bij personen kan in het Nederlands ook “lang” natuurlijker zijn."
     },
     {
       "fr": "petit",
@@ -1261,19 +1159,31 @@
       "fr": "beau",
       "nl": "mooi",
       "category": "Eigenschappen",
-      "type": "adjective"
+      "type": "adjective",
+      "alts": [
+        "knap",
+        "prachtig"
+      ]
     },
     {
       "fr": "bon",
       "nl": "goed",
       "category": "Eigenschappen",
-      "type": "adjective"
+      "type": "adjective",
+      "alts": [
+        "lekker",
+        "juist"
+      ],
+      "note": "Betekent vaak “goed”; bij eten kan “lekker” passen en in sommige combinaties “juist/correct”."
     },
     {
       "fr": "mauvais",
       "nl": "slecht",
       "category": "Eigenschappen",
-      "type": "adjective"
+      "type": "adjective",
+      "alts": [
+        "verkeerd"
+      ]
     },
     {
       "fr": "jeune",
@@ -1297,7 +1207,10 @@
       "fr": "chaud",
       "nl": "warm",
       "category": "Eigenschappen",
-      "type": "adjective"
+      "type": "adjective",
+      "alts": [
+        "heet"
+      ]
     },
     {
       "fr": "froid",
@@ -1318,13 +1231,19 @@
       "fr": "triste",
       "nl": "verdrietig",
       "category": "Gevoelens",
-      "type": "adjective"
+      "type": "adjective",
+      "alts": [
+        "droevig"
+      ]
     },
     {
       "fr": "fatigué",
       "nl": "moe",
       "category": "Gevoelens",
-      "type": "adjective"
+      "type": "adjective",
+      "alts": [
+        "vermoeid"
+      ]
     },
     {
       "fr": "ici",
@@ -1342,19 +1261,28 @@
       "fr": "à gauche",
       "nl": "links",
       "category": "Plaatswoorden",
-      "type": "expression"
+      "type": "expression",
+      "alts": [
+        "aan de linkerkant"
+      ]
     },
     {
       "fr": "à droite",
       "nl": "rechts",
       "category": "Plaatswoorden",
-      "type": "expression"
+      "type": "expression",
+      "alts": [
+        "aan de rechterkant"
+      ]
     },
     {
       "fr": "tout droit",
       "nl": "rechtdoor",
       "category": "Plaatswoorden",
-      "type": "expression"
+      "type": "expression",
+      "alts": [
+        "rechtuit"
+      ]
     },
     {
       "fr": "avec",
@@ -1414,25 +1342,46 @@
       "fr": "toujours",
       "nl": "altijd",
       "category": "Tijd",
-      "type": "adverb"
+      "type": "adverb",
+      "alts": [
+        "nog steeds",
+        "steeds"
+      ],
+      "note": "Naast “altijd” kan toujours in veel zinnen ook “nog steeds” betekenen."
     },
     {
       "fr": "souvent",
       "nl": "vaak",
       "category": "Tijd",
-      "type": "adverb"
+      "type": "adverb",
+      "alts": [
+        "dikwijls"
+      ]
     },
     {
       "fr": "parfois",
       "nl": "soms",
       "category": "Tijd",
-      "type": "adverb"
+      "type": "adverb",
+      "alts": [
+        "af en toe",
+        "nu en dan"
+      ]
     },
     {
       "fr": "jamais",
       "nl": "nooit",
       "category": "Tijd",
-      "type": "adverb"
+      "type": "adverb",
+      "alts": [
+        "ooit"
+      ],
+      "note": "Meestal “nooit”; in vragen en bepaalde constructies kan jamais ook “ooit” betekenen."
     }
-  ]
+  ],
+  "review": {
+    "version": "1.8.6",
+    "date": "2026-08-13",
+    "scope": "Bestaande basiswoordenbank gecontroleerd; hoofdvertalingen, alternatieven, lidwoorden en uitleg nagezien."
+  }
 }
