@@ -10,7 +10,7 @@
   <link rel="icon" href="icons/favicon.svg" type="image/svg+xml">
   <link rel="alternate icon" href="icons/favicon.ico">
   <link rel="apple-touch-icon" href="icons/icon-192.png">
-  <link rel="stylesheet" href="css/style.css?v=1.16.0">
+  <link rel="stylesheet" href="css/style.css?v=1.17.0">
 </head>
 <body>
   <div id="splash" class="splash-screen" aria-hidden="true">
@@ -126,40 +126,101 @@
     </section>
 
     <section id="grammarView" class="study-view grammar-view" hidden aria-labelledby="grammarTitle">
-      <div class="grammar-hero">
-        <span class="grammar-badge">NIEUW</span>
-        <h2 id="grammarTitle">Grammatica oefenen</h2>
-        <p>Korte uitleg, duidelijke voorbeelden en daarna meteen oefenen.</p>
+      <div id="grammarHome">
+        <div class="grammar-hero">
+          <span class="grammar-badge">GRAMMATICA</span>
+          <h2 id="grammarTitle">COD</h2>
+          <p>Leer het directe voorwerp herkennen en vervang het daarna door <strong>le, la, l’</strong> of <strong>les</strong>.</p>
+        </div>
+
+        <section class="grammar-rule-card" aria-labelledby="codRuleTitle">
+          <div class="grammar-rule-number">1</div>
+          <div>
+            <h3 id="codRuleTitle">Wat is een COD?</h3>
+            <p>Het COD is het <strong>directe voorwerp</strong>. Vraag na het werkwoord <strong>wie?</strong> of <strong>wat?</strong>. Er staat geen voorzetsel zoals <em>à</em> of <em>de</em> voor.</p>
+            <div class="grammar-example">
+              <span>Je regarde <strong>le film</strong>.</span>
+              <span class="grammar-arrow">→</span>
+              <span>Je regarde <strong>quoi ?</strong> → <strong>le film</strong></span>
+            </div>
+          </div>
+        </section>
+
+        <section class="grammar-rule-card" aria-labelledby="codPronounTitle">
+          <div class="grammar-rule-number">2</div>
+          <div>
+            <h3 id="codPronounTitle">COD vervangen</h3>
+            <p>Een COD kan je vervangen door <strong>le, la, l’</strong> of <strong>les</strong>. Het voornaamwoord staat vóór het vervoegde werkwoord.</p>
+            <div class="grammar-example">
+              <span>Je regarde <strong>le film</strong>.</span>
+              <span class="grammar-arrow">→</span>
+              <span>Je <strong>le</strong> regarde.</span>
+            </div>
+            <p class="grammar-tip"><strong>Let op:</strong> le en la worden <strong>l’</strong> vóór een werkwoord dat met een klinker of stomme h begint: <em>Je l’aime.</em></p>
+          </div>
+        </section>
+
+        <div class="grammar-start-grid">
+          <button class="grammar-start-card" type="button" data-grammar-mode="recognition">
+            <span class="grammar-start-step">1</span>
+            <span>
+              <strong>COD herkennen</strong>
+              <small>Vind wie of wat rechtstreeks bij het werkwoord hoort.</small>
+            </span>
+          </button>
+          <button class="grammar-start-card" type="button" data-grammar-mode="replacement">
+            <span class="grammar-start-step">2</span>
+            <span>
+              <strong>COD vervangen</strong>
+              <small>Kies le, la, l’ of les.</small>
+            </span>
+          </button>
+          <button class="grammar-start-card grammar-start-mix" type="button" data-grammar-mode="mixed">
+            <span class="grammar-start-step">★</span>
+            <span>
+              <strong>Mix oefenen</strong>
+              <small>Beide soorten door elkaar.</small>
+            </span>
+          </button>
+        </div>
       </div>
 
-      <div class="grammar-modules" aria-label="Grammaticaonderdelen">
-        <article class="grammar-module grammar-module-next">
-          <div class="grammar-module-icon">COD</div>
-          <div>
-            <p class="grammar-module-kicker">VOLGENDE STAP</p>
-            <h3>COD herkennen</h3>
-            <p>Vind het directe voorwerp in een eenvoudige Franse zin.</p>
-          </div>
-        </article>
+      <section id="grammarExercise" class="grammar-exercise" hidden aria-live="polite">
+        <div class="grammar-exercise-top">
+          <button id="grammarBackBtn" class="grammar-back" type="button">← Uitleg</button>
+          <span id="grammarExerciseLabel" class="grammar-exercise-label">COD herkennen</span>
+          <span id="grammarProgressText" class="grammar-progress-text">1 / 10</span>
+        </div>
 
-        <article class="grammar-module is-locked" aria-disabled="true">
-          <div class="grammar-module-icon">le</div>
-          <div>
-            <h3>Lidwoorden</h3>
-            <p>Le, la, l’, les, un en une.</p>
-          </div>
-        </article>
+        <div class="grammar-progress-track" aria-label="Voortgang grammatica">
+          <div id="grammarProgressBar" class="grammar-progress-bar"></div>
+        </div>
 
-        <article class="grammar-module is-locked" aria-disabled="true">
-          <div class="grammar-module-icon">V</div>
-          <div>
-            <h3>Werkwoorden</h3>
-            <p>Vervoegingen stap voor stap.</p>
+        <article class="grammar-question-card">
+          <p id="grammarQuestionType" class="grammar-question-type">Wat is het COD?</p>
+          <p id="grammarSentence" class="grammar-sentence"></p>
+          <p id="grammarTargetHint" class="grammar-target-hint" hidden></p>
+          <div id="grammarOptions" class="grammar-options"></div>
+          <div id="grammarFeedback" class="grammar-feedback" hidden>
+            <strong id="grammarFeedbackTitle"></strong>
+            <p id="grammarFeedbackText"></p>
+            <p id="grammarCorrectSentence" class="grammar-correct-sentence" hidden></p>
           </div>
+          <button id="grammarNextBtn" class="grammar-next primary-small" type="button" hidden>Volgende</button>
         </article>
-      </div>
+      </section>
 
-      <p class="grammar-note">De grammatica-oefeningen bouwen we vanaf hier verder uit. De eerste module wordt COD.</p>
+      <section id="grammarResult" class="grammar-result" hidden>
+        <div class="grammar-result-icon">✓</div>
+        <p class="grammar-result-kicker">OEFENREEKS KLAAR</p>
+        <h2 id="grammarResultTitle">Goed gewerkt!</h2>
+        <p id="grammarResultScore" class="grammar-result-score"></p>
+        <p id="grammarResultMessage" class="grammar-result-message"></p>
+        <div class="grammar-result-actions">
+          <button id="grammarAgainBtn" class="primary-small" type="button">Nog eens oefenen</button>
+          <button id="grammarHomeBtn" class="secondary grammar-result-home" type="button">Terug naar uitleg</button>
+        </div>
+      </section>
     </section>
 
   </main>
@@ -187,9 +248,10 @@
   </aside>
 
 
-  <script src="js/list-import.js?v=1.16.0"></script>
-  <script src="js/words.js?v=1.16.0"></script>
-  <script src="js/storage.js?v=1.16.0"></script>
-  <script src="js/app.js?v=1.16.0"></script>
+  <script src="js/grammar.js?v=1.17.0"></script>
+  <script src="js/list-import.js?v=1.17.0"></script>
+  <script src="js/words.js?v=1.17.0"></script>
+  <script src="js/storage.js?v=1.17.0"></script>
+  <script src="js/app.js?v=1.17.0"></script>
 </body>
 </html>

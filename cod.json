@@ -1,0 +1,426 @@
+{
+  "id": "cod",
+  "name": "COD",
+  "title": "COD herkennen en vervangen",
+  "description": "Vind het directe voorwerp en vervang het daarna door le, la, l’ of les.",
+  "recognition": [
+    {
+      "sentence": "Je mange la pomme.",
+      "question": "Wat is het COD?",
+      "answer": "la pomme",
+      "options": [
+        "Je",
+        "mange",
+        "la pomme",
+        "geen COD"
+      ],
+      "explanation": "Je mange quoi ? → la pomme. Er staat geen voorzetsel tussen het werkwoord en het COD."
+    },
+    {
+      "sentence": "Marie regarde le film.",
+      "question": "Wat is het COD?",
+      "answer": "le film",
+      "options": [
+        "Marie",
+        "regarde",
+        "le film",
+        "geen COD"
+      ],
+      "explanation": "Marie regarde quoi ? → le film."
+    },
+    {
+      "sentence": "Nous achetons les billets.",
+      "question": "Wat is het COD?",
+      "answer": "les billets",
+      "options": [
+        "Nous",
+        "achetons",
+        "les billets",
+        "geen COD"
+      ],
+      "explanation": "Nous achetons quoi ? → les billets."
+    },
+    {
+      "sentence": "Tu écoutes cette chanson.",
+      "question": "Wat is het COD?",
+      "answer": "cette chanson",
+      "options": [
+        "Tu",
+        "écoutes",
+        "cette chanson",
+        "geen COD"
+      ],
+      "explanation": "Tu écoutes quoi ? → cette chanson."
+    },
+    {
+      "sentence": "Paul adore le football.",
+      "question": "Wat is het COD?",
+      "answer": "le football",
+      "options": [
+        "Paul",
+        "adore",
+        "le football",
+        "geen COD"
+      ],
+      "explanation": "Paul adore quoi ? → le football."
+    },
+    {
+      "sentence": "Elle cherche son téléphone.",
+      "question": "Wat is het COD?",
+      "answer": "son téléphone",
+      "options": [
+        "Elle",
+        "cherche",
+        "son téléphone",
+        "geen COD"
+      ],
+      "explanation": "Elle cherche quoi ? → son téléphone."
+    },
+    {
+      "sentence": "On prépare le dîner.",
+      "question": "Wat is het COD?",
+      "answer": "le dîner",
+      "options": [
+        "On",
+        "prépare",
+        "le dîner",
+        "geen COD"
+      ],
+      "explanation": "On prépare quoi ? → le dîner."
+    },
+    {
+      "sentence": "Vous invitez vos amis.",
+      "question": "Wat is het COD?",
+      "answer": "vos amis",
+      "options": [
+        "Vous",
+        "invitez",
+        "vos amis",
+        "geen COD"
+      ],
+      "explanation": "Vous invitez qui ? → vos amis."
+    },
+    {
+      "sentence": "Le garçon ferme la porte.",
+      "question": "Wat is het COD?",
+      "answer": "la porte",
+      "options": [
+        "Le garçon",
+        "ferme",
+        "la porte",
+        "geen COD"
+      ],
+      "explanation": "Le garçon ferme quoi ? → la porte."
+    },
+    {
+      "sentence": "Les élèves lisent le texte.",
+      "question": "Wat is het COD?",
+      "answer": "le texte",
+      "options": [
+        "Les élèves",
+        "lisent",
+        "le texte",
+        "geen COD"
+      ],
+      "explanation": "Les élèves lisent quoi ? → le texte."
+    },
+    {
+      "sentence": "Je prends le bus.",
+      "question": "Wat is het COD?",
+      "answer": "le bus",
+      "options": [
+        "Je",
+        "prends",
+        "le bus",
+        "geen COD"
+      ],
+      "explanation": "Je prends quoi ? → le bus."
+    },
+    {
+      "sentence": "Ils visitent Paris.",
+      "question": "Wat is het COD?",
+      "answer": "Paris",
+      "options": [
+        "Ils",
+        "visitent",
+        "Paris",
+        "geen COD"
+      ],
+      "explanation": "Ils visitent quoi ? → Paris. Ook een eigennaam kan COD zijn."
+    },
+    {
+      "sentence": "Léa aime son chien.",
+      "question": "Wat is het COD?",
+      "answer": "son chien",
+      "options": [
+        "Léa",
+        "aime",
+        "son chien",
+        "geen COD"
+      ],
+      "explanation": "Léa aime qui ? → son chien."
+    },
+    {
+      "sentence": "Nous regardons la télévision.",
+      "question": "Wat is het COD?",
+      "answer": "la télévision",
+      "options": [
+        "Nous",
+        "regardons",
+        "la télévision",
+        "geen COD"
+      ],
+      "explanation": "Nous regardons quoi ? → la télévision."
+    },
+    {
+      "sentence": "Mon frère ouvre la fenêtre.",
+      "question": "Wat is het COD?",
+      "answer": "la fenêtre",
+      "options": [
+        "Mon frère",
+        "ouvre",
+        "la fenêtre",
+        "geen COD"
+      ],
+      "explanation": "Mon frère ouvre quoi ? → la fenêtre."
+    },
+    {
+      "sentence": "Le professeur pose une question.",
+      "question": "Wat is het COD?",
+      "answer": "une question",
+      "options": [
+        "Le professeur",
+        "pose",
+        "une question",
+        "geen COD"
+      ],
+      "explanation": "Le professeur pose quoi ? → une question."
+    }
+  ],
+  "replacement": [
+    {
+      "sentence": "Je regarde le film.",
+      "target": "le film",
+      "question": "Vervang het COD door een voornaamwoord.",
+      "answer": "Je le regarde.",
+      "pronoun": "le",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "explanation": "Le film is mannelijk enkelvoud → le. Het voornaamwoord staat vóór regarde."
+    },
+    {
+      "sentence": "Elle ferme la porte.",
+      "target": "la porte",
+      "question": "Vervang het COD door een voornaamwoord.",
+      "answer": "Elle la ferme.",
+      "pronoun": "la",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "explanation": "La porte is vrouwelijk enkelvoud → la. Dus: Elle la ferme."
+    },
+    {
+      "sentence": "Nous achetons les billets.",
+      "target": "les billets",
+      "question": "Vervang het COD door een voornaamwoord.",
+      "answer": "Nous les achetons.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "explanation": "Les billets is meervoud → les. Het COD-voornaamwoord komt vóór achetons."
+    },
+    {
+      "sentence": "J’aime la musique.",
+      "target": "la musique",
+      "question": "Vervang het COD door een voornaamwoord.",
+      "answer": "Je l’aime.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "explanation": "La wordt l’ vóór een werkwoord dat met een klinker begint: Je l’aime."
+    },
+    {
+      "sentence": "Tu invites Marie.",
+      "target": "Marie",
+      "question": "Vervang het COD door een voornaamwoord.",
+      "answer": "Tu l’invites.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "explanation": "Marie wordt la, maar vóór invites wordt la → l’. Dus: Tu l’invites."
+    },
+    {
+      "sentence": "Il écoute les chansons.",
+      "target": "les chansons",
+      "question": "Vervang het COD door een voornaamwoord.",
+      "answer": "Il les écoute.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "explanation": "Les chansons is meervoud → les."
+    },
+    {
+      "sentence": "On prend le bus.",
+      "target": "le bus",
+      "question": "Vervang het COD door een voornaamwoord.",
+      "answer": "On le prend.",
+      "pronoun": "le",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "explanation": "Le bus is mannelijk enkelvoud → le."
+    },
+    {
+      "sentence": "Vous regardez la télévision.",
+      "target": "la télévision",
+      "question": "Vervang het COD door een voornaamwoord.",
+      "answer": "Vous la regardez.",
+      "pronoun": "la",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "explanation": "La télévision is vrouwelijk enkelvoud → la."
+    },
+    {
+      "sentence": "Ils aiment leurs amis.",
+      "target": "leurs amis",
+      "question": "Vervang het COD door een voornaamwoord.",
+      "answer": "Ils les aiment.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "explanation": "Leurs amis is meervoud → les."
+    },
+    {
+      "sentence": "J’ouvre la fenêtre.",
+      "target": "la fenêtre",
+      "question": "Vervang het COD door een voornaamwoord.",
+      "answer": "Je l’ouvre.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "explanation": "La fenêtre wordt la, maar vóór ouvre wordt la → l’. Dus: Je l’ouvre."
+    },
+    {
+      "sentence": "Nous cherchons le professeur.",
+      "target": "le professeur",
+      "question": "Vervang het COD door een voornaamwoord.",
+      "answer": "Nous le cherchons.",
+      "pronoun": "le",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "explanation": "Le professeur is mannelijk enkelvoud → le."
+    },
+    {
+      "sentence": "Elle prépare la pizza.",
+      "target": "la pizza",
+      "question": "Vervang het COD door een voornaamwoord.",
+      "answer": "Elle la prépare.",
+      "pronoun": "la",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "explanation": "La pizza is vrouwelijk enkelvoud → la."
+    },
+    {
+      "sentence": "Tu prends les clés.",
+      "target": "les clés",
+      "question": "Vervang het COD door een voornaamwoord.",
+      "answer": "Tu les prends.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "explanation": "Les clés is meervoud → les."
+    },
+    {
+      "sentence": "Paul adore ce jeu.",
+      "target": "ce jeu",
+      "question": "Vervang het COD door een voornaamwoord.",
+      "answer": "Paul l’adore.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "explanation": "Ce jeu wordt le, maar vóór adore wordt le → l’. Dus: Paul l’adore."
+    },
+    {
+      "sentence": "Les enfants mangent les frites.",
+      "target": "les frites",
+      "question": "Vervang het COD door een voornaamwoord.",
+      "answer": "Les enfants les mangent.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "explanation": "Les frites is meervoud → les."
+    },
+    {
+      "sentence": "Je connais cette fille.",
+      "target": "cette fille",
+      "question": "Vervang het COD door een voornaamwoord.",
+      "answer": "Je la connais.",
+      "pronoun": "la",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "explanation": "Cette fille is vrouwelijk enkelvoud → la."
+    }
+  ]
+}

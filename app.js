@@ -335,6 +335,7 @@ if(grammarModeBtn){
     state.studyArea="grammar";
     saveState(state);
     renderStudyArea();
+    window.GrammarTrainer?.showHome();
   };
 }
 
@@ -466,7 +467,7 @@ function setupSettingsPanel(){
 function hideSplash(){
   if(!splash||splash.dataset.hidden==="true")return;
   const elapsed=performance.now()-splashStarted;
-  const wait=Math.max(0,650-elapsed);
+  const wait=Math.max(0,2400-elapsed);
   window.setTimeout(()=>{
     splash.classList.add("splash-screen--hide");
     window.setTimeout(()=>{

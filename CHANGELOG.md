@@ -1,5 +1,21 @@
 # Changelog
 
+## v1.17.0 — COD oefenen
+- Eerste volwaardige grammaticamodule toegevoegd: COD
+- Korte uitleg: COD herkennen met wie?/wat? en zonder voorzetsel
+- Uitleg over vervangen door le, la, l’ en les
+- 16 oefeningen COD herkennen
+- 16 oefeningen COD vervangen
+- Drie oefenmodi: herkennen, vervangen en mix
+- Directe feedback met korte uitleg na elk antwoord
+- Volledige correcte zin wordt getoond bij vervangoefeningen
+- Oefenreeksen van 10 vragen met voortgang en eindscore
+- Mobiele weergave voor grammaticavragen toegevoegd
+- COD-data modulair opgeslagen in data/grammar/cod.json
+- Splashscreen blijft langer zichtbaar zoals eerder gevraagd
+- PWA/offline-cache uitgebreid met grammaticabestanden
+
+
 ## v1.16.0 — Woorden & Grammatica
 - Hoofdkeuze toegevoegd tussen “Woorden oefenen” en “Grammatica oefenen”
 - Bestaande woordentrainer ondergebracht in een eigen woordenweergave
