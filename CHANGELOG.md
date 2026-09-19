@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.18.0 — COD gevorderd
+- Nieuwe oefening 1.1: COD herkennen in moeilijkere zinnen (3e–4e middelbaar)
+- Nieuwe oefening 2.1: COD vervangen in moeilijkere zinnen (3e–4e middelbaar)
+- 16 nieuwe moeilijke herkenningszinnen en 16 nieuwe moeilijke vervangzinnen
+- Gevorderde vervangoefeningen bevatten infinitief, ontkenning en passé composé
+- Uitleg 1 en oefening 1/1.1 delen dezelfde kleur
+- Uitleg 2 en oefening 2/2.1 delen dezelfde kleur
+- Mix oefenen toont nu ★★ en combineert basis + gevorderde vragen
+
+
 ## v1.17.1 — COD hotfix
 - Woorden/Grammatica-tab werkt nu via een onafhankelijke fallback in index.html
 - Grammaticascherm wordt bij openen altijd zichtbaar en teruggezet naar de COD-uitleg
