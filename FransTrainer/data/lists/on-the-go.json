@@ -1,0 +1,182 @@
+{
+  "id": "on-the-go",
+  "name": "Op pad 🚲",
+  "description": "Onderweg, in de stad en de weg vinden.",
+  "level": "A1-A2",
+  "words": [
+    {
+      "fr": "le métro",
+      "nl": "de metro",
+      "type": "noun",
+      "category": "Op pad 🚲"
+    },
+    {
+      "fr": "le tram",
+      "nl": "de tram",
+      "type": "noun",
+      "category": "Op pad 🚲"
+    },
+    {
+      "fr": "l’arrêt",
+      "nl": "de halte",
+      "type": "noun",
+      "alts": [
+        "de stop"
+      ],
+      "category": "Op pad 🚲"
+    },
+    {
+      "fr": "le ticket",
+      "nl": "het ticket",
+      "type": "noun",
+      "alts": [
+        "het kaartje"
+      ],
+      "category": "Op pad 🚲"
+    },
+    {
+      "fr": "le quai",
+      "nl": "het perron",
+      "type": "noun",
+      "alts": [
+        "de kade"
+      ],
+      "category": "Op pad 🚲"
+    },
+    {
+      "fr": "le centre-ville",
+      "nl": "het stadscentrum",
+      "type": "noun",
+      "alts": [
+        "het centrum"
+      ],
+      "category": "Op pad 🚲"
+    },
+    {
+      "fr": "la place",
+      "nl": "het plein",
+      "type": "noun",
+      "alts": [
+        "de plaats"
+      ],
+      "category": "Op pad 🚲"
+    },
+    {
+      "fr": "le pont",
+      "nl": "de brug",
+      "type": "noun",
+      "category": "Op pad 🚲"
+    },
+    {
+      "fr": "le feu de circulation",
+      "nl": "het verkeerslicht",
+      "type": "noun",
+      "category": "Op pad 🚲"
+    },
+    {
+      "fr": "le passage piéton",
+      "nl": "het zebrapad",
+      "type": "noun",
+      "category": "Op pad 🚲"
+    },
+    {
+      "fr": "la piste cyclable",
+      "nl": "het fietspad",
+      "type": "noun",
+      "category": "Op pad 🚲"
+    },
+    {
+      "fr": "à pied",
+      "nl": "te voet",
+      "type": "expression",
+      "category": "Op pad 🚲"
+    },
+    {
+      "fr": "en voiture",
+      "nl": "met de auto",
+      "type": "expression",
+      "category": "Op pad 🚲"
+    },
+    {
+      "fr": "en bus",
+      "nl": "met de bus",
+      "type": "expression",
+      "category": "Op pad 🚲"
+    },
+    {
+      "fr": "tourner",
+      "nl": "afslaan",
+      "type": "verb",
+      "alts": [
+        "draaien"
+      ],
+      "category": "Op pad 🚲"
+    },
+    {
+      "fr": "traverser",
+      "nl": "oversteken",
+      "type": "verb",
+      "alts": [
+        "doorkruisen"
+      ],
+      "category": "Op pad 🚲"
+    },
+    {
+      "fr": "continuer",
+      "nl": "doorgaan",
+      "type": "verb",
+      "alts": [
+        "verdergaan"
+      ],
+      "category": "Op pad 🚲"
+    },
+    {
+      "fr": "près de",
+      "nl": "dicht bij",
+      "type": "expression",
+      "alts": [
+        "vlak bij"
+      ],
+      "category": "Op pad 🚲"
+    },
+    {
+      "fr": "loin de",
+      "nl": "ver van",
+      "type": "expression",
+      "category": "Op pad 🚲"
+    },
+    {
+      "fr": "devant",
+      "nl": "voor",
+      "type": "adverb",
+      "alts": [
+        "vooraan"
+      ],
+      "category": "Op pad 🚲"
+    },
+    {
+      "fr": "derrière",
+      "nl": "achter",
+      "type": "adverb",
+      "category": "Op pad 🚲"
+    },
+    {
+      "fr": "entre",
+      "nl": "tussen",
+      "type": "preposition",
+      "category": "Op pad 🚲"
+    },
+    {
+      "fr": "à côté de",
+      "nl": "naast",
+      "type": "expression",
+      "category": "Op pad 🚲"
+    },
+    {
+      "fr": "où est… ?",
+      "nl": "waar is…?",
+      "type": "expression",
+      "category": "Op pad 🚲"
+    }
+  ]
+}

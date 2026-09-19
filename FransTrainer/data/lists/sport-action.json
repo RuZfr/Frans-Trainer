@@ -1,0 +1,196 @@
+{
+  "id": "sport-action",
+  "name": "Sport & actie ⚽",
+  "description": "Scoren, trainen en supporteren.",
+  "level": "A1-A2",
+  "words": [
+    {
+      "fr": "le football",
+      "nl": "het voetbal",
+      "type": "noun",
+      "category": "Sport & actie ⚽"
+    },
+    {
+      "fr": "le basket",
+      "nl": "het basketbal",
+      "type": "noun",
+      "category": "Sport & actie ⚽"
+    },
+    {
+      "fr": "le tennis",
+      "nl": "het tennis",
+      "type": "noun",
+      "category": "Sport & actie ⚽"
+    },
+    {
+      "fr": "la natation",
+      "nl": "het zwemmen",
+      "type": "noun",
+      "alts": [
+        "de zwemsport"
+      ],
+      "category": "Sport & actie ⚽"
+    },
+    {
+      "fr": "le cyclisme",
+      "nl": "het wielrennen",
+      "type": "noun",
+      "alts": [
+        "de wielersport"
+      ],
+      "category": "Sport & actie ⚽"
+    },
+    {
+      "fr": "la course à pied",
+      "nl": "het hardlopen",
+      "type": "noun",
+      "alts": [
+        "de loopsport"
+      ],
+      "category": "Sport & actie ⚽"
+    },
+    {
+      "fr": "l’équipe",
+      "nl": "het team",
+      "type": "noun",
+      "alts": [
+        "de ploeg"
+      ],
+      "category": "Sport & actie ⚽"
+    },
+    {
+      "fr": "le match",
+      "nl": "de wedstrijd",
+      "type": "noun",
+      "alts": [
+        "de match"
+      ],
+      "category": "Sport & actie ⚽"
+    },
+    {
+      "fr": "le ballon",
+      "nl": "de bal",
+      "type": "noun",
+      "alts": [
+        "de ballon"
+      ],
+      "category": "Sport & actie ⚽"
+    },
+    {
+      "fr": "la balle",
+      "nl": "de bal",
+      "type": "noun",
+      "category": "Sport & actie ⚽"
+    },
+    {
+      "fr": "le but",
+      "nl": "het doelpunt",
+      "type": "noun",
+      "alts": [
+        "het doel"
+      ],
+      "category": "Sport & actie ⚽"
+    },
+    {
+      "fr": "le terrain",
+      "nl": "het speelveld",
+      "type": "noun",
+      "alts": [
+        "het terrein"
+      ],
+      "category": "Sport & actie ⚽"
+    },
+    {
+      "fr": "l’entraînement",
+      "nl": "de training",
+      "type": "noun",
+      "category": "Sport & actie ⚽"
+    },
+    {
+      "fr": "s’entraîner",
+      "nl": "trainen",
+      "type": "verb",
+      "alts": [
+        "oefenen"
+      ],
+      "category": "Sport & actie ⚽"
+    },
+    {
+      "fr": "nager",
+      "nl": "zwemmen",
+      "type": "verb",
+      "category": "Sport & actie ⚽"
+    },
+    {
+      "fr": "sauter",
+      "nl": "springen",
+      "type": "verb",
+      "category": "Sport & actie ⚽"
+    },
+    {
+      "fr": "lancer",
+      "nl": "gooien",
+      "type": "verb",
+      "alts": [
+        "werpen"
+      ],
+      "category": "Sport & actie ⚽"
+    },
+    {
+      "fr": "attraper",
+      "nl": "vangen",
+      "type": "verb",
+      "alts": [
+        "grijpen"
+      ],
+      "category": "Sport & actie ⚽"
+    },
+    {
+      "fr": "marquer",
+      "nl": "scoren",
+      "type": "verb",
+      "alts": [
+        "markeren"
+      ],
+      "note": "In sport betekent marquer vaak ‘scoren’; algemeen kan het ook ‘markeren’ betekenen.",
+      "category": "Sport & actie ⚽"
+    },
+    {
+      "fr": "encourager",
+      "nl": "aanmoedigen",
+      "type": "verb",
+      "category": "Sport & actie ⚽"
+    },
+    {
+      "fr": "rapide",
+      "nl": "snel",
+      "type": "adjective",
+      "category": "Sport & actie ⚽"
+    },
+    {
+      "fr": "fort",
+      "nl": "sterk",
+      "type": "adjective",
+      "alts": [
+        "hard",
+        "luid"
+      ],
+      "category": "Sport & actie ⚽"
+    },
+    {
+      "fr": "en forme",
+      "nl": "fit",
+      "type": "expression",
+      "alts": [
+        "in vorm"
+      ],
+      "category": "Sport & actie ⚽"
+    },
+    {
+      "fr": "le champion",
+      "nl": "de kampioen",
+      "type": "noun",
+      "category": "Sport & actie ⚽"
+    }
+  ]
+}
