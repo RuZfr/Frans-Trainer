@@ -23,6 +23,10 @@ const removeListBtn=document.querySelector("#removeListBtn");
 const listFileInput=document.querySelector("#listFileInput");
 const listImportStatus=document.querySelector("#listImportStatus");
 const listStats=document.querySelector("#listStats");
+const wordsModeBtn=document.querySelector("#wordsModeBtn");
+const grammarModeBtn=document.querySelector("#grammarModeBtn");
+const vocabularyView=document.querySelector("#vocabularyView");
+const grammarView=document.querySelector("#grammarView");
 const splash=document.querySelector("#splash");
 const splashStarted=performance.now();
 
@@ -114,7 +118,25 @@ function alternativesForDisplay(){
     return parsed.article||!fullBares.has(parsed.bare);
   });
 }
+function renderStudyArea(){
+  const area=state.studyArea==="grammar"?"grammar":"words";
+  state.studyArea=area;
+  const grammar=area==="grammar";
+
+  if(vocabularyView)vocabularyView.hidden=grammar;
+  if(grammarView)grammarView.hidden=!grammar;
+
+  if(wordsModeBtn){
+    wordsModeBtn.classList.toggle("active",!grammar);
+    wordsModeBtn.setAttribute("aria-pressed",String(!grammar));
+  }
+  if(grammarModeBtn){
+    grammarModeBtn.classList.toggle("active",grammar);
+    grammarModeBtn.setAttribute("aria-pressed",String(grammar));
+  }
+}
 function render(){
+  renderStudyArea();
   if(!current)return;
   const frToNl=currentDirection==="fr-nl";
   const typing=state.exerciseMode==="typing";
@@ -300,7 +322,24 @@ function evaluate(given,word,directionMode){
   return {kind:"wrong"};
 }
 
-card.onclick=()=>{if(state.exerciseMode==="cards")show();};
+if(wordsModeBtn){
+  wordsModeBtn.onclick=()=>{
+    state.studyArea="words";
+    saveState(state);
+    renderStudyArea();
+    if(state.exerciseMode==="typing")setTimeout(()=>typingInput.focus(),0);
+  };
+}
+if(grammarModeBtn){
+  grammarModeBtn.onclick=()=>{
+    state.studyArea="grammar";
+    saveState(state);
+    renderStudyArea();
+    window.GrammarTrainer?.showHome();
+  };
+}
+
+card.onclick=()=>{if(state.studyArea!=="grammar"&&state.exerciseMode==="cards")show();};
 easyBtn.onclick=()=>{updateScore(1);state.sessionKnown+=1;removeCurrentFromDifficult();saveState(state);next();};
 hardBtn.onclick=()=>{updateScore(-1);if(!state.difficult.includes(id(current))&&!state.difficult.includes(legacyId(current)))state.difficult.push(id(current));saveState(state);next();};
 exerciseMode.onchange=()=>{state.exerciseMode=exerciseMode.value;saveState(state);next();};
@@ -350,9 +389,9 @@ typingForm.onsubmit=e=>{
 };
 
 document.addEventListener("keydown",e=>{
-  if(state.exerciseMode==="cards"&&(e.key===" "||e.key==="Enter")&&!shown){e.preventDefault();show();}
-  else if(state.exerciseMode==="cards"&&e.key==="ArrowLeft"&&shown)hardBtn.click();
-  else if(state.exerciseMode==="cards"&&e.key==="ArrowRight"&&shown)easyBtn.click();
+  if(state.studyArea!=="grammar"&&state.exerciseMode==="cards"&&(e.key===" "||e.key==="Enter")&&!shown){e.preventDefault();show();}
+  else if(state.studyArea!=="grammar"&&state.exerciseMode==="cards"&&e.key==="ArrowLeft"&&shown)hardBtn.click();
+  else if(state.studyArea!=="grammar"&&state.exerciseMode==="cards"&&e.key==="ArrowRight"&&shown)easyBtn.click();
 });
 
 function populateCategorySelect(){
@@ -447,6 +486,7 @@ async function prepareDevelopmentEnvironment(){
   }catch(error){console.warn("Lokale cache-opruiming niet volledig gelukt:",error);}
 }
 async function init(){
+  renderStudyArea();
   try{
     await prepareDevelopmentEnvironment();
     await populateWordListSelect();

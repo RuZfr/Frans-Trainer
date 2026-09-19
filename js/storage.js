@@ -2,6 +2,7 @@ const KEY="frans-trainer-v1";
 function loadState(){
   const defaults={
     direction:"fr-nl",
+    studyArea:"words",
     wordListId:"basis",
     exerciseMode:"cards",
     category:"all",
