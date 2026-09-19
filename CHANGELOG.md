@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.18.2 — grammatica verfijning
+- Vermelding van schoolniveau verwijderd uit de moeilijke COD-uitleg
+- Teksten iets vriendelijker en minder schools geformuleerd
+- Kleine visuele verfijningen voor een rustigere, aangenamere oefenervaring
+- Functionaliteit van 1, 1.1, 2, 2.1, ★ en ★★ behouden
+- GitHub-ready ZIP: index.html staat direct in de ZIP-hoofdmap
+
+
 ## v1.18.1 — aparte moeilijke mix
 - ★ Mix oefenen blijft bestaan voor de gewone oefeningen 1 + 2
 - ★★ Mix oefenen · moeilijker is een extra oefening

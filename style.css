@@ -952,7 +952,6 @@ body:not(.app-ready) .app{
 
 /* v1.18.0 — COD 1/1.1 en 2/2.1 */
 .grammar-rule-heading{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
-.grammar-level-badge{display:inline-flex;align-items:center;min-height:25px;padding:4px 8px;border-radius:999px;font-size:.68rem;font-weight:900;letter-spacing:.03em;background:var(--soft);color:var(--muted);border:1px solid var(--border)}
 .grammar-rule-advanced{border-style:dashed}
 .grammar-number-1{background:#e8f0ff!important;color:#2f5fd7!important}
 .grammar-theme-1,.grammar-start-theme-1{border-color:#cfdcff}
@@ -977,4 +976,20 @@ body:not(.app-ready) .app{
 }
 .grammar-start-mix-hard .grammar-mix-stars{
   font-size:.9rem;
+}
+
+
+/* v1.18.2 — kleine visuele verfijning */
+.grammar-rule-advanced{
+  background:linear-gradient(180deg,var(--panel),color-mix(in srgb,var(--panel) 94%,var(--soft)));
+}
+.grammar-start-card strong{
+  line-height:1.25;
+}
+.grammar-start-card small{
+  line-height:1.45;
+}
+.grammar-start-card:focus-visible{
+  outline:3px solid color-mix(in srgb,var(--blue) 28%,transparent);
+  outline-offset:2px;
 }
