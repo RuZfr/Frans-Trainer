@@ -1,19 +1,14 @@
 # Changelog
 
-## v1.15.2 — New Logo Refresh
-- Volledig nieuw logo ontworpen voor Frans Trainer
-- Nieuw app-icoon en favicon in dezelfde stijl
-- Splashtekst aangepast naar “snel Frans oefenen”
-- Cacheversie verhoogd naar v1.15.2
-
-
-## v1.15.1 — Logo & Splash Fix
-- Nieuw statisch logo met golvend Frans vlagje
-- Bewegende logo-animatie verwijderd in header en splashscreen
-- Splashtekst verkort naar “Gemakkelijk Frans oefenen”
-- Splashscreen blijft langer zichtbaar zodat de tekst leesbaar is, ook op telefoon
-- App-iconen en favicon afgestemd op het nieuwe logo
-- Cacheversie verhoogd naar v1.15.1
+## v1.16.0 — Woorden & Grammatica
+- Hoofdkeuze toegevoegd tussen “Woorden oefenen” en “Grammatica oefenen”
+- Bestaande woordentrainer ondergebracht in een eigen woordenweergave
+- Nieuwe grammaticaweergave toegevoegd als aparte moduleomgeving
+- Eerste geplande grammaticamodule zichtbaar: COD herkennen
+- Keuze tussen woorden en grammatica wordt lokaal onthouden
+- Toetsenbordbediening van woordkaartjes is uitgeschakeld terwijl grammatica openstaat
+- Huidige logo-, splash- en stability-verbeteringen behouden
+- Cache en appversie verhoogd naar v1.16.0
 
 
 ## v1.15.0 — Stability Fix
