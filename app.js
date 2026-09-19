@@ -121,11 +121,15 @@ function alternativesForDisplay(){
 function renderStudyArea(){
   const area=state.studyArea==="grammar"?"grammar":"words";
   state.studyArea=area;
-  const grammar=area==="grammar";
 
+  if(typeof window.FransTrainerShowArea==="function"){
+    window.FransTrainerShowArea(area,false);
+    return;
+  }
+
+  const grammar=area==="grammar";
   if(vocabularyView)vocabularyView.hidden=grammar;
   if(grammarView)grammarView.hidden=!grammar;
-
   if(wordsModeBtn){
     wordsModeBtn.classList.toggle("active",!grammar);
     wordsModeBtn.setAttribute("aria-pressed",String(!grammar));
@@ -326,6 +330,7 @@ if(wordsModeBtn){
   wordsModeBtn.onclick=()=>{
     state.studyArea="words";
     saveState(state);
+    window.FransTrainerShowArea?.("words");
     renderStudyArea();
     if(state.exerciseMode==="typing")setTimeout(()=>typingInput.focus(),0);
   };
@@ -334,6 +339,7 @@ if(grammarModeBtn){
   grammarModeBtn.onclick=()=>{
     state.studyArea="grammar";
     saveState(state);
+    window.FransTrainerShowArea?.("grammar",true);
     renderStudyArea();
     window.GrammarTrainer?.showHome();
   };

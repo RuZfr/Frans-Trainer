@@ -938,3 +938,43 @@ body:not(.app-ready) .app{
   .grammar-exercise-top{grid-template-columns:auto 1fr auto}
   .grammar-result-actions{grid-template-columns:1fr}
 }
+
+
+/* v1.17.1 hotfix: grammatica mag nooit als leeg vlak aanvoelen */
+#grammarView:not([hidden]){
+  display:block;
+  min-height:320px;
+}
+#grammarHome:not([hidden]){
+  display:block;
+}
+
+
+/* v1.18.0 — COD 1/1.1 en 2/2.1 */
+.grammar-rule-heading{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.grammar-level-badge{display:inline-flex;align-items:center;min-height:25px;padding:4px 8px;border-radius:999px;font-size:.68rem;font-weight:900;letter-spacing:.03em;background:var(--soft);color:var(--muted);border:1px solid var(--border)}
+.grammar-rule-advanced{border-style:dashed}
+.grammar-number-1{background:#e8f0ff!important;color:#2f5fd7!important}
+.grammar-theme-1,.grammar-start-theme-1{border-color:#cfdcff}
+.grammar-start-theme-1:hover{border-color:#7fa0f1;background:#f7f9ff}
+.grammar-number-2{background:#e8f8f1!important;color:#167454!important}
+.grammar-theme-2,.grammar-start-theme-2{border-color:#c9eadc}
+.grammar-start-theme-2:hover{border-color:#75bea3;background:#f6fcf9}
+.grammar-mix-stars{min-width:50px;background:#fff4d7!important;color:#9a6a00!important;letter-spacing:-.06em}
+.grammar-start-mix{border-color:#ecd79c;background:linear-gradient(135deg,var(--panel),#fff9e8)}
+:root.dark .grammar-number-1{background:rgba(68,112,225,.18)!important;color:#9eb8ff!important}
+:root.dark .grammar-theme-1,:root.dark .grammar-start-theme-1{border-color:rgba(105,143,238,.38)}
+:root.dark .grammar-number-2{background:rgba(36,160,115,.18)!important;color:#86d8bb!important}
+:root.dark .grammar-theme-2,:root.dark .grammar-start-theme-2{border-color:rgba(67,174,135,.38)}
+:root.dark .grammar-mix-stars{background:rgba(210,160,25,.18)!important;color:#f2cf6b!important}
+:root.dark .grammar-start-mix{border-color:rgba(210,160,25,.38);background:linear-gradient(135deg,var(--panel),rgba(210,160,25,.08))}
+@media(max-width:560px){.grammar-rule-heading{align-items:flex-start}}
+
+
+/* v1.18.1 — aparte basis- en gevorderde mix */
+.grammar-start-mix-hard{
+  border-style:dashed;
+}
+.grammar-start-mix-hard .grammar-mix-stars{
+  font-size:.9rem;
+}

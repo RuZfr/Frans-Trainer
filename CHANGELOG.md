@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.18.1 — aparte moeilijke mix
+- ★ Mix oefenen blijft bestaan voor de gewone oefeningen 1 + 2
+- ★★ Mix oefenen · moeilijker is een extra oefening
+- ★★ gebruikt uitsluitend de moeilijke reeksen 1.1 + 2.1
+- 1.1 en 2.1 blijven aparte knoppen
+- ZIP is GitHub-ready: index.html staat direct in de ZIP-hoofdmap
+
+
 ## v1.18.0 — COD gevorderd
 - Nieuwe oefening 1.1: COD herkennen in moeilijkere zinnen (3e–4e middelbaar)
 - Nieuwe oefening 2.1: COD vervangen in moeilijkere zinnen (3e–4e middelbaar)
