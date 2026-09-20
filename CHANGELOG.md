@@ -1,5 +1,18 @@
 # Changelog
 
+## v1.19.0 — veel meer COD-variatie
+- Oefening 1 bevat nu 64 verschillende zinnen
+- Oefening 1.1 bevat nu 64 verschillende zinnen
+- Oefening 2 bevat nu 64 verschillende zinnen
+- Oefening 2.1 bevat nu 64 verschillende zinnen
+- In totaal 256 unieke COD-zinnen, met veel thema’s uit de leefwereld van tieners
+- Moeilijkheid van 1/2 en 1.1/2.1 blijft duidelijk gescheiden
+- Nieuwe rotatie onthoudt gebruikte zinnen: eerst zoveel mogelijk nieuwe zinnen voordat oude terugkomen
+- ★ gebruikt de basisbanken; ★★ gebruikt de moeilijkere banken
+- Ambigue en dubbele antwoordopties uit oudere moeilijke vragen opgeschoond
+- GitHub-ready ZIP behouden
+
+
 ## v1.18.3 — duidelijke COD-keuzes
 - Bij moeilijke herkenningsoefeningen staat nog maar één mogelijke COD tussen de antwoordopties
 - Een tweede COD van een ander werkwoord wordt niet meer als afleider aangeboden
