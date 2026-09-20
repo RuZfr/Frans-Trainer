@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.18.3 — duidelijke COD-keuzes
+- Bij moeilijke herkenningsoefeningen staat nog maar één mogelijke COD tussen de antwoordopties
+- Een tweede COD van een ander werkwoord wordt niet meer als afleider aangeboden
+- Bij langere zinnen wordt de specifieke vraag getoond, bv. “Wat is het COD bij « relis »?”
+- Moeilijkheid blijft behouden met andere, ondubbelzinnige afleiders
+
+
 ## v1.18.2 — grammatica verfijning
 - Vermelding van schoolniveau verwijderd uit de moeilijke COD-uitleg
 - Teksten iets vriendelijker en minder schools geformuleerd

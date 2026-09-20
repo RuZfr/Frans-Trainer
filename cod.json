@@ -432,7 +432,7 @@
         "le professeur",
         "la règle",
         "les élèves",
-        "des notes"
+        "rapidement"
       ],
       "explanation": "Le professeur explique quoi ? → la règle. « Des notes » hoort bij het werkwoord prennent."
     },
@@ -479,7 +479,7 @@
       "options": [
         "Le directeur",
         "les élèves",
-        "le concours",
+        "hier",
         "qui"
       ],
       "explanation": "Le directeur a félicité qui ? → les élèves. « Le concours » is het COD van avaient gagné."
@@ -528,7 +528,7 @@
         "tu",
         "le texte",
         "attentivement",
-        "la réponse"
+        "attentivement"
       ],
       "explanation": "Tu relis quoi ? → le texte. « La réponse » hoort bij trouveras."
     },
@@ -539,7 +539,7 @@
       "options": [
         "Mon frère",
         "les documentaires",
-        "les romans",
+        "regarder",
         "regarder"
       ],
       "explanation": "Regarder quoi ? → les documentaires. « Les romans » is het COD van lire."
@@ -574,7 +574,7 @@
       "answer": "un article intéressant",
       "options": [
         "nous",
-        "le bus",
+        "Pendant que nous",
         "Emma",
         "un article intéressant"
       ],
@@ -587,7 +587,7 @@
       "options": [
         "Le médecin",
         "le patient",
-        "son avis",
+        "avant de donner",
         "avant de donner"
       ],
       "explanation": "Le médecin examine qui ? → le patient. « Son avis » is het COD van donner."
@@ -599,7 +599,7 @@
       "options": [
         "On",
         "ce problème",
-        "une formule",
+        "sans utiliser",
         "sans utiliser"
       ],
       "explanation": "Résoudre quoi ? → ce problème. « Une formule » is het COD van utiliser."
@@ -609,7 +609,7 @@
       "question": "Wat is het COD bij « publiera »?",
       "answer": "le rapport",
       "options": [
-        "les résultats",
+        "demain",
         "l’équipe",
         "le rapport",
         "demain"
