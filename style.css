@@ -993,3 +993,29 @@ body:not(.app-ready) .app{
   outline:3px solid color-mix(in srgb,var(--blue) 28%,transparent);
   outline-offset:2px;
 }
+
+
+/* v1.20.0 — oefening 2.2 */
+[data-grammar-mode="advancedReplacementBlind"]{
+  position:relative;
+}
+[data-grammar-mode="advancedReplacementBlind"]::after{
+  content:"ZONDER HINT";
+  position:absolute;
+  top:9px;
+  right:10px;
+  padding:3px 7px;
+  border-radius:999px;
+  background:var(--soft);
+  color:var(--muted);
+  font-size:.58rem;
+  font-weight:900;
+  letter-spacing:.055em;
+}
+@media(max-width:560px){
+  [data-grammar-mode="advancedReplacementBlind"]::after{
+    position:static;
+    margin-left:auto;
+    align-self:flex-start;
+  }
+}

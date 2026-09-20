@@ -14,7 +14,8 @@
         "la pomme",
         "geen COD"
       ],
-      "explanation": "Je mange quoi ? → la pomme. Er staat geen voorzetsel tussen het werkwoord en het COD."
+      "explanation": "Je mange quoi ? → la pomme. Er staat geen voorzetsel tussen het werkwoord en het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Marie regarde le film.",
@@ -26,7 +27,8 @@
         "le film",
         "geen COD"
       ],
-      "explanation": "Marie regarde quoi ? → le film."
+      "explanation": "Marie regarde quoi ? → le film.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Nous achetons les billets.",
@@ -38,7 +40,8 @@
         "les billets",
         "geen COD"
       ],
-      "explanation": "Nous achetons quoi ? → les billets."
+      "explanation": "Nous achetons quoi ? → les billets.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Tu écoutes cette chanson.",
@@ -50,7 +53,8 @@
         "cette chanson",
         "geen COD"
       ],
-      "explanation": "Tu écoutes quoi ? → cette chanson."
+      "explanation": "Tu écoutes quoi ? → cette chanson.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Paul adore le football.",
@@ -62,7 +66,8 @@
         "le football",
         "geen COD"
       ],
-      "explanation": "Paul adore quoi ? → le football."
+      "explanation": "Paul adore quoi ? → le football.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Elle cherche son téléphone.",
@@ -74,7 +79,8 @@
         "son téléphone",
         "geen COD"
       ],
-      "explanation": "Elle cherche quoi ? → son téléphone."
+      "explanation": "Elle cherche quoi ? → son téléphone.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "On prépare le dîner.",
@@ -86,7 +92,8 @@
         "le dîner",
         "geen COD"
       ],
-      "explanation": "On prépare quoi ? → le dîner."
+      "explanation": "On prépare quoi ? → le dîner.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Vous invitez vos amis.",
@@ -98,7 +105,8 @@
         "vos amis",
         "geen COD"
       ],
-      "explanation": "Vous invitez qui ? → vos amis."
+      "explanation": "Vous invitez qui ? → vos amis.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Le garçon ferme la porte.",
@@ -110,7 +118,8 @@
         "la porte",
         "geen COD"
       ],
-      "explanation": "Le garçon ferme quoi ? → la porte."
+      "explanation": "Le garçon ferme quoi ? → la porte.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Les élèves lisent le texte.",
@@ -122,7 +131,8 @@
         "le texte",
         "geen COD"
       ],
-      "explanation": "Les élèves lisent quoi ? → le texte."
+      "explanation": "Les élèves lisent quoi ? → le texte.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Je prends le bus.",
@@ -134,7 +144,8 @@
         "le bus",
         "geen COD"
       ],
-      "explanation": "Je prends quoi ? → le bus."
+      "explanation": "Je prends quoi ? → le bus.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Ils visitent Paris.",
@@ -146,7 +157,8 @@
         "Paris",
         "geen COD"
       ],
-      "explanation": "Ils visitent quoi ? → Paris. Ook een eigennaam kan COD zijn."
+      "explanation": "Ils visitent quoi ? → Paris. Ook een eigennaam kan COD zijn.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Léa aime son chien.",
@@ -158,7 +170,8 @@
         "son chien",
         "geen COD"
       ],
-      "explanation": "Léa aime qui ? → son chien."
+      "explanation": "Léa aime qui ? → son chien.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Nous regardons la télévision.",
@@ -170,7 +183,8 @@
         "la télévision",
         "geen COD"
       ],
-      "explanation": "Nous regardons quoi ? → la télévision."
+      "explanation": "Nous regardons quoi ? → la télévision.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Mon frère ouvre la fenêtre.",
@@ -182,7 +196,8 @@
         "la fenêtre",
         "geen COD"
       ],
-      "explanation": "Mon frère ouvre quoi ? → la fenêtre."
+      "explanation": "Mon frère ouvre quoi ? → la fenêtre.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Le professeur pose une question.",
@@ -194,10 +209,11 @@
         "une question",
         "geen COD"
       ],
-      "explanation": "Le professeur pose quoi ? → une question."
+      "explanation": "Le professeur pose quoi ? → une question.",
+      "sentenceForm": "regular"
     },
     {
-      "sentence": "Nina charge son téléphone avant le cours.",
+      "sentence": "Nina ne charge pas son téléphone avant le cours.",
       "question": "Wat is het COD?",
       "answer": "son téléphone",
       "options": [
@@ -206,10 +222,11 @@
         "avant le cours",
         "geen COD"
       ],
-      "explanation": "Nina charge quoi ? → son téléphone. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook in een ontkennende zin blijft het COD <strong>son téléphone</strong>: vraag wie? of wat? na het werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Tu regardes une vidéo drôle dans le bus.",
+      "sentence": "Tu ne regardes pas une vidéo drôle dans le bus.",
       "question": "Wat is het COD?",
       "answer": "une vidéo drôle",
       "options": [
@@ -218,10 +235,11 @@
         "dans le bus",
         "geen COD"
       ],
-      "explanation": "Tu regardes quoi ? → une vidéo drôle. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook in een ontkennende zin blijft het COD <strong>une vidéo drôle</strong>: vraag wie? of wat? na het werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Mes amis organisent une soirée samedi soir.",
+      "sentence": "Mes amis n’organisent pas une soirée samedi soir.",
       "question": "Wat is het COD?",
       "answer": "une soirée",
       "options": [
@@ -230,10 +248,11 @@
         "samedi soir",
         "geen COD"
       ],
-      "explanation": "Mes amis organisent quoi ? → une soirée. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook in een ontkennende zin blijft het COD <strong>une soirée</strong>: vraag wie? of wat? na het werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Yanis porte son nouveau sweat au collège.",
+      "sentence": "Yanis ne porte pas son nouveau sweat au collège.",
       "question": "Wat is het COD?",
       "answer": "son nouveau sweat",
       "options": [
@@ -242,10 +261,11 @@
         "au collège",
         "geen COD"
       ],
-      "explanation": "Yanis porte quoi ? → son nouveau sweat. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook in een ontkennende zin blijft het COD <strong>son nouveau sweat</strong>: vraag wie? of wat? na het werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Nous partageons une pizza après le match.",
+      "sentence": "Nous ne partageons pas une pizza après le match.",
       "question": "Wat is het COD?",
       "answer": "une pizza",
       "options": [
@@ -254,10 +274,11 @@
         "après le match",
         "geen COD"
       ],
-      "explanation": "Nous partageons quoi ? → une pizza. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook in een ontkennende zin blijft het COD <strong>une pizza</strong>: vraag wie? of wat? na het werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Emma photographie le coucher de soleil au bord du lac.",
+      "sentence": "Emma ne photographie pas le coucher de soleil au bord du lac.",
       "question": "Wat is het COD?",
       "answer": "le coucher de soleil",
       "options": [
@@ -266,10 +287,11 @@
         "au bord du lac",
         "geen COD"
       ],
-      "explanation": "Emma photographie quoi ? → le coucher de soleil. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook in een ontkennende zin blijft het COD <strong>le coucher de soleil</strong>: vraag wie? of wat? na het werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Je termine mes devoirs avant le dîner.",
+      "sentence": "Je ne termine pas mes devoirs avant le dîner.",
       "question": "Wat is het COD?",
       "answer": "mes devoirs",
       "options": [
@@ -278,10 +300,11 @@
         "avant le dîner",
         "geen COD"
       ],
-      "explanation": "Je termine quoi ? → mes devoirs. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook in een ontkennende zin blijft het COD <strong>mes devoirs</strong>: vraag wie? of wat? na het werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Lucas choisit une playlist pour la fête.",
+      "sentence": "Lucas ne choisit pas une playlist pour la fête.",
       "question": "Wat is het COD?",
       "answer": "une playlist",
       "options": [
@@ -290,10 +313,11 @@
         "pour la fête",
         "geen COD"
       ],
-      "explanation": "Lucas choisit quoi ? → une playlist. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook in een ontkennende zin blijft het COD <strong>une playlist</strong>: vraag wie? of wat? na het werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Vous préparez un smoothie après le sport.",
+      "sentence": "Vous ne préparez pas un smoothie après le sport.",
       "question": "Wat is het COD?",
       "answer": "un smoothie",
       "options": [
@@ -302,10 +326,11 @@
         "après le sport",
         "geen COD"
       ],
-      "explanation": "Vous préparez quoi ? → un smoothie. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook in een ontkennende zin blijft het COD <strong>un smoothie</strong>: vraag wie? of wat? na het werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Les filles décorent leur chambre pour la fête.",
+      "sentence": "Les filles ne décorent pas leur chambre pour la fête.",
       "question": "Wat is het COD?",
       "answer": "leur chambre",
       "options": [
@@ -314,10 +339,11 @@
         "pour la fête",
         "geen COD"
       ],
-      "explanation": "Les filles décorent quoi ? → leur chambre. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook in een ontkennende zin blijft het COD <strong>leur chambre</strong>: vraag wie? of wat? na het werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Tom répare son vélo dans le garage.",
+      "sentence": "Tom ne répare pas son vélo dans le garage.",
       "question": "Wat is het COD?",
       "answer": "son vélo",
       "options": [
@@ -326,10 +352,11 @@
         "dans le garage",
         "geen COD"
       ],
-      "explanation": "Tom répare quoi ? → son vélo. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook in een ontkennende zin blijft het COD <strong>son vélo</strong>: vraag wie? of wat? na het werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "On télécharge une nouvelle application ce soir.",
+      "sentence": "On ne télécharge pas une nouvelle application ce soir.",
       "question": "Wat is het COD?",
       "answer": "une nouvelle application",
       "options": [
@@ -338,10 +365,11 @@
         "ce soir",
         "geen COD"
       ],
-      "explanation": "On télécharge quoi ? → une nouvelle application. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook in een ontkennende zin blijft het COD <strong>une nouvelle application</strong>: vraag wie? of wat? na het werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Sarah dessine un manga pendant la pause.",
+      "sentence": "Sarah ne dessine pas un manga pendant la pause.",
       "question": "Wat is het COD?",
       "answer": "un manga",
       "options": [
@@ -350,10 +378,11 @@
         "pendant la pause",
         "geen COD"
       ],
-      "explanation": "Sarah dessine quoi ? → un manga. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook in een ontkennende zin blijft het COD <strong>un manga</strong>: vraag wie? of wat? na het werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Mon cousin collectionne les cartes de football depuis deux ans.",
+      "sentence": "Mon cousin ne collectionne pas les cartes de football depuis deux ans.",
       "question": "Wat is het COD?",
       "answer": "les cartes de football",
       "options": [
@@ -362,10 +391,11 @@
         "depuis deux ans",
         "geen COD"
       ],
-      "explanation": "Mon cousin collectionne quoi ? → les cartes de football. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook in een ontkennende zin blijft het COD <strong>les cartes de football</strong>: vraag wie? of wat? na het werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Ils suivent cette série chaque vendredi.",
+      "sentence": "Ils ne suivent pas cette série chaque vendredi.",
       "question": "Wat is het COD?",
       "answer": "cette série",
       "options": [
@@ -374,10 +404,11 @@
         "chaque vendredi",
         "geen COD"
       ],
-      "explanation": "Ils suivent quoi ? → cette série. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook in een ontkennende zin blijft het COD <strong>cette série</strong>: vraag wie? of wat? na het werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Je range mes écouteurs dans ma poche.",
+      "sentence": "Je ne range pas mes écouteurs dans ma poche.",
       "question": "Wat is het COD?",
       "answer": "mes écouteurs",
       "options": [
@@ -386,103 +417,112 @@
         "dans ma poche",
         "geen COD"
       ],
-      "explanation": "Je range quoi ? → mes écouteurs. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook in een ontkennende zin blijft het COD <strong>mes écouteurs</strong>: vraag wie? of wat? na het werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Chloé envoie un message après le cours.",
-      "question": "Wat is het COD?",
+      "sentence": "Envoie un message après le cours !",
+      "question": "Wat is het COD in deze bevelzin?",
       "answer": "un message",
       "options": [
-        "Chloé",
         "un message",
         "après le cours",
-        "geen COD"
+        "Envoie",
+        "le cours"
       ],
-      "explanation": "Chloé envoie quoi ? → un message. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook een bevelzin kan een COD hebben: wat moet je envoie? → un message.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Tu commandes un burger à la cafétéria.",
-      "question": "Wat is het COD?",
+      "sentence": "Commande un burger à la cafétéria !",
+      "question": "Wat is het COD in deze bevelzin?",
       "answer": "un burger",
       "options": [
-        "Tu",
         "un burger",
         "à la cafétéria",
-        "geen COD"
+        "Commande",
+        "la cafétéria"
       ],
-      "explanation": "Tu commandes quoi ? → un burger. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook een bevelzin kan een COD hebben: wat moet je commande? → un burger.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Nous testons ce jeu pendant le week-end.",
-      "question": "Wat is het COD?",
+      "sentence": "Testons ce jeu pendant le week-end !",
+      "question": "Wat is het COD in deze bevelzin?",
       "answer": "ce jeu",
       "options": [
-        "Nous",
         "ce jeu",
         "pendant le week-end",
-        "geen COD"
+        "Testons",
+        "le week-end"
       ],
-      "explanation": "Nous testons quoi ? → ce jeu. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook een bevelzin kan een COD hebben: wat moet je testons? → ce jeu.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Le gardien attrape le ballon près du but.",
-      "question": "Wat is het COD?",
+      "sentence": "Attrape le ballon près du but !",
+      "question": "Wat is het COD in deze bevelzin?",
       "answer": "le ballon",
       "options": [
-        "Le gardien",
         "le ballon",
         "près du but",
-        "geen COD"
+        "Attrape",
+        "le but"
       ],
-      "explanation": "Le gardien attrape quoi ? → le ballon. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook een bevelzin kan een COD hebben: wat moet je attrape? → le ballon.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Ma sœur emprunte mon chargeur pour dix minutes.",
-      "question": "Wat is het COD?",
+      "sentence": "Emprunte mon chargeur pour dix minutes !",
+      "question": "Wat is het COD in deze bevelzin?",
       "answer": "mon chargeur",
       "options": [
-        "Ma sœur",
         "mon chargeur",
         "pour dix minutes",
-        "geen COD"
+        "Emprunte",
+        "dix minutes"
       ],
-      "explanation": "Ma sœur emprunte quoi ? → mon chargeur. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook een bevelzin kan een COD hebben: wat moet je emprunte? → mon chargeur.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Vous apprenez cette chanson pour le spectacle.",
-      "question": "Wat is het COD?",
+      "sentence": "Apprenez cette chanson pour le spectacle !",
+      "question": "Wat is het COD in deze bevelzin?",
       "answer": "cette chanson",
       "options": [
-        "Vous",
         "cette chanson",
         "pour le spectacle",
-        "geen COD"
+        "Apprenez",
+        "le spectacle"
       ],
-      "explanation": "Vous apprenez quoi ? → cette chanson. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook een bevelzin kan een COD hebben: wat moet je apprenez? → cette chanson.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Les élèves préparent une affiche pour la classe.",
-      "question": "Wat is het COD?",
+      "sentence": "Préparez une affiche pour la classe !",
+      "question": "Wat is het COD in deze bevelzin?",
       "answer": "une affiche",
       "options": [
-        "Les élèves",
         "une affiche",
         "pour la classe",
-        "geen COD"
+        "Préparez",
+        "la classe"
       ],
-      "explanation": "Les élèves préparent quoi ? → une affiche. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook een bevelzin kan een COD hebben: wat moet je préparez? → une affiche.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Max cherche sa casquette dans sa chambre.",
-      "question": "Wat is het COD?",
-      "answer": "sa casquette",
+      "sentence": "Cherche ta casquette dans ta chambre !",
+      "question": "Wat is het COD in deze bevelzin?",
+      "answer": "ta casquette",
       "options": [
-        "Max",
-        "sa casquette",
-        "dans sa chambre",
-        "geen COD"
+        "ta casquette",
+        "dans ta chambre",
+        "Cherche",
+        "ta chambre"
       ],
-      "explanation": "Max cherche quoi ? → sa casquette. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ook een bevelzin kan een COD hebben: wat moet je cherche? → ta casquette.",
+      "sentenceForm": "imperative"
     },
     {
       "sentence": "Je prends une photo devant le stade.",
@@ -494,7 +534,8 @@
         "devant le stade",
         "geen COD"
       ],
-      "explanation": "Je prends quoi ? → une photo. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Je prends quoi ? → une photo. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Léa achète des baskets en ville.",
@@ -506,7 +547,8 @@
         "en ville",
         "geen COD"
       ],
-      "explanation": "Léa achète quoi ? → des baskets. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Léa achète quoi ? → des baskets. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "On écoute ce podcast dans le train.",
@@ -518,7 +560,8 @@
         "dans le train",
         "geen COD"
       ],
-      "explanation": "On écoute quoi ? → ce podcast. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "On écoute quoi ? → ce podcast. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Tu ouvres ton cadeau après le dessert.",
@@ -530,7 +573,8 @@
         "après le dessert",
         "geen COD"
       ],
-      "explanation": "Tu ouvres quoi ? → ton cadeau. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Tu ouvres quoi ? → ton cadeau. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Nos amis découvrent le nouveau skatepark cet après-midi.",
@@ -542,7 +586,8 @@
         "cet après-midi",
         "geen COD"
       ],
-      "explanation": "Nos amis découvrent quoi ? → le nouveau skatepark. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Nos amis découvrent quoi ? → le nouveau skatepark. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Zoé adore les animaux depuis toujours.",
@@ -554,7 +599,8 @@
         "depuis toujours",
         "geen COD"
       ],
-      "explanation": "Zoé adore quoi ? → les animaux. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Zoé adore quoi ? → les animaux. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Le serveur apporte les boissons à notre table.",
@@ -566,7 +612,8 @@
         "à notre table",
         "geen COD"
       ],
-      "explanation": "Le serveur apporte quoi ? → les boissons. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Le serveur apporte quoi ? → les boissons. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Nous regardons le match chez Hugo.",
@@ -578,7 +625,8 @@
         "chez Hugo",
         "geen COD"
       ],
-      "explanation": "Nous regardons quoi ? → le match. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Nous regardons quoi ? → le match. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Ma mère prépare des crêpes le dimanche.",
@@ -590,7 +638,8 @@
         "le dimanche",
         "geen COD"
       ],
-      "explanation": "Ma mère prépare quoi ? → des crêpes. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ma mère prépare quoi ? → des crêpes. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Je lis ce message dans le couloir.",
@@ -602,7 +651,8 @@
         "dans le couloir",
         "geen COD"
       ],
-      "explanation": "Je lis quoi ? → ce message. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Je lis quoi ? → ce message. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Arthur ferme son casier après les cours.",
@@ -614,7 +664,8 @@
         "après les cours",
         "geen COD"
       ],
-      "explanation": "Arthur ferme quoi ? → son casier. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Arthur ferme quoi ? → son casier. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Vous invitez votre équipe à la fête.",
@@ -626,7 +677,8 @@
         "à la fête",
         "geen COD"
       ],
-      "explanation": "Vous invitez qui ? → votre équipe. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Vous invitez qui ? → votre équipe. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Ils choisissent un film pour ce soir.",
@@ -638,7 +690,8 @@
         "pour ce soir",
         "geen COD"
       ],
-      "explanation": "Ils choisissent quoi ? → un film. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Ils choisissent quoi ? → un film. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Tu portes ton sac sur une épaule.",
@@ -650,7 +703,8 @@
         "sur une épaule",
         "geen COD"
       ],
-      "explanation": "Tu portes quoi ? → ton sac. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Tu portes quoi ? → ton sac. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Mia utilise ma tablette pour le dessin.",
@@ -662,7 +716,8 @@
         "pour le dessin",
         "geen COD"
       ],
-      "explanation": "Mia utilise quoi ? → ma tablette. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Mia utilise quoi ? → ma tablette. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "On partage les photos dans le groupe.",
@@ -674,7 +729,8 @@
         "dans le groupe",
         "geen COD"
       ],
-      "explanation": "On partage quoi ? → les photos. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "On partage quoi ? → les photos. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Les supporters chantent leur chanson avant le coup d’envoi.",
@@ -686,7 +742,8 @@
         "avant le coup d’envoi",
         "geen COD"
       ],
-      "explanation": "Les supporters chantent quoi ? → leur chanson. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Les supporters chantent quoi ? → leur chanson. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Je prends mon casque avant de partir.",
@@ -698,7 +755,8 @@
         "avant de partir",
         "geen COD"
       ],
-      "explanation": "Je prends quoi ? → mon casque. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Je prends quoi ? → mon casque. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Le DJ lance le morceau à minuit.",
@@ -710,7 +768,8 @@
         "à minuit",
         "geen COD"
       ],
-      "explanation": "Le DJ lance quoi ? → le morceau. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Le DJ lance quoi ? → le morceau. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Camille nettoie ses baskets après l’entraînement.",
@@ -722,7 +781,8 @@
         "après l’entraînement",
         "geen COD"
       ],
-      "explanation": "Camille nettoie quoi ? → ses baskets. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Camille nettoie quoi ? → ses baskets. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Nous préparons le goûter pour nos amis.",
@@ -734,7 +794,8 @@
         "pour nos amis",
         "geen COD"
       ],
-      "explanation": "Nous préparons quoi ? → le goûter. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Nous préparons quoi ? → le goûter. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Tu retrouves tes clés sous le canapé.",
@@ -746,7 +807,8 @@
         "sous le canapé",
         "geen COD"
       ],
-      "explanation": "Tu retrouves quoi ? → tes clés. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Tu retrouves quoi ? → tes clés. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Hugo dessine un logo pour son équipe.",
@@ -758,7 +820,8 @@
         "pour son équipe",
         "geen COD"
       ],
-      "explanation": "Hugo dessine quoi ? → un logo. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Hugo dessine quoi ? → un logo. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Les ados regardent les étoiles depuis le jardin.",
@@ -770,7 +833,8 @@
         "depuis le jardin",
         "geen COD"
       ],
-      "explanation": "Les ados regardent quoi ? → les étoiles. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD."
+      "explanation": "Les ados regardent quoi ? → les étoiles. Dit zinsdeel staat rechtstreeks bij het werkwoord en is dus het COD.",
+      "sentenceForm": "regular"
     }
   ],
   "replacement": [
@@ -786,7 +850,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Le film is mannelijk enkelvoud → le. Het voornaamwoord staat vóór regarde."
+      "explanation": "Le film is mannelijk enkelvoud → le. Het voornaamwoord staat vóór regarde.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Elle ferme la porte.",
@@ -800,7 +865,8 @@
         "l’",
         "les"
       ],
-      "explanation": "La porte is vrouwelijk enkelvoud → la. Dus: Elle la ferme."
+      "explanation": "La porte is vrouwelijk enkelvoud → la. Dus: Elle la ferme.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Nous réservons les places.",
@@ -814,7 +880,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Les places is meervoud → les. Dus: Nous les réservons."
+      "explanation": "Les places is meervoud → les. Dus: Nous les réservons.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "J’aime la musique.",
@@ -828,7 +895,8 @@
         "l’",
         "les"
       ],
-      "explanation": "La wordt l’ vóór een werkwoord dat met een klinker begint: Je l’aime."
+      "explanation": "La wordt l’ vóór een werkwoord dat met een klinker begint: Je l’aime.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Tu invites Marie.",
@@ -842,7 +910,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Marie wordt la, maar vóór invites wordt la → l’. Dus: Tu l’invites."
+      "explanation": "Marie wordt la, maar vóór invites wordt la → l’. Dus: Tu l’invites.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Il écoute les chansons.",
@@ -856,7 +925,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Les chansons is meervoud → les."
+      "explanation": "Les chansons is meervoud → les.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "On prend le bus.",
@@ -870,7 +940,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Le bus is mannelijk enkelvoud → le."
+      "explanation": "Le bus is mannelijk enkelvoud → le.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Vous regardez la télévision.",
@@ -884,7 +955,8 @@
         "l’",
         "les"
       ],
-      "explanation": "La télévision is vrouwelijk enkelvoud → la."
+      "explanation": "La télévision is vrouwelijk enkelvoud → la.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Ils aiment leurs amis.",
@@ -898,7 +970,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Leurs amis is meervoud → les."
+      "explanation": "Leurs amis is meervoud → les.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "J’ouvre la fenêtre.",
@@ -912,7 +985,8 @@
         "l’",
         "les"
       ],
-      "explanation": "La fenêtre wordt la, maar vóór ouvre wordt la → l’. Dus: Je l’ouvre."
+      "explanation": "La fenêtre wordt la, maar vóór ouvre wordt la → l’. Dus: Je l’ouvre.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Nous cherchons le professeur.",
@@ -926,7 +1000,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Le professeur is mannelijk enkelvoud → le."
+      "explanation": "Le professeur is mannelijk enkelvoud → le.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Elle prépare la pizza.",
@@ -940,7 +1015,8 @@
         "l’",
         "les"
       ],
-      "explanation": "La pizza is vrouwelijk enkelvoud → la."
+      "explanation": "La pizza is vrouwelijk enkelvoud → la.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Tu prends les clés.",
@@ -954,7 +1030,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Les clés is meervoud → les."
+      "explanation": "Les clés is meervoud → les.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Paul adore ce jeu.",
@@ -968,7 +1045,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Ce jeu wordt le, maar vóór adore wordt le → l’. Dus: Paul l’adore."
+      "explanation": "Ce jeu wordt le, maar vóór adore wordt le → l’. Dus: Paul l’adore.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Les enfants mangent les frites.",
@@ -982,7 +1060,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Les frites is meervoud → les."
+      "explanation": "Les frites is meervoud → les.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Je connais cette fille.",
@@ -996,13 +1075,14 @@
         "l’",
         "les"
       ],
-      "explanation": "Cette fille is vrouwelijk enkelvoud → la."
+      "explanation": "Cette fille is vrouwelijk enkelvoud → la.",
+      "sentenceForm": "regular"
     },
     {
-      "sentence": "Nina recharge son téléphone pendant la pause.",
+      "sentence": "Nina ne recharge pas son téléphone pendant la pause.",
       "target": "son téléphone",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Nina le recharge pendant la pause.",
+      "answer": "Nina ne le recharge pas pendant la pause.",
       "pronoun": "le",
       "options": [
         "le",
@@ -1010,13 +1090,14 @@
         "l’",
         "les"
       ],
-      "explanation": "Son téléphone est masculin singulier → le. Le pronom se place avant recharge."
+      "explanation": "son téléphone → le. Bij een ontkenning staat het COD-voornaamwoord vóór het vervoegde werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Tu regardes cette vidéo après le dîner.",
+      "sentence": "Tu ne regardes pas cette vidéo après le dîner.",
       "target": "cette vidéo",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Tu la regardes après le dîner.",
+      "answer": "Tu ne la regardes pas après le dîner.",
       "pronoun": "la",
       "options": [
         "le",
@@ -1024,13 +1105,14 @@
         "l’",
         "les"
       ],
-      "explanation": "Cette vidéo est féminin singulier → la."
+      "explanation": "cette vidéo → la. Bij een ontkenning staat het COD-voornaamwoord vóór het vervoegde werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Mes amis invitent leurs cousins vendredi.",
+      "sentence": "Mes amis n’invitent pas leurs cousins vendredi.",
       "target": "leurs cousins",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Mes amis les invitent vendredi.",
+      "answer": "Mes amis ne les invitent pas vendredi.",
       "pronoun": "les",
       "options": [
         "le",
@@ -1038,13 +1120,14 @@
         "l’",
         "les"
       ],
-      "explanation": "Leurs cousins est pluriel → les."
+      "explanation": "leurs cousins → les. Bij een ontkenning staat het COD-voornaamwoord vóór het vervoegde werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Yanis adore ce nouveau jeu.",
+      "sentence": "Yanis n’adore pas ce nouveau jeu.",
       "target": "ce nouveau jeu",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Yanis l’adore.",
+      "answer": "Yanis ne l’adore pas.",
       "pronoun": "l’",
       "options": [
         "le",
@@ -1052,13 +1135,14 @@
         "l’",
         "les"
       ],
-      "explanation": "Ce nouveau jeu → le, mais devant adore on emploie l’."
+      "explanation": "ce nouveau jeu → l’. Bij een ontkenning staat het COD-voornaamwoord vóór het vervoegde werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Nous partageons la tarte au goûter.",
+      "sentence": "Nous ne partageons pas la tarte au goûter.",
       "target": "la tarte",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Nous la partageons au goûter.",
+      "answer": "Nous ne la partageons pas au goûter.",
       "pronoun": "la",
       "options": [
         "le",
@@ -1066,13 +1150,14 @@
         "l’",
         "les"
       ],
-      "explanation": "La tarte est féminin singulier → la."
+      "explanation": "la tarte → la. Bij een ontkenning staat het COD-voornaamwoord vóór het vervoegde werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Emma photographie ses copines devant la salle.",
+      "sentence": "Emma ne photographie pas ses copines devant la salle.",
       "target": "ses copines",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Emma les photographie devant la salle.",
+      "answer": "Emma ne les photographie pas devant la salle.",
       "pronoun": "les",
       "options": [
         "le",
@@ -1080,13 +1165,14 @@
         "l’",
         "les"
       ],
-      "explanation": "Ses copines est pluriel → les."
+      "explanation": "ses copines → les. Bij een ontkenning staat het COD-voornaamwoord vóór het vervoegde werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Je termine mon exercice avant la sonnerie.",
+      "sentence": "Je ne termine pas mon exercice avant la sonnerie.",
       "target": "mon exercice",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Je le termine avant la sonnerie.",
+      "answer": "Je ne le termine pas avant la sonnerie.",
       "pronoun": "le",
       "options": [
         "le",
@@ -1094,13 +1180,14 @@
         "l’",
         "les"
       ],
-      "explanation": "Mon exercice est masculin singulier → le."
+      "explanation": "mon exercice → le. Bij een ontkenning staat het COD-voornaamwoord vóór het vervoegde werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Lucas choisit cette musique pour sa vidéo.",
+      "sentence": "Lucas ne choisit pas cette musique pour sa vidéo.",
       "target": "cette musique",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Lucas la choisit pour sa vidéo.",
+      "answer": "Lucas ne la choisit pas pour sa vidéo.",
       "pronoun": "la",
       "options": [
         "le",
@@ -1108,13 +1195,14 @@
         "l’",
         "les"
       ],
-      "explanation": "Cette musique est féminin singulier → la."
+      "explanation": "cette musique → la. Bij een ontkenning staat het COD-voornaamwoord vóór het vervoegde werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Vous préparez les sandwiches pour le voyage.",
+      "sentence": "Vous ne préparez pas les sandwiches pour le voyage.",
       "target": "les sandwiches",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Vous les préparez pour le voyage.",
+      "answer": "Vous ne les préparez pas pour le voyage.",
       "pronoun": "les",
       "options": [
         "le",
@@ -1122,13 +1210,14 @@
         "l’",
         "les"
       ],
-      "explanation": "Les sandwiches est pluriel → les."
+      "explanation": "les sandwiches → les. Bij een ontkenning staat het COD-voornaamwoord vóór het vervoegde werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Sarah dessine ce personnage sur sa tablette.",
+      "sentence": "Sarah ne dessine pas ce personnage sur sa tablette.",
       "target": "ce personnage",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Sarah le dessine sur sa tablette.",
+      "answer": "Sarah ne le dessine pas sur sa tablette.",
       "pronoun": "le",
       "options": [
         "le",
@@ -1136,13 +1225,14 @@
         "l’",
         "les"
       ],
-      "explanation": "Ce personnage est masculin singulier → le."
+      "explanation": "ce personnage → le. Bij een ontkenning staat het COD-voornaamwoord vóór het vervoegde werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Tom répare sa trottinette cet après-midi.",
+      "sentence": "Tom ne répare pas sa trottinette cet après-midi.",
       "target": "sa trottinette",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Tom la répare cet après-midi.",
+      "answer": "Tom ne la répare pas cet après-midi.",
       "pronoun": "la",
       "options": [
         "le",
@@ -1150,13 +1240,14 @@
         "l’",
         "les"
       ],
-      "explanation": "Sa trottinette est féminin singulier → la."
+      "explanation": "sa trottinette → la. Bij een ontkenning staat het COD-voornaamwoord vóór het vervoegde werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "On télécharge cette application sur le téléphone.",
+      "sentence": "On ne télécharge pas cette application sur le téléphone.",
       "target": "cette application",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "On la télécharge sur le téléphone.",
+      "answer": "On ne la télécharge pas sur le téléphone.",
       "pronoun": "la",
       "options": [
         "le",
@@ -1164,13 +1255,14 @@
         "l’",
         "les"
       ],
-      "explanation": "Cette application est féminin singulier → la."
+      "explanation": "cette application → la. Bij een ontkenning staat het COD-voornaamwoord vóór het vervoegde werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Chloé envoie le lien à son ami.",
+      "sentence": "Chloé n’envoie pas le lien à son ami.",
       "target": "le lien",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Chloé l’envoie à son ami.",
+      "answer": "Chloé ne l’envoie pas à son ami.",
       "pronoun": "l’",
       "options": [
         "le",
@@ -1178,13 +1270,14 @@
         "l’",
         "les"
       ],
-      "explanation": "Le lien → le, mais devant envoie on emploie l’."
+      "explanation": "le lien → l’. Bij een ontkenning staat het COD-voornaamwoord vóór het vervoegde werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Mon cousin collectionne ces figurines.",
+      "sentence": "Mon cousin ne collectionne pas ces figurines.",
       "target": "ces figurines",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Mon cousin les collectionne.",
+      "answer": "Mon cousin ne les collectionne pas.",
       "pronoun": "les",
       "options": [
         "le",
@@ -1192,13 +1285,14 @@
         "l’",
         "les"
       ],
-      "explanation": "Ces figurines est pluriel → les."
+      "explanation": "ces figurines → les. Bij een ontkenning staat het COD-voornaamwoord vóór het vervoegde werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Ils suivent cette chaîne sur Internet.",
+      "sentence": "Ils ne suivent pas cette chaîne sur Internet.",
       "target": "cette chaîne",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Ils la suivent sur Internet.",
+      "answer": "Ils ne la suivent pas sur Internet.",
       "pronoun": "la",
       "options": [
         "le",
@@ -1206,13 +1300,14 @@
         "l’",
         "les"
       ],
-      "explanation": "Cette chaîne est féminin singulier → la."
+      "explanation": "cette chaîne → la. Bij een ontkenning staat het COD-voornaamwoord vóór het vervoegde werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Je range mes chaussures dans l’entrée.",
+      "sentence": "Je ne range pas mes chaussures dans l’entrée.",
       "target": "mes chaussures",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Je les range dans l’entrée.",
+      "answer": "Je ne les range pas dans l’entrée.",
       "pronoun": "les",
       "options": [
         "le",
@@ -1220,13 +1315,14 @@
         "l’",
         "les"
       ],
-      "explanation": "Mes chaussures est pluriel → les."
+      "explanation": "mes chaussures → les. Bij een ontkenning staat het COD-voornaamwoord vóór het vervoegde werkwoord.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Tu commandes ce menu à midi.",
+      "sentence": "Commande ce menu à midi !",
       "target": "ce menu",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Tu le commandes à midi.",
+      "answer": "Commande-le à midi.",
       "pronoun": "le",
       "options": [
         "le",
@@ -1234,13 +1330,14 @@
         "l’",
         "les"
       ],
-      "explanation": "Ce menu est masculin singulier → le."
+      "explanation": "ce menu → le. Bij een bevestigend bevel staat het COD-voornaamwoord ná het werkwoord, met een koppelteken.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Nous testons la nouvelle console chez Max.",
+      "sentence": "Testons la nouvelle console chez Max !",
       "target": "la nouvelle console",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Nous la testons chez Max.",
+      "answer": "Testons-la chez Max.",
       "pronoun": "la",
       "options": [
         "le",
@@ -1248,41 +1345,44 @@
         "l’",
         "les"
       ],
-      "explanation": "La nouvelle console est féminin singulier → la."
+      "explanation": "la nouvelle console → la. Bij een bevestigend bevel staat het COD-voornaamwoord ná het werkwoord, met een koppelteken.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Le gardien attrape ce ballon sans problème.",
+      "sentence": "Attrape ce ballon sans problème !",
       "target": "ce ballon",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Le gardien l’attrape sans problème.",
-      "pronoun": "l’",
+      "answer": "Attrape-le sans problème.",
+      "pronoun": "le",
       "options": [
         "le",
         "la",
         "l’",
         "les"
       ],
-      "explanation": "Ce ballon → le, mais devant attrape on emploie l’."
+      "explanation": "ce ballon → le. Bij een bevestigend bevel staat het COD-voornaamwoord ná het werkwoord, met een koppelteken.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Ma sœur emprunte mon casque pour le trajet.",
+      "sentence": "Emprunte mon casque pour le trajet !",
       "target": "mon casque",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Ma sœur l’emprunte pour le trajet.",
-      "pronoun": "l’",
+      "answer": "Emprunte-le pour le trajet.",
+      "pronoun": "le",
       "options": [
         "le",
         "la",
         "l’",
         "les"
       ],
-      "explanation": "Mon casque → le, mais devant emprunte on emploie l’."
+      "explanation": "mon casque → le. Bij een bevestigend bevel staat het COD-voornaamwoord ná het werkwoord, met een koppelteken.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Vous apprenez ces phrases pour demain.",
+      "sentence": "Apprenez ces phrases pour demain !",
       "target": "ces phrases",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Vous les apprenez pour demain.",
+      "answer": "Apprenez-les pour demain.",
       "pronoun": "les",
       "options": [
         "le",
@@ -1290,13 +1390,14 @@
         "l’",
         "les"
       ],
-      "explanation": "Ces phrases est pluriel → les."
+      "explanation": "ces phrases → les. Bij een bevestigend bevel staat het COD-voornaamwoord ná het werkwoord, met een koppelteken.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Les élèves préparent cette présentation ensemble.",
+      "sentence": "Préparez cette présentation ensemble !",
       "target": "cette présentation",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Les élèves la préparent ensemble.",
+      "answer": "Préparez-la ensemble.",
       "pronoun": "la",
       "options": [
         "le",
@@ -1304,13 +1405,14 @@
         "l’",
         "les"
       ],
-      "explanation": "Cette présentation est féminin singulier → la."
+      "explanation": "cette présentation → la. Bij een bevestigend bevel staat het COD-voornaamwoord ná het werkwoord, met een koppelteken.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Max cherche sa veste avant de sortir.",
-      "target": "sa veste",
+      "sentence": "Cherche ta veste avant de sortir !",
+      "target": "ta veste",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Max la cherche avant de sortir.",
+      "answer": "Cherche-la avant de sortir.",
       "pronoun": "la",
       "options": [
         "le",
@@ -1318,13 +1420,14 @@
         "l’",
         "les"
       ],
-      "explanation": "Sa veste est féminin singulier → la."
+      "explanation": "ta veste → la. Bij een bevestigend bevel staat het COD-voornaamwoord ná het werkwoord, met een koppelteken.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Je prends cette photo pour mon profil.",
+      "sentence": "Prends cette photo pour ton profil !",
       "target": "cette photo",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Je la prends pour mon profil.",
+      "answer": "Prends-la pour ton profil.",
       "pronoun": "la",
       "options": [
         "le",
@@ -1332,7 +1435,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Cette photo est féminin singulier → la."
+      "explanation": "cette photo → la. Bij een bevestigend bevel staat het COD-voornaamwoord ná het werkwoord, met een koppelteken.",
+      "sentenceForm": "imperative"
     },
     {
       "sentence": "Léa achète ces chaussures samedi.",
@@ -1346,7 +1450,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Ces chaussures est pluriel → les."
+      "explanation": "Ces chaussures est pluriel → les.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "On écoute ce morceau en boucle.",
@@ -1360,7 +1465,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Ce morceau → le, mais devant écoute on emploie l’."
+      "explanation": "Ce morceau → le, mais devant écoute on emploie l’.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Tu ouvres ton colis dans ta chambre.",
@@ -1374,7 +1480,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Ton colis → le, mais devant ouvres on emploie l’."
+      "explanation": "Ton colis → le, mais devant ouvres on emploie l’.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Nos amis visitent ce château pendant les vacances.",
@@ -1388,7 +1495,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Ce château est masculin singulier → le."
+      "explanation": "Ce château est masculin singulier → le.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Zoé adore les films d’animation.",
@@ -1402,7 +1510,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Les films d’animation est pluriel → les."
+      "explanation": "Les films d’animation est pluriel → les.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Le serveur apporte les desserts tout de suite.",
@@ -1416,7 +1525,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Les desserts est pluriel → les."
+      "explanation": "Les desserts est pluriel → les.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Nous regardons la finale chez Lina.",
@@ -1430,7 +1540,8 @@
         "l’",
         "les"
       ],
-      "explanation": "La finale est féminin singulier → la."
+      "explanation": "La finale est féminin singulier → la.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Mon père prépare les gaufres ce matin.",
@@ -1444,7 +1555,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Les gaufres est pluriel → les."
+      "explanation": "Les gaufres est pluriel → les.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Je lis ce commentaire après le match.",
@@ -1458,7 +1570,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Ce commentaire est masculin singulier → le."
+      "explanation": "Ce commentaire est masculin singulier → le.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Arthur ferme son ordinateur à dix heures.",
@@ -1472,7 +1585,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Son ordinateur est masculin singulier → le."
+      "explanation": "Son ordinateur est masculin singulier → le.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Vous invitez votre voisine au barbecue.",
@@ -1486,7 +1600,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Votre voisine → la, mais devant invitez on emploie l’."
+      "explanation": "Votre voisine → la, mais devant invitez on emploie l’.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Ils choisissent cette chanson pour l’entrée.",
@@ -1500,7 +1615,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Cette chanson est féminin singulier → la."
+      "explanation": "Cette chanson est féminin singulier → la.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Tu portes ton bonnet quand il fait froid.",
@@ -1514,7 +1630,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Ton bonnet est masculin singulier → le."
+      "explanation": "Ton bonnet est masculin singulier → le.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Mia utilise cette caméra pour son projet.",
@@ -1528,7 +1645,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Cette caméra → la, mais devant utilise on emploie l’."
+      "explanation": "Cette caméra → la, mais devant utilise on emploie l’.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "On partage ces vidéos après la fête.",
@@ -1542,7 +1660,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Ces vidéos est pluriel → les."
+      "explanation": "Ces vidéos est pluriel → les.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Les supporters chantent leur hymne très fort.",
@@ -1556,7 +1675,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Leur hymne est masculin singulier → le."
+      "explanation": "Leur hymne est masculin singulier → le.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Je prends mon sac avant le bus.",
@@ -1570,7 +1690,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Mon sac est masculin singulier → le."
+      "explanation": "Mon sac est masculin singulier → le.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Le DJ lance cette chanson à la fin.",
@@ -1584,7 +1705,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Cette chanson est féminin singulier → la."
+      "explanation": "Cette chanson est féminin singulier → la.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Camille nettoie ses chaussures dans le garage.",
@@ -1598,7 +1720,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Ses chaussures est pluriel → les."
+      "explanation": "Ses chaussures est pluriel → les.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Nous préparons le pique-nique ensemble.",
@@ -1612,7 +1735,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Le pique-nique est masculin singulier → le."
+      "explanation": "Le pique-nique est masculin singulier → le.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Tu retrouves tes écouteurs sous ton lit.",
@@ -1626,7 +1750,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Tes écouteurs est pluriel → les."
+      "explanation": "Tes écouteurs est pluriel → les.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Hugo dessine cette affiche pour le club.",
@@ -1640,7 +1765,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Cette affiche est féminin singulier → la."
+      "explanation": "Cette affiche est féminin singulier → la.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Les ados regardent la lune depuis la terrasse.",
@@ -1654,7 +1780,8 @@
         "l’",
         "les"
       ],
-      "explanation": "La lune est féminin singulier → la."
+      "explanation": "La lune est féminin singulier → la.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Inès aime cette actrice depuis longtemps.",
@@ -1668,7 +1795,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Cette actrice → la, mais devant aime on emploie l’."
+      "explanation": "Cette actrice → la, mais devant aime on emploie l’.",
+      "sentenceForm": "regular"
     }
   ],
   "advancedRecognition": [
@@ -1682,7 +1810,8 @@
         "les élèves",
         "rapidement"
       ],
-      "explanation": "Le professeur explique quoi ? → la règle. « Des notes » hoort bij het werkwoord prennent."
+      "explanation": "Le professeur explique quoi ? → la règle. « Des notes » hoort bij het werkwoord prennent.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Même s’il est fatigué, Thomas termine son devoir avant le dîner.",
@@ -1694,7 +1823,8 @@
         "avant le dîner",
         "fatigué"
       ],
-      "explanation": "Thomas termine quoi ? → son devoir. « Avant le dîner » geeft tijd aan en is geen COD."
+      "explanation": "Thomas termine quoi ? → son devoir. « Avant le dîner » geeft tijd aan en is geen COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Ma sœur a oublié ses clés dans la voiture.",
@@ -1706,7 +1836,8 @@
         "dans la voiture",
         "la voiture"
       ],
-      "explanation": "Ma sœur a oublié quoi ? → ses clés. « Dans la voiture » is een plaatsbepaling."
+      "explanation": "Ma sœur a oublié quoi ? → ses clés. « Dans la voiture » is een plaatsbepaling.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Nous voulons visiter ce musée pendant les vacances.",
@@ -1718,7 +1849,8 @@
         "pendant les vacances",
         "les vacances"
       ],
-      "explanation": "Visiter quoi ? → ce musée. Bij een infinitief zoek je het COD bij de infinitief zelf."
+      "explanation": "Visiter quoi ? → ce musée. Bij een infinitief zoek je het COD bij de infinitief zelf.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Le directeur a félicité les élèves qui avaient gagné le concours.",
@@ -1730,7 +1862,8 @@
         "hier",
         "qui"
       ],
-      "explanation": "Le directeur a félicité qui ? → les élèves. « Le concours » is het COD van avaient gagné."
+      "explanation": "Le directeur a félicité qui ? → les élèves. « Le concours » is het COD van avaient gagné.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Je ne comprends pas cette explication malgré les exemples.",
@@ -1742,7 +1875,8 @@
         "les exemples",
         "malgré les exemples"
       ],
-      "explanation": "Je ne comprends pas quoi ? → cette explication. De ontkenning verandert de functie van het COD niet."
+      "explanation": "Je ne comprends pas quoi ? → cette explication. De ontkenning verandert de functie van het COD niet.",
+      "sentenceForm": "negative"
     },
     {
       "sentence": "Après le cours, Léa raconte son problème à sa meilleure amie.",
@@ -1754,7 +1888,8 @@
         "à sa meilleure amie",
         "sa meilleure amie"
       ],
-      "explanation": "Léa raconte quoi ? → son problème. « À sa meilleure amie » is geen COD omdat er à voor staat."
+      "explanation": "Léa raconte quoi ? → son problème. « À sa meilleure amie » is geen COD omdat er à voor staat.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Les pompiers ont rapidement évacué le bâtiment après l’alarme.",
@@ -1766,7 +1901,8 @@
         "après l’alarme",
         "l’alarme"
       ],
-      "explanation": "Les pompiers ont évacué quoi ? → le bâtiment."
+      "explanation": "Les pompiers ont évacué quoi ? → le bâtiment.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Si tu relis attentivement le texte, tu trouveras la réponse.",
@@ -1778,7 +1914,8 @@
         "attentivement",
         "tu trouveras"
       ],
-      "explanation": "Tu relis quoi ? → le texte. « La réponse » hoort bij trouveras."
+      "explanation": "Tu relis quoi ? → le texte. « La réponse » hoort bij trouveras.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Mon frère préfère regarder les documentaires que lire les romans.",
@@ -1790,7 +1927,8 @@
         "que lire",
         "regarder"
       ],
-      "explanation": "Regarder quoi ? → les documentaires. « Les romans » is het COD van lire."
+      "explanation": "Regarder quoi ? → les documentaires. « Les romans » is het COD van lire.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "La journaliste pose plusieurs questions au ministre.",
@@ -1802,7 +1940,8 @@
         "au ministre",
         "le ministre"
       ],
-      "explanation": "La journaliste pose quoi ? → plusieurs questions. « Au ministre » begint met à en is dus geen COD."
+      "explanation": "La journaliste pose quoi ? → plusieurs questions. « Au ministre » begint met à en is dus geen COD.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Mes parents ont acheté une nouvelle voiture l’année dernière.",
@@ -1814,7 +1953,8 @@
         "l’année dernière",
         "dernière"
       ],
-      "explanation": "Mes parents ont acheté quoi ? → une nouvelle voiture."
+      "explanation": "Mes parents ont acheté quoi ? → une nouvelle voiture.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Pendant que nous attendions le bus, Emma lisait un article intéressant.",
@@ -1826,7 +1966,8 @@
         "Emma",
         "un article intéressant"
       ],
-      "explanation": "Emma lisait quoi ? → un article intéressant. « Le bus » hoort bij attendions."
+      "explanation": "Emma lisait quoi ? → un article intéressant. « Le bus » hoort bij attendions.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Le médecin examine le patient avant de donner son avis.",
@@ -1838,7 +1979,8 @@
         "avant de donner",
         "le médecin examine"
       ],
-      "explanation": "Le médecin examine qui ? → le patient. « Son avis » is het COD van donner."
+      "explanation": "Le médecin examine qui ? → le patient. « Son avis » is het COD van donner.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "On ne peut pas résoudre ce problème sans utiliser une formule.",
@@ -1850,7 +1992,8 @@
         "sans utiliser",
         "ne peut pas"
       ],
-      "explanation": "Résoudre quoi ? → ce problème. « Une formule » is het COD van utiliser."
+      "explanation": "Résoudre quoi ? → ce problème. « Une formule » is het COD van utiliser.",
+      "sentenceForm": "negative"
     },
     {
       "sentence": "Après avoir vérifié les résultats, l’équipe publiera le rapport demain.",
@@ -1862,10 +2005,11 @@
         "demain",
         "après avoir vérifié"
       ],
-      "explanation": "L’équipe publiera quoi ? → le rapport. « Les résultats » hoort bij avoir vérifié."
+      "explanation": "L’équipe publiera quoi ? → le rapport. « Les résultats » hoort bij avoir vérifié.",
+      "sentenceForm": "regular"
     },
     {
-      "sentence": "Même quand le wifi est lent, Léo télécharge son épisode préféré.",
+      "sentence": "Même quand le wifi est lent, Léo ne télécharge pas son épisode préféré.",
       "question": "Wat is het COD?",
       "answer": "son épisode préféré",
       "options": [
@@ -1874,10 +2018,11 @@
         "même quand le wifi est lent",
         "lent"
       ],
-      "explanation": "Léo télécharge quoi ? → son épisode préféré. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "De ontkenning verandert de functie niet: het COD is <strong>son épisode préféré</strong>.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Après deux heures d’entraînement, Maya range soigneusement ses affaires dans le vestiaire.",
+      "sentence": "Après deux heures d’entraînement, Maya ne range pas soigneusement ses affaires dans le vestiaire.",
       "question": "Wat is het COD?",
       "answer": "ses affaires",
       "options": [
@@ -1886,10 +2031,11 @@
         "dans le vestiaire",
         "soigneusement"
       ],
-      "explanation": "Maya range quoi ? → ses affaires. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "De ontkenning verandert de functie niet: het COD is <strong>ses affaires</strong>.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Pendant que ses amis sont dehors, Noa termine son montage vidéo dans sa chambre.",
+      "sentence": "Pendant que ses amis sont dehors, Noa ne termine pas son montage vidéo dans sa chambre.",
       "question": "Wat is het COD?",
       "answer": "son montage vidéo",
       "options": [
@@ -1898,10 +2044,11 @@
         "dans sa chambre",
         "pendant que ses amis sont dehors"
       ],
-      "explanation": "Noa termine quoi ? → son montage vidéo. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "De ontkenning verandert de functie niet: het COD is <strong>son montage vidéo</strong>.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Dès que le concert commence, Lina allume la lampe de son téléphone.",
+      "sentence": "Dès que le concert commence, Lina n’allume pas la lampe de son téléphone.",
       "question": "Wat is het COD?",
       "answer": "la lampe de son téléphone",
       "options": [
@@ -1910,10 +2057,11 @@
         "dès que le concert commence",
         "commence"
       ],
-      "explanation": "Lina allume quoi ? → la lampe de son téléphone. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "De ontkenning verandert de functie niet: het COD is <strong>la lampe de son téléphone</strong>.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Quand la sonnerie retentit, Adam ferme discrètement son ordinateur portable.",
+      "sentence": "Quand la sonnerie retentit, Adam ne ferme pas discrètement son ordinateur portable.",
       "question": "Wat is het COD?",
       "answer": "son ordinateur portable",
       "options": [
@@ -1922,10 +2070,11 @@
         "discrètement",
         "quand la sonnerie retentit"
       ],
-      "explanation": "Adam ferme quoi ? → son ordinateur portable. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "De ontkenning verandert de functie niet: het COD is <strong>son ordinateur portable</strong>.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Malgré le bruit dans le couloir, Emma relit attentivement son message.",
+      "sentence": "Malgré le bruit dans le couloir, Emma ne relit pas attentivement son message.",
       "question": "Wat is het COD?",
       "answer": "son message",
       "options": [
@@ -1934,10 +2083,11 @@
         "malgré le bruit dans le couloir",
         "attentivement"
       ],
-      "explanation": "Emma relit quoi ? → son message. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "De ontkenning verandert de functie niet: het COD is <strong>son message</strong>.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Avant de partir au skatepark, Jules vérifie toujours les freins de sa trottinette.",
+      "sentence": "Avant de partir au skatepark, Jules ne vérifie pas les freins de sa trottinette.",
       "question": "Wat is het COD?",
       "answer": "les freins de sa trottinette",
       "options": [
@@ -1946,10 +2096,11 @@
         "avant de partir au skatepark",
         "toujours"
       ],
-      "explanation": "Jules vérifie quoi ? → les freins de sa trottinette. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "De ontkenning verandert de functie niet: het COD is <strong>les freins de sa trottinette</strong>.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Comme le match est bientôt fini, l’entraîneur prépare le dernier changement.",
+      "sentence": "Comme le match est bientôt fini, l’entraîneur ne prépare pas le dernier changement.",
       "question": "Wat is het COD?",
       "answer": "le dernier changement",
       "options": [
@@ -1958,10 +2109,11 @@
         "bientôt",
         "comme le match est bientôt fini"
       ],
-      "explanation": "L’entraîneur prépare quoi ? → le dernier changement. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "De ontkenning verandert de functie niet: het COD is <strong>le dernier changement</strong>.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Lorsque la batterie est presque vide, Salomé cherche rapidement son chargeur.",
+      "sentence": "Lorsque la batterie est presque vide, Salomé ne cherche pas rapidement son chargeur.",
       "question": "Wat is het COD?",
       "answer": "son chargeur",
       "options": [
@@ -1970,10 +2122,11 @@
         "rapidement",
         "lorsque la batterie est presque vide"
       ],
-      "explanation": "Salomé cherche quoi ? → son chargeur. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "De ontkenning verandert de functie niet: het COD is <strong>son chargeur</strong>.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Après une longue journée, Mehdi choisit finalement une série courte.",
+      "sentence": "Après une longue journée, Mehdi ne choisit finalement pas une série courte.",
       "question": "Wat is het COD?",
       "answer": "une série courte",
       "options": [
@@ -1982,10 +2135,11 @@
         "après une longue journée",
         "finalement"
       ],
-      "explanation": "Mehdi choisit quoi ? → une série courte. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "De ontkenning verandert de functie niet: het COD is <strong>une série courte</strong>.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Même si tout le monde est pressé, Anaïs prend tranquillement son petit-déjeuner.",
+      "sentence": "Même si tout le monde est pressé, Anaïs ne prend pas tranquillement son petit-déjeuner.",
       "question": "Wat is het COD?",
       "answer": "son petit-déjeuner",
       "options": [
@@ -1994,10 +2148,11 @@
         "tranquillement",
         "même si tout le monde est pressé"
       ],
-      "explanation": "Anaïs prend quoi ? → son petit-déjeuner. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "De ontkenning verandert de functie niet: het COD is <strong>son petit-déjeuner</strong>.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Quand le bus arrive, Théo range immédiatement ses écouteurs dans son sac.",
+      "sentence": "Quand le bus arrive, Théo ne range pas immédiatement ses écouteurs dans son sac.",
       "question": "Wat is het COD?",
       "answer": "ses écouteurs",
       "options": [
@@ -2006,10 +2161,11 @@
         "dans son sac",
         "quand le bus arrive"
       ],
-      "explanation": "Théo range quoi ? → ses écouteurs. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "De ontkenning verandert de functie niet: het COD is <strong>ses écouteurs</strong>.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Pendant que la pluie tombe, les amis préparent leur tournoi de jeux vidéo.",
+      "sentence": "Pendant que la pluie tombe, les amis ne préparent pas leur tournoi de jeux vidéo.",
       "question": "Wat is het COD?",
       "answer": "leur tournoi de jeux vidéo",
       "options": [
@@ -2018,10 +2174,11 @@
         "pendant que la pluie tombe",
         "la pluie"
       ],
-      "explanation": "Les amis préparent quoi ? → leur tournoi de jeux vidéo. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "De ontkenning verandert de functie niet: het COD is <strong>leur tournoi de jeux vidéo</strong>.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Dès que la bibliothèque ouvre, Clara emprunte le nouveau roman.",
+      "sentence": "Dès que la bibliothèque ouvre, Clara n’emprunte pas le nouveau roman.",
       "question": "Wat is het COD?",
       "answer": "le nouveau roman",
       "options": [
@@ -2030,103 +2187,112 @@
         "dès que la bibliothèque ouvre",
         "la bibliothèque"
       ],
-      "explanation": "Clara emprunte quoi ? → le nouveau roman. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "De ontkenning verandert de functie niet: het COD is <strong>le nouveau roman</strong>.",
+      "sentenceForm": "negative"
     },
     {
-      "sentence": "Après l’entraînement, Sam nettoie soigneusement ses chaussures de sport.",
-      "question": "Wat is het COD?",
-      "answer": "ses chaussures de sport",
+      "sentence": "Après l’entraînement, nettoie soigneusement tes chaussures de sport !",
+      "question": "Wat is het COD in deze bevelzin?",
+      "answer": "tes chaussures de sport",
       "options": [
-        "Sam",
-        "ses chaussures de sport",
+        "tes chaussures de sport",
         "après l’entraînement",
-        "soigneusement"
+        "soigneusement",
+        "l’entraînement"
       ],
-      "explanation": "Sam nettoie quoi ? → ses chaussures de sport. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Zoek ook bij een bevel de persoon of zaak waarop de handeling rechtstreeks gericht is: <strong>tes chaussures de sport</strong>.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Quand son équipe est en retard, Hugo réserve rapidement une table près de la fenêtre.",
-      "question": "Wat is het COD?",
+      "sentence": "Quand ton équipe est en retard, réserve rapidement une table près de la fenêtre !",
+      "question": "Wat is het COD in deze bevelzin?",
       "answer": "une table",
       "options": [
-        "Hugo",
         "une table",
         "près de la fenêtre",
-        "rapidement"
+        "rapidement",
+        "ton équipe"
       ],
-      "explanation": "Hugo réserve quoi ? → une table. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Zoek ook bij een bevel de persoon of zaak waarop de handeling rechtstreeks gericht is: <strong>une table</strong>.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Même si le film est long, Zoé suit toute l’histoire sans s’endormir.",
-      "question": "Wat is het COD?",
+      "sentence": "Même si le film est long, suis toute l’histoire sans t’endormir !",
+      "question": "Wat is het COD in deze bevelzin?",
       "answer": "toute l’histoire",
       "options": [
-        "Zoé",
         "toute l’histoire",
-        "sans s’endormir",
-        "même si le film est long"
+        "sans t’endormir",
+        "le film",
+        "long"
       ],
-      "explanation": "Zoé suit quoi ? → toute l’histoire. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Zoek ook bij een bevel de persoon of zaak waarop de handeling rechtstreeks gericht is: <strong>toute l’histoire</strong>.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Avant que la fête commence, Mila décore le salon avec des guirlandes.",
-      "question": "Wat is het COD?",
+      "sentence": "Avant que la fête commence, décore le salon avec des guirlandes !",
+      "question": "Wat is het COD in deze bevelzin?",
       "answer": "le salon",
       "options": [
-        "Mila",
         "le salon",
         "avec des guirlandes",
-        "avant que la fête commence"
+        "la fête",
+        "des guirlandes"
       ],
-      "explanation": "Mila décore quoi ? → le salon. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Zoek ook bij een bevel de persoon of zaak waarop de handeling rechtstreeks gericht is: <strong>le salon</strong>.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Lorsque le professeur arrive, Yanis cache rapidement son dessin sous son cahier.",
-      "question": "Wat is het COD?",
-      "answer": "son dessin",
+      "sentence": "Lorsque le professeur arrive, cache rapidement ton dessin sous ton cahier !",
+      "question": "Wat is het COD in deze bevelzin?",
+      "answer": "ton dessin",
       "options": [
-        "Yanis",
-        "son dessin",
-        "sous son cahier",
+        "ton dessin",
+        "sous ton cahier",
+        "le professeur",
         "rapidement"
       ],
-      "explanation": "Yanis cache quoi ? → son dessin. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Zoek ook bij een bevel de persoon of zaak waarop de handeling rechtstreeks gericht is: <strong>ton dessin</strong>.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Même après une défaite, l’équipe garde sa bonne humeur jusqu’à la fin.",
-      "question": "Wat is het COD?",
-      "answer": "sa bonne humeur",
+      "sentence": "Même après une défaite, garde ta bonne humeur jusqu’à la fin !",
+      "question": "Wat is het COD in deze bevelzin?",
+      "answer": "ta bonne humeur",
       "options": [
-        "l’équipe",
-        "sa bonne humeur",
+        "ta bonne humeur",
         "jusqu’à la fin",
-        "même après une défaite"
+        "une défaite",
+        "la fin"
       ],
-      "explanation": "L’équipe garde quoi ? → sa bonne humeur. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Zoek ook bij een bevel de persoon of zaak waarop de handeling rechtstreeks gericht is: <strong>ta bonne humeur</strong>.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Quand la musique devient trop forte, Léa baisse le volume de son enceinte.",
-      "question": "Wat is het COD?",
-      "answer": "le volume de son enceinte",
+      "sentence": "Quand la musique devient trop forte, baisse le volume de ton enceinte !",
+      "question": "Wat is het COD in deze bevelzin?",
+      "answer": "le volume de ton enceinte",
       "options": [
-        "Léa",
-        "le volume de son enceinte",
-        "quand la musique devient trop forte",
-        "trop forte"
+        "le volume de ton enceinte",
+        "la musique",
+        "trop forte",
+        "ton enceinte"
       ],
-      "explanation": "Léa baisse quoi ? → le volume de son enceinte. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Zoek ook bij een bevel de persoon of zaak waarop de handeling rechtstreeks gericht is: <strong>le volume de ton enceinte</strong>.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Après la pause, les élèves reprennent leur projet avec plus d’énergie.",
-      "question": "Wat is het COD?",
-      "answer": "leur projet",
+      "sentence": "Après la pause, reprenez votre projet avec plus d’énergie !",
+      "question": "Wat is het COD in deze bevelzin?",
+      "answer": "votre projet",
       "options": [
-        "les élèves",
-        "leur projet",
+        "votre projet",
+        "après la pause",
         "avec plus d’énergie",
-        "après la pause"
+        "la pause"
       ],
-      "explanation": "Les élèves reprennent quoi ? → leur projet. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Zoek ook bij een bevel de persoon of zaak waarop de handeling rechtstreeks gericht is: <strong>votre projet</strong>.",
+      "sentenceForm": "imperative"
     },
     {
       "sentence": "Comme son vélo semble bizarre, Nathan contrôle la chaîne dans le garage.",
@@ -2138,7 +2304,8 @@
         "dans le garage",
         "comme son vélo semble bizarre"
       ],
-      "explanation": "Nathan contrôle quoi ? → la chaîne. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Nathan contrôle quoi ? → la chaîne. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Quand le soleil se couche, Inès photographie le ciel depuis le pont.",
@@ -2150,7 +2317,8 @@
         "depuis le pont",
         "quand le soleil se couche"
       ],
-      "explanation": "Inès photographie quoi ? → le ciel. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Inès photographie quoi ? → le ciel. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Même si la file est longue, Tom achète son billet pour le concert.",
@@ -2162,7 +2330,8 @@
         "pour le concert",
         "même si la file est longue"
       ],
-      "explanation": "Tom achète quoi ? → son billet. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Tom achète quoi ? → son billet. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Dès que le cours se termine, Sarah rejoint ses amis devant l’école.",
@@ -2174,7 +2343,8 @@
         "devant l’école",
         "dès que le cours se termine"
       ],
-      "explanation": "Sarah rejoint qui ? → ses amis. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Sarah rejoint qui ? → ses amis. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Pendant que son frère dort, Max construit une ville dans son jeu préféré.",
@@ -2186,7 +2356,8 @@
         "dans son jeu préféré",
         "pendant que son frère dort"
       ],
-      "explanation": "Max construit quoi ? → une ville. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Max construit quoi ? → une ville. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Après une semaine chargée, Camille retrouve enfin son énergie.",
@@ -2198,7 +2369,8 @@
         "après une semaine chargée",
         "enfin"
       ],
-      "explanation": "Camille retrouve quoi ? → son énergie. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Camille retrouve quoi ? → son énergie. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Quand le score reste serré, le gardien surveille attentivement le ballon.",
@@ -2210,7 +2382,8 @@
         "attentivement",
         "quand le score reste serré"
       ],
-      "explanation": "Le gardien surveille quoi ? → le ballon. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Le gardien surveille quoi ? → le ballon. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Même si le trajet est court, nous préparons une playlist pour le bus.",
@@ -2222,7 +2395,8 @@
         "pour le bus",
         "même si le trajet est court"
       ],
-      "explanation": "Nous préparons quoi ? → une playlist. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Nous préparons quoi ? → une playlist. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Dès que la boutique ouvre, Amine essaie la veste noire.",
@@ -2234,7 +2408,8 @@
         "dès que la boutique ouvre",
         "la boutique"
       ],
-      "explanation": "Amine essaie quoi ? → la veste noire. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Amine essaie quoi ? → la veste noire. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Lorsque le groupe est prêt, Nora lance la première chanson.",
@@ -2246,7 +2421,8 @@
         "lorsque le groupe est prêt",
         "le groupe"
       ],
-      "explanation": "Nora lance quoi ? → la première chanson. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Nora lance quoi ? → la première chanson. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Après le dîner, Paul branche sa console dans le salon.",
@@ -2258,7 +2434,8 @@
         "dans le salon",
         "après le dîner"
       ],
-      "explanation": "Paul branche quoi ? → sa console. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Paul branche quoi ? → sa console. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Même quand il fait froid, Eva porte ses baskets préférées.",
@@ -2270,7 +2447,8 @@
         "même quand il fait froid",
         "froid"
       ],
-      "explanation": "Eva porte quoi ? → ses baskets préférées. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Eva porte quoi ? → ses baskets préférées. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Avant que le train arrive, Louis vérifie son billet sur son téléphone.",
@@ -2282,7 +2460,8 @@
         "sur son téléphone",
         "avant que le train arrive"
       ],
-      "explanation": "Louis vérifie quoi ? → son billet. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Louis vérifie quoi ? → son billet. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Quand la cour est calme, les élèves installent le matériel de sport.",
@@ -2294,7 +2473,8 @@
         "quand la cour est calme",
         "la cour"
       ],
-      "explanation": "Les élèves installent quoi ? → le matériel de sport. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Les élèves installent quoi ? → le matériel de sport. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Après la répétition, Jade enregistre une courte vidéo pour ses amis.",
@@ -2306,7 +2486,8 @@
         "pour ses amis",
         "après la répétition"
       ],
-      "explanation": "Jade enregistre quoi ? → une courte vidéo. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Jade enregistre quoi ? → une courte vidéo. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Même si le devoir paraît difficile, Robin résout la première question.",
@@ -2318,7 +2499,8 @@
         "même si le devoir paraît difficile",
         "difficile"
       ],
-      "explanation": "Robin résout quoi ? → la première question. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Robin résout quoi ? → la première question. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Dès que le soleil revient, Chloé sort son appareil photo.",
@@ -2330,7 +2512,8 @@
         "dès que le soleil revient",
         "le soleil"
       ],
-      "explanation": "Chloé sort quoi ? → son appareil photo. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Chloé sort quoi ? → son appareil photo. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Quand le week-end approche, mes cousins organisent une sortie à vélo.",
@@ -2342,7 +2525,8 @@
         "quand le week-end approche",
         "le week-end"
       ],
-      "explanation": "Mes cousins organisent quoi ? → une sortie à vélo. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Mes cousins organisent quoi ? → une sortie à vélo. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Après plusieurs essais, Enzo réussit enfin sa nouvelle figure.",
@@ -2354,7 +2538,8 @@
         "après plusieurs essais",
         "enfin"
       ],
-      "explanation": "Enzo réussit quoi ? → sa nouvelle figure. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Enzo réussit quoi ? → sa nouvelle figure. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Même lorsque le café est plein, Lina trouve une place près de la fenêtre.",
@@ -2366,7 +2551,8 @@
         "près de la fenêtre",
         "même lorsque le café est plein"
       ],
-      "explanation": "Lina trouve quoi ? → une place. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Lina trouve quoi ? → une place. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Avant que la batterie s’éteigne, Karim sauvegarde son projet.",
@@ -2378,7 +2564,8 @@
         "avant que la batterie s’éteigne",
         "la batterie"
       ],
-      "explanation": "Karim sauvegarde quoi ? → son projet. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Karim sauvegarde quoi ? → son projet. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Quand l’équipe se réunit, la capitaine explique la stratégie calmement.",
@@ -2390,7 +2577,8 @@
         "calmement",
         "quand l’équipe se réunit"
       ],
-      "explanation": "La capitaine explique quoi ? → la stratégie. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "La capitaine explique quoi ? → la stratégie. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Après le match, Jules partage sa photo préférée dans le groupe.",
@@ -2402,7 +2590,8 @@
         "dans le groupe",
         "après le match"
       ],
-      "explanation": "Jules partage quoi ? → sa photo préférée. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Jules partage quoi ? → sa photo préférée. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Même si la météo est mauvaise, Mia garde son programme pour la journée.",
@@ -2414,7 +2603,8 @@
         "pour la journée",
         "même si la météo est mauvaise"
       ],
-      "explanation": "Mia garde quoi ? → son programme. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Mia garde quoi ? → son programme. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Dès que le cinéma ouvre, les amis choisissent leurs places au fond de la salle.",
@@ -2426,7 +2616,8 @@
         "au fond de la salle",
         "dès que le cinéma ouvre"
       ],
-      "explanation": "Les amis choisissent quoi ? → leurs places. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Les amis choisissent quoi ? → leurs places. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Lorsque la cloche sonne, Lucas ferme son casier avant de partir.",
@@ -2438,7 +2629,8 @@
         "avant de partir",
         "lorsque la cloche sonne"
       ],
-      "explanation": "Lucas ferme quoi ? → son casier. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord."
+      "explanation": "Lucas ferme quoi ? → son casier. De andere zinsdelen zijn onderwerp, bepaling of horen niet als direct voorwerp bij dit werkwoord.",
+      "sentenceForm": "regular"
     }
   ],
   "advancedReplacement": [
@@ -2454,7 +2646,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Bij een infinitief staat het COD-voornaamwoord vóór de infinitief: acheter → l’acheter."
+      "explanation": "Bij een infinitief staat het COD-voornaamwoord vóór de infinitief: acheter → l’acheter.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Nous voulons regarder ce documentaire ce soir.",
@@ -2468,7 +2661,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Het voornaamwoord hoort bij regarder en staat daarom vóór de infinitief: le regarder."
+      "explanation": "Het voornaamwoord hoort bij regarder en staat daarom vóór de infinitief: le regarder.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Elle ne comprend pas cette règle.",
@@ -2482,7 +2676,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Bij een ontkenning staat het COD-voornaamwoord vóór het vervoegde werkwoord: ne la comprend pas."
+      "explanation": "Bij een ontkenning staat het COD-voornaamwoord vóór het vervoegde werkwoord: ne la comprend pas.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Tu as vu Marie à la gare.",
@@ -2496,7 +2691,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Marie → la → l’ vóór as. Omdat het COD vóór avoir staat, past het voltooid deelwoord zich aan: vue."
+      "explanation": "Marie → la → l’ vóór as. Omdat het COD vóór avoir staat, past het voltooid deelwoord zich aan: vue.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "J’ai acheté les chaussures hier.",
@@ -2510,7 +2706,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Les chaussures → les. Het COD staat vóór avoir, dus acheté krijgt vrouwelijk meervoud: achetées."
+      "explanation": "Les chaussures → les. Het COD staat vóór avoir, dus acheté krijgt vrouwelijk meervoud: achetées.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Il a terminé son projet avant vendredi.",
@@ -2524,7 +2721,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Son projet → le → l’ vóór a. Het voltooid deelwoord blijft mannelijk enkelvoud: terminé."
+      "explanation": "Son projet → le → l’ vóór a. Het voltooid deelwoord blijft mannelijk enkelvoud: terminé.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Nous avons invité nos voisines à la fête.",
@@ -2538,7 +2736,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Nos voisines → les. Omdat les vóór avons staat, wordt invité → invitées."
+      "explanation": "Nos voisines → les. Omdat les vóór avons staat, wordt invité → invitées.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Vous devez finir les exercices avant midi.",
@@ -2552,7 +2751,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Na devoir staat een infinitief. Het voornaamwoord komt vóór die infinitief: les finir."
+      "explanation": "Na devoir staat een infinitief. Het voornaamwoord komt vóór die infinitief: les finir.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "On ne peut pas ouvrir cette fenêtre.",
@@ -2566,7 +2766,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Cette fenêtre → la → l’ vóór ouvrir. Het voornaamwoord staat vóór de infinitief."
+      "explanation": "Cette fenêtre → la → l’ vóór ouvrir. Het voornaamwoord staat vóór de infinitief.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Le professeur a corrigé les copies ce matin.",
@@ -2580,7 +2781,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Les copies → les. Omdat het COD vóór avoir staat, wordt corrigé → corrigées."
+      "explanation": "Les copies → les. Omdat het COD vóór avoir staat, wordt corrigé → corrigées.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Ma sœur cherche son téléphone depuis une heure.",
@@ -2594,7 +2796,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Son téléphone is mannelijk enkelvoud → le, vóór het vervoegde werkwoord cherche."
+      "explanation": "Son téléphone is mannelijk enkelvoud → le, vóór het vervoegde werkwoord cherche.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Ils vont visiter la nouvelle exposition samedi.",
@@ -2608,7 +2811,8 @@
         "l’",
         "les"
       ],
-      "explanation": "La nouvelle exposition → la. Bij aller + infinitief komt la vóór visiter."
+      "explanation": "La nouvelle exposition → la. Bij aller + infinitief komt la vóór visiter.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Je n’ai pas compris la question.",
@@ -2622,7 +2826,8 @@
         "l’",
         "les"
       ],
-      "explanation": "La question → l’. Het COD staat vóór ai, dus compris wordt vrouwelijk enkelvoud: comprise."
+      "explanation": "La question → l’. Het COD staat vóór ai, dus compris wordt vrouwelijk enkelvoud: comprise.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Elle aimerait revoir ses anciens camarades.",
@@ -2636,7 +2841,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Ses anciens camarades is meervoud → les. Het voornaamwoord staat vóór de infinitief revoir."
+      "explanation": "Ses anciens camarades is meervoud → les. Het voornaamwoord staat vóór de infinitief revoir.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Nous avons choisi cette solution après une longue discussion.",
@@ -2650,7 +2856,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Cette solution → la → l’. Omdat het COD vóór avoir staat, wordt choisi → choisie."
+      "explanation": "Cette solution → la → l’. Omdat het COD vóór avoir staat, wordt choisi → choisie.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Ils n’ont jamais rencontré ces actrices.",
@@ -2664,13 +2871,14 @@
         "l’",
         "les"
       ],
-      "explanation": "Ces actrices → les. In de ontkenning staat les vóór ont; rencontré wordt daarom rencontrées."
+      "explanation": "Ces actrices → les. In de ontkenning staat les vóór ont; rencontré wordt daarom rencontrées.",
+      "sentenceForm": "regular"
     },
     {
-      "sentence": "Je vais télécharger la nouvelle appli ce soir.",
+      "sentence": "Télécharge la nouvelle appli ce soir !",
       "target": "la nouvelle appli",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Je vais la télécharger ce soir.",
+      "answer": "Télécharge-la ce soir.",
       "pronoun": "la",
       "options": [
         "le",
@@ -2678,13 +2886,14 @@
         "l’",
         "les"
       ],
-      "explanation": "Avec aller + infinitif, le pronom se place devant l’infinitif: la télécharger."
+      "explanation": "la nouvelle appli → la. Bevestigend bevel: het voornaamwoord komt achter de werkwoordsvorm en wordt met een koppelteken verbonden.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Nous voulons regarder ce film après les devoirs.",
+      "sentence": "Regardons ce film après les devoirs !",
       "target": "ce film",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Nous voulons le regarder après les devoirs.",
+      "answer": "Regardons-le après les devoirs.",
       "pronoun": "le",
       "options": [
         "le",
@@ -2692,69 +2901,14 @@
         "l’",
         "les"
       ],
-      "explanation": "Ce film → le. Avec vouloir + infinitif: le regarder."
+      "explanation": "ce film → le. Bevestigend bevel: het voornaamwoord komt achter de werkwoordsvorm en wordt met een koppelteken verbonden.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Elle préfère écouter cette playlist en travaillant.",
+      "sentence": "Écoute cette playlist en travaillant !",
       "target": "cette playlist",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Elle préfère l’écouter en travaillant.",
-      "pronoun": "l’",
-      "options": [
-        "le",
-        "la",
-        "l’",
-        "les"
-      ],
-      "explanation": "Cette playlist → la, mais devant écouter: l’écouter."
-    },
-    {
-      "sentence": "Tu dois ranger tes écouteurs avant de partir.",
-      "target": "tes écouteurs",
-      "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Tu dois les ranger avant de partir.",
-      "pronoun": "les",
-      "options": [
-        "le",
-        "la",
-        "l’",
-        "les"
-      ],
-      "explanation": "Tes écouteurs → les. Le pronom se place devant ranger."
-    },
-    {
-      "sentence": "Ils vont acheter les billets demain.",
-      "target": "les billets",
-      "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Ils vont les acheter demain.",
-      "pronoun": "les",
-      "options": [
-        "le",
-        "la",
-        "l’",
-        "les"
-      ],
-      "explanation": "Les billets → les. Avec aller + infinitif: les acheter."
-    },
-    {
-      "sentence": "On peut tester ce jeu gratuitement.",
-      "target": "ce jeu",
-      "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "On peut le tester gratuitement.",
-      "pronoun": "le",
-      "options": [
-        "le",
-        "la",
-        "l’",
-        "les"
-      ],
-      "explanation": "Ce jeu → le. Le pronom se place devant tester."
-    },
-    {
-      "sentence": "Vous allez préparer la pizza ensemble.",
-      "target": "la pizza",
-      "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Vous allez la préparer ensemble.",
+      "answer": "Écoute-la en travaillant.",
       "pronoun": "la",
       "options": [
         "le",
@@ -2762,13 +2916,14 @@
         "l’",
         "les"
       ],
-      "explanation": "La pizza → la. Avec aller + infinitif: la préparer."
+      "explanation": "cette playlist → la. Bevestigend bevel: het voornaamwoord komt achter de werkwoordsvorm en wordt met een koppelteken verbonden.",
+      "sentenceForm": "imperative"
     },
     {
-      "sentence": "Ma sœur veut inviter ses amies samedi.",
-      "target": "ses amies",
+      "sentence": "Range tes écouteurs avant de partir !",
+      "target": "tes écouteurs",
       "question": "Vervang het COD door een voornaamwoord.",
-      "answer": "Ma sœur veut les inviter samedi.",
+      "answer": "Range-les avant de partir.",
       "pronoun": "les",
       "options": [
         "le",
@@ -2776,7 +2931,68 @@
         "l’",
         "les"
       ],
-      "explanation": "Ses amies → les. Le pronom se place devant inviter."
+      "explanation": "tes écouteurs → les. Bevestigend bevel: het voornaamwoord komt achter de werkwoordsvorm en wordt met een koppelteken verbonden.",
+      "sentenceForm": "imperative"
+    },
+    {
+      "sentence": "Achetez les billets demain !",
+      "target": "les billets",
+      "question": "Vervang het COD door een voornaamwoord.",
+      "answer": "Achetez-les demain.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "explanation": "les billets → les. Bevestigend bevel: het voornaamwoord komt achter de werkwoordsvorm en wordt met een koppelteken verbonden.",
+      "sentenceForm": "imperative"
+    },
+    {
+      "sentence": "Testons ce jeu gratuitement !",
+      "target": "ce jeu",
+      "question": "Vervang het COD door een voornaamwoord.",
+      "answer": "Testons-le gratuitement.",
+      "pronoun": "le",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "explanation": "ce jeu → le. Bevestigend bevel: het voornaamwoord komt achter de werkwoordsvorm en wordt met een koppelteken verbonden.",
+      "sentenceForm": "imperative"
+    },
+    {
+      "sentence": "Préparez la pizza ensemble !",
+      "target": "la pizza",
+      "question": "Vervang het COD door een voornaamwoord.",
+      "answer": "Préparez-la ensemble.",
+      "pronoun": "la",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "explanation": "la pizza → la. Bevestigend bevel: het voornaamwoord komt achter de werkwoordsvorm en wordt met een koppelteken verbonden.",
+      "sentenceForm": "imperative"
+    },
+    {
+      "sentence": "Invite tes amies samedi !",
+      "target": "tes amies",
+      "question": "Vervang het COD door een voornaamwoord.",
+      "answer": "Invite-les samedi.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "explanation": "tes amies → les. Bevestigend bevel: het voornaamwoord komt achter de werkwoordsvorm en wordt met een koppelteken verbonden.",
+      "sentenceForm": "imperative"
     },
     {
       "sentence": "Je peux emprunter ton chargeur pour dix minutes.",
@@ -2790,7 +3006,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Ton chargeur → le, mais devant emprunter: l’emprunter."
+      "explanation": "Ton chargeur → le, mais devant emprunter: l’emprunter.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Max doit finir son montage avant minuit.",
@@ -2804,7 +3021,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Son montage → le. Le pronom se place devant finir."
+      "explanation": "Son montage → le. Le pronom se place devant finir.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Nous allons choisir nos places en ligne.",
@@ -2818,7 +3036,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Nos places → les. Avec aller + infinitif: les choisir."
+      "explanation": "Nos places → les. Avec aller + infinitif: les choisir.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Léa veut ouvrir le colis maintenant.",
@@ -2832,7 +3051,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Le colis → le, mais devant ouvrir: l’ouvrir."
+      "explanation": "Le colis → le, mais devant ouvrir: l’ouvrir.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Tu peux prendre ma trottinette cet après-midi.",
@@ -2846,7 +3066,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Ma trottinette → la. Le pronom se place devant prendre."
+      "explanation": "Ma trottinette → la. Le pronom se place devant prendre.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Ils préfèrent visiter cette exposition dimanche.",
@@ -2860,7 +3081,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Cette exposition → la. Le pronom se place devant visiter."
+      "explanation": "Cette exposition → la. Le pronom se place devant visiter.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "On va partager les photos dans le groupe.",
@@ -2874,7 +3096,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Les photos → les. Avec aller + infinitif: les partager."
+      "explanation": "Les photos → les. Avec aller + infinitif: les partager.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Vous devez écrire le message avant le départ.",
@@ -2888,7 +3111,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Le message → le, mais devant écrire: l’écrire."
+      "explanation": "Le message → le, mais devant écrire: l’écrire.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Je ne regarde jamais cette émission.",
@@ -2902,7 +3126,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Dans la négation, la reste devant le verbe: ne la regarde jamais."
+      "explanation": "Dans la négation, la reste devant le verbe: ne la regarde jamais.",
+      "sentenceForm": "negative"
     },
     {
       "sentence": "Elle ne trouve plus son badge.",
@@ -2916,7 +3141,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Son badge → le: ne le trouve plus."
+      "explanation": "Son badge → le: ne le trouve plus.",
+      "sentenceForm": "negative"
     },
     {
       "sentence": "Nous n’utilisons pas cette salle aujourd’hui.",
@@ -2930,7 +3156,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Cette salle → la, mais devant utilisons: l’utilisons. La négation encadre le groupe verbal."
+      "explanation": "Cette salle → la, mais devant utilisons: l’utilisons. La négation encadre le groupe verbal.",
+      "sentenceForm": "negative"
     },
     {
       "sentence": "Tu n’écoutes pas les consignes.",
@@ -2944,7 +3171,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Les consignes → les: ne les écoutes pas."
+      "explanation": "Les consignes → les: ne les écoutes pas.",
+      "sentenceForm": "negative"
     },
     {
       "sentence": "Ils ne portent jamais leurs casquettes en classe.",
@@ -2958,7 +3186,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Leurs casquettes → les: ne les portent jamais."
+      "explanation": "Leurs casquettes → les: ne les portent jamais.",
+      "sentenceForm": "negative"
     },
     {
       "sentence": "On ne commande pas la même pizza.",
@@ -2972,7 +3201,8 @@
         "l’",
         "les"
       ],
-      "explanation": "La même pizza → la: ne la commande pas."
+      "explanation": "La même pizza → la: ne la commande pas.",
+      "sentenceForm": "negative"
     },
     {
       "sentence": "Vous ne connaissez pas ce groupe.",
@@ -2986,7 +3216,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Ce groupe → le: ne le connaissez pas."
+      "explanation": "Ce groupe → le: ne le connaissez pas.",
+      "sentenceForm": "negative"
     },
     {
       "sentence": "Ma sœur n’aime pas cette chanson.",
@@ -3000,7 +3231,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Cette chanson → la, mais devant aime: l’aime."
+      "explanation": "Cette chanson → la, mais devant aime: l’aime.",
+      "sentenceForm": "negative"
     },
     {
       "sentence": "Je ne prends pas mon vélo quand il pleut.",
@@ -3014,7 +3246,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Mon vélo → le: ne le prends pas."
+      "explanation": "Mon vélo → le: ne le prends pas.",
+      "sentenceForm": "negative"
     },
     {
       "sentence": "L’équipe ne change pas sa stratégie.",
@@ -3028,7 +3261,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Sa stratégie → la: ne la change pas."
+      "explanation": "Sa stratégie → la: ne la change pas.",
+      "sentenceForm": "negative"
     },
     {
       "sentence": "Léa ne partage jamais ses mots de passe.",
@@ -3042,7 +3276,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Ses mots de passe → les: ne les partage jamais."
+      "explanation": "Ses mots de passe → les: ne les partage jamais.",
+      "sentenceForm": "negative"
     },
     {
       "sentence": "Nous ne terminons pas ce projet aujourd’hui.",
@@ -3056,7 +3291,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Ce projet → le: ne le terminons pas."
+      "explanation": "Ce projet → le: ne le terminons pas.",
+      "sentenceForm": "negative"
     },
     {
       "sentence": "Tu ne lis pas les commentaires pendant le cours.",
@@ -3070,7 +3306,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Les commentaires → les: ne les lis pas."
+      "explanation": "Les commentaires → les: ne les lis pas.",
+      "sentenceForm": "negative"
     },
     {
       "sentence": "Il ne ferme jamais sa fenêtre.",
@@ -3084,7 +3321,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Sa fenêtre → la: ne la ferme jamais."
+      "explanation": "Sa fenêtre → la: ne la ferme jamais.",
+      "sentenceForm": "negative"
     },
     {
       "sentence": "On n’achète pas ces baskets aujourd’hui.",
@@ -3098,7 +3336,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Ces baskets → les: ne les achète pas."
+      "explanation": "Ces baskets → les: ne les achète pas.",
+      "sentenceForm": "negative"
     },
     {
       "sentence": "Vous ne regardez pas la finale ce soir.",
@@ -3112,7 +3351,8 @@
         "l’",
         "les"
       ],
-      "explanation": "La finale → la: ne la regardez pas."
+      "explanation": "La finale → la: ne la regardez pas.",
+      "sentenceForm": "negative"
     },
     {
       "sentence": "J’ai pris la photo au bon moment.",
@@ -3126,7 +3366,8 @@
         "l’",
         "les"
       ],
-      "explanation": "La photo → l’. Placé avant avoir, le COD entraîne l’accord: prise."
+      "explanation": "La photo → l’. Placé avant avoir, le COD entraîne l’accord: prise.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Elle a choisi les chansons pour la soirée.",
@@ -3140,7 +3381,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Les chansons → les. Placé avant avoir: choisies."
+      "explanation": "Les chansons → les. Placé avant avoir: choisies.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Nous avons regardé le film hier.",
@@ -3154,7 +3396,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Le film → l’. Masculin singulier: regardé reste inchangé."
+      "explanation": "Le film → l’. Masculin singulier: regardé reste inchangé.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Tu as oublié tes clés dans le vestiaire.",
@@ -3168,7 +3411,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Tes clés → les. Placé avant avoir: oubliées."
+      "explanation": "Tes clés → les. Placé avant avoir: oubliées.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Ils ont acheté les billets en ligne.",
@@ -3182,7 +3426,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Les billets → les. Placé avant avoir: achetés."
+      "explanation": "Les billets → les. Placé avant avoir: achetés.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "On a préparé la playlist ensemble.",
@@ -3196,7 +3441,8 @@
         "l’",
         "les"
       ],
-      "explanation": "La playlist → l’. Placé avant avoir: préparée."
+      "explanation": "La playlist → l’. Placé avant avoir: préparée.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Vous avez envoyé le message hier soir.",
@@ -3210,7 +3456,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Le message → l’. Masculin singulier: envoyé."
+      "explanation": "Le message → l’. Masculin singulier: envoyé.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Ma sœur a trouvé ses chaussures sous le lit.",
@@ -3224,7 +3471,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Ses chaussures → les. Placé avant avoir: trouvées."
+      "explanation": "Ses chaussures → les. Placé avant avoir: trouvées.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "J’ai terminé cette affiche avant midi.",
@@ -3238,7 +3486,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Cette affiche → l’. Placé avant avoir: terminée."
+      "explanation": "Cette affiche → l’. Placé avant avoir: terminée.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "L’équipe a gagné la coupe samedi.",
@@ -3252,7 +3501,8 @@
         "l’",
         "les"
       ],
-      "explanation": "La coupe → l’. Placé avant avoir: gagnée."
+      "explanation": "La coupe → l’. Placé avant avoir: gagnée.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Léa a invité ses amies à la fête.",
@@ -3266,7 +3516,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Ses amies → les. Placé avant avoir: invitées."
+      "explanation": "Ses amies → les. Placé avant avoir: invitées.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Nous avons testé les nouvelles applis.",
@@ -3280,7 +3531,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Les nouvelles applis → les. Placé avant avoir: testées."
+      "explanation": "Les nouvelles applis → les. Placé avant avoir: testées.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Tu as lu la BD dans le train.",
@@ -3294,7 +3546,8 @@
         "l’",
         "les"
       ],
-      "explanation": "La BD → l’. Placé avant avoir: lue."
+      "explanation": "La BD → l’. Placé avant avoir: lue.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Ils ont rangé leurs affaires après le match.",
@@ -3308,7 +3561,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Leurs affaires → les. Placé avant avoir: rangées."
+      "explanation": "Leurs affaires → les. Placé avant avoir: rangées.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "On a réservé les places près de la scène.",
@@ -3322,7 +3576,8 @@
         "l’",
         "les"
       ],
-      "explanation": "Les places → les. Placé avant avoir: réservées."
+      "explanation": "Les places → les. Placé avant avoir: réservées.",
+      "sentenceForm": "regular"
     },
     {
       "sentence": "Vous avez vu cette actrice au festival.",
@@ -3336,7 +3591,1034 @@
         "l’",
         "les"
       ],
-      "explanation": "Cette actrice → l’. Placé avant avoir: vue."
+      "explanation": "Cette actrice → l’. Placé avant avoir: vue.",
+      "sentenceForm": "regular"
+    }
+  ],
+  "advancedReplacementBlind": [
+    {
+      "sentence": "Après le cours, range soigneusement ton ordinateur dans ton sac !",
+      "target": "ton ordinateur",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Après le cours, range-le soigneusement dans ton sac.",
+      "pronoun": "le",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Het COD was ton ordinateur. ton ordinateur → le. Bij een bevestigend bevel staat het voornaamwoord na het werkwoord met een koppelteken.",
+      "sentenceForm": "imperative"
+    },
+    {
+      "sentence": "Au skatepark, filme la nouvelle figure de ton ami !",
+      "target": "la nouvelle figure de ton ami",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Au skatepark, filme-la !",
+      "pronoun": "la",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Het COD was la nouvelle figure de ton ami. la nouvelle figure de ton ami → la. Bij een bevestigend bevel staat het voornaamwoord na het werkwoord met een koppelteken.",
+      "sentenceForm": "imperative"
+    },
+    {
+      "sentence": "Pendant la pause, consulte tes messages sur ton téléphone !",
+      "target": "tes messages",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Pendant la pause, consulte-les sur ton téléphone.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Het COD was tes messages. tes messages → les. Bij een bevestigend bevel staat het voornaamwoord na het werkwoord met een koppelteken.",
+      "sentenceForm": "imperative"
+    },
+    {
+      "sentence": "Tous les vendredis, apporte ta guitare au local de musique !",
+      "target": "ta guitare",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Tous les vendredis, apporte-la au local de musique.",
+      "pronoun": "la",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Het COD was ta guitare. ta guitare → la. Bij een bevestigend bevel staat het voornaamwoord na het werkwoord met een koppelteken.",
+      "sentenceForm": "imperative"
+    },
+    {
+      "sentence": "À la cafétéria, choisis le dessert au chocolat !",
+      "target": "le dessert au chocolat",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "À la cafétéria, choisis-le !",
+      "pronoun": "le",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Het COD was le dessert au chocolat. le dessert au chocolat → le. Bij een bevestigend bevel staat het voornaamwoord na het werkwoord met een koppelteken.",
+      "sentenceForm": "imperative"
+    },
+    {
+      "sentence": "Dans le bus, écoute cette playlist avec tes écouteurs !",
+      "target": "cette playlist",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Dans le bus, écoute-la avec tes écouteurs.",
+      "pronoun": "la",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Het COD was cette playlist. cette playlist → la. Bij een bevestigend bevel staat het voornaamwoord na het werkwoord met een koppelteken.",
+      "sentenceForm": "imperative"
+    },
+    {
+      "sentence": "Après l’entraînement, nettoie tes baskets dans le garage !",
+      "target": "tes baskets",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Après l’entraînement, nettoie-les dans le garage.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Het COD was tes baskets. tes baskets → les. Bij een bevestigend bevel staat het voornaamwoord na het werkwoord met een koppelteken.",
+      "sentenceForm": "imperative"
+    },
+    {
+      "sentence": "Pour le tournoi, prépare ton équipe dans le vestiaire !",
+      "target": "ton équipe",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Pour le tournoi, prépare-la dans le vestiaire.",
+      "pronoun": "la",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Het COD was ton équipe. ton équipe → la. Bij een bevestigend bevel staat het voornaamwoord na het werkwoord met een koppelteken.",
+      "sentenceForm": "imperative"
+    },
+    {
+      "sentence": "Sur le canapé, Emma lit la nouvelle BD de son frère.",
+      "target": "la nouvelle BD de son frère",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Sur le canapé, Emma la lit.",
+      "pronoun": "la",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Emma lit quoi ? → la nouvelle BD de son frère. Vrouwelijk enkelvoud → la.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Chaque soir, Léo vérifie son emploi du temps avant le coucher.",
+      "target": "son emploi du temps",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Chaque soir, Léo le vérifie avant le coucher.",
+      "pronoun": "le",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Léo vérifie quoi ? → son emploi du temps. Mannelijk enkelvoud → le.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Au magasin, Sarah essaie cette veste devant le miroir.",
+      "target": "cette veste",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Au magasin, Sarah l’essaie devant le miroir.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Sarah essaie quoi ? → cette veste. La wordt l’ vóór essaie.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Pendant l’étude, Hugo termine ses exercices sans bruit.",
+      "target": "ses exercices",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Pendant l’étude, Hugo les termine sans bruit.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Hugo termine quoi ? → ses exercices. Meervoud → les.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "À la maison, Lina ouvre le colis avec impatience.",
+      "target": "le colis",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "À la maison, Lina l’ouvre avec impatience.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Lina ouvre quoi ? → le colis. Le wordt l’ vóór ouvre.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Après le match, Théo partage les photos dans le groupe.",
+      "target": "les photos",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Après le match, Théo les partage dans le groupe.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Théo partage quoi ? → les photos. Meervoud → les.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Avant le concert, Maya ajuste sa tenue devant la glace.",
+      "target": "sa tenue",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Avant le concert, Maya l’ajuste devant la glace.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Maya ajuste quoi ? → sa tenue. La wordt l’ vóór ajuste.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "En classe, Jules utilise la tablette pour la présentation.",
+      "target": "la tablette",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "En classe, Jules l’utilise pour la présentation.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Jules utilise quoi ? → la tablette. La wordt l’ vóór utilise.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "En semaine, Mila ne regarde jamais cette série après minuit.",
+      "target": "cette série",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "En semaine, Mila ne la regarde jamais après minuit.",
+      "pronoun": "la",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Mila ne regarde jamais quoi ? → cette série. Vrouwelijk enkelvoud → la.",
+      "sentenceForm": "negative"
+    },
+    {
+      "sentence": "Au lycée, Tom ne prête pas son chargeur aux inconnus.",
+      "target": "son chargeur",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Au lycée, Tom ne le prête pas aux inconnus.",
+      "pronoun": "le",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Tom ne prête pas quoi ? → son chargeur. Mannelijk enkelvoud → le.",
+      "sentenceForm": "negative"
+    },
+    {
+      "sentence": "Pendant les devoirs, Aya n’ouvre pas les réseaux sociaux.",
+      "target": "les réseaux sociaux",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Pendant les devoirs, Aya ne les ouvre pas.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Aya n’ouvre pas quoi ? → les réseaux sociaux. Meervoud → les.",
+      "sentenceForm": "negative"
+    },
+    {
+      "sentence": "Dans le tram, Noé n’écoute pas la radio sans ses écouteurs.",
+      "target": "la radio",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Dans le tram, Noé ne l’écoute pas sans ses écouteurs.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Noé n’écoute pas quoi ? → la radio. La wordt l’ vóór écoute.",
+      "sentenceForm": "negative"
+    },
+    {
+      "sentence": "Avant un contrôle, Léa ne change jamais sa routine.",
+      "target": "sa routine",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Avant un contrôle, Léa ne la change jamais.",
+      "pronoun": "la",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Léa ne change jamais quoi ? → sa routine. Vrouwelijk enkelvoud → la.",
+      "sentenceForm": "negative"
+    },
+    {
+      "sentence": "Au vestiaire, Sam ne laisse pas ses affaires sur le banc.",
+      "target": "ses affaires",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Au vestiaire, Sam ne les laisse pas sur le banc.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Sam ne laisse pas quoi ? → ses affaires. Meervoud → les.",
+      "sentenceForm": "negative"
+    },
+    {
+      "sentence": "Le dimanche, Zoé n’utilise pas son réveil.",
+      "target": "son réveil",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Le dimanche, Zoé ne l’utilise pas.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Zoé n’utilise pas quoi ? → son réveil. Le wordt l’ vóór utilise.",
+      "sentenceForm": "negative"
+    },
+    {
+      "sentence": "Pendant le cours, Amir ne consulte pas son téléphone.",
+      "target": "son téléphone",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Pendant le cours, Amir ne le consulte pas.",
+      "pronoun": "le",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Amir ne consulte pas quoi ? → son téléphone. Mannelijk enkelvoud → le.",
+      "sentenceForm": "negative"
+    },
+    {
+      "sentence": "En hiver, Clara ne porte pas cette veste légère.",
+      "target": "cette veste légère",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "En hiver, Clara ne la porte pas.",
+      "pronoun": "la",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Clara ne porte pas quoi ? → cette veste légère. Vrouwelijk enkelvoud → la.",
+      "sentenceForm": "negative"
+    },
+    {
+      "sentence": "À la maison, Jules ne partage jamais ses mots de passe.",
+      "target": "ses mots de passe",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "À la maison, Jules ne les partage jamais.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Jules ne partage jamais quoi ? → ses mots de passe. Meervoud → les.",
+      "sentenceForm": "negative"
+    },
+    {
+      "sentence": "Au club, Nina ne choisit pas la musique toute seule.",
+      "target": "la musique",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Au club, Nina ne la choisit pas toute seule.",
+      "pronoun": "la",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Nina ne choisit pas quoi ? → la musique. Vrouwelijk enkelvoud → la.",
+      "sentenceForm": "negative"
+    },
+    {
+      "sentence": "Après 22 heures, Max n’allume plus son ordinateur.",
+      "target": "son ordinateur",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Après 22 heures, Max ne l’allume plus.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Max n’allume plus quoi ? → son ordinateur. Le wordt l’ vóór allume.",
+      "sentenceForm": "negative"
+    },
+    {
+      "sentence": "Pour le voyage, Eva n’oublie jamais sa batterie externe.",
+      "target": "sa batterie externe",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Pour le voyage, Eva ne l’oublie jamais.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Eva n’oublie jamais quoi ? → sa batterie externe. La wordt l’ vóór oublie.",
+      "sentenceForm": "negative"
+    },
+    {
+      "sentence": "À la cantine, Mathis ne prend pas les frites tous les jours.",
+      "target": "les frites",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "À la cantine, Mathis ne les prend pas tous les jours.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Mathis ne prend pas quoi ? → les frites. Meervoud → les.",
+      "sentenceForm": "negative"
+    },
+    {
+      "sentence": "En classe, Sofia n’interrompt jamais la présentation.",
+      "target": "la présentation",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "En classe, Sofia ne l’interrompt jamais.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Sofia n’interrompt jamais quoi ? → la présentation. La wordt l’ vóór interrompt.",
+      "sentenceForm": "negative"
+    },
+    {
+      "sentence": "À l’entraînement, Yanis ne critique pas ses coéquipiers.",
+      "target": "ses coéquipiers",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "À l’entraînement, Yanis ne les critique pas.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Yanis ne critique pas qui ? → ses coéquipiers. Meervoud → les.",
+      "sentenceForm": "negative"
+    },
+    {
+      "sentence": "Hier soir, Chloé a téléchargé la nouvelle application sur sa tablette.",
+      "target": "la nouvelle application",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Hier soir, Chloé l’a téléchargée sur sa tablette.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Chloé a téléchargé quoi ? → la nouvelle application. Het COD staat vóór avoir; téléchargé wordt daarom téléchargée.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Après le match, Lucas a rangé ses crampons dans son sac.",
+      "target": "ses crampons",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Après le match, Lucas les a rangés dans son sac.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Lucas a rangé quoi ? → ses crampons. Het COD staat vóór avoir; rangé wordt rangés.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Ce matin, Inès a retrouvé sa carte de bus sous le canapé.",
+      "target": "sa carte de bus",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Ce matin, Inès l’a retrouvée sous le canapé.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Inès a retrouvé quoi ? → sa carte de bus. Het COD staat vóór avoir; retrouvé wordt retrouvée.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Pour la fête, Noah a préparé les invitations sur son ordinateur.",
+      "target": "les invitations",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Pour la fête, Noah les a préparées sur son ordinateur.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Noah a préparé quoi ? → les invitations. Het COD staat vóór avoir; préparé wordt préparées.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Au festival, Maya a pris cette photo près de la scène.",
+      "target": "cette photo",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Au festival, Maya l’a prise près de la scène.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Maya a pris quoi ? → cette photo. Het COD staat vóór avoir; pris wordt prise.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Pendant les soldes, Adam a choisi ce sweat noir.",
+      "target": "ce sweat noir",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Pendant les soldes, Adam l’a choisi.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Adam a choisi quoi ? → ce sweat noir. Mannelijk enkelvoud: choisi blijft gekozen zonder extra uitgang.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Après le cours, Lina a envoyé les réponses au groupe.",
+      "target": "les réponses",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Après le cours, Lina les a envoyées au groupe.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Lina a envoyé quoi ? → les réponses. Het COD staat vóór avoir; envoyé wordt envoyées.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Hier, Sami a perdu son portefeuille dans le bus.",
+      "target": "son portefeuille",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Hier, Sami l’a perdu dans le bus.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Sami a perdu quoi ? → son portefeuille. Mannelijk enkelvoud: perdu blijft perdu.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Samedi, Zoé a acheté cette casquette au marché.",
+      "target": "cette casquette",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Samedi, Zoé l’a achetée au marché.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Zoé a acheté quoi ? → cette casquette. Het COD staat vóór avoir; acheté wordt achetée.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Pour le tournoi, Hugo a imprimé les affiches à la maison.",
+      "target": "les affiches",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Pour le tournoi, Hugo les a imprimées à la maison.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Hugo a imprimé quoi ? → les affiches. Het COD staat vóór avoir; imprimé wordt imprimées.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Hier soir, Emma a terminé sa présentation avant minuit.",
+      "target": "sa présentation",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Hier soir, Emma l’a terminée avant minuit.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Emma a terminé quoi ? → sa présentation. Het COD staat vóór avoir; terminé wordt terminée.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Au cinéma, Léo a vu ce film avec ses cousins.",
+      "target": "ce film",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Au cinéma, Léo l’a vu avec ses cousins.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Léo a vu quoi ? → ce film. Mannelijk enkelvoud: vu blijft vu.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Après l’entraînement, Nora a lavé ses chaussures de sport.",
+      "target": "ses chaussures de sport",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Après l’entraînement, Nora les a lavées.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Nora a lavé quoi ? → ses chaussures de sport. Het COD staat vóór avoir; lavé wordt lavées.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Ce week-end, Yanis a testé la nouvelle console chez son cousin.",
+      "target": "la nouvelle console",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Ce week-end, Yanis l’a testée chez son cousin.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Yanis a testé quoi ? → la nouvelle console. Het COD staat vóór avoir; testé wordt testée.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Pour l’anniversaire, Sarah a choisi les décorations avec sa sœur.",
+      "target": "les décorations",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Pour l’anniversaire, Sarah les a choisies avec sa sœur.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Sarah a choisi quoi ? → les décorations. Het COD staat vóór avoir; choisi wordt choisies.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Ce matin, Mehdi a oublié sa gourde dans le vestiaire.",
+      "target": "sa gourde",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Ce matin, Mehdi l’a oubliée dans le vestiaire.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Mehdi a oublié quoi ? → sa gourde. Het COD staat vóór avoir; oublié wordt oubliée.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Demain, Léa présentera son projet devant toute la classe.",
+      "target": "son projet",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Demain, Léa le présentera devant toute la classe.",
+      "pronoun": "le",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Léa présentera quoi ? → son projet. Mannelijk enkelvoud → le.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Ce soir, Max regardera la finale avec ses amis.",
+      "target": "la finale",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Ce soir, Max la regardera avec ses amis.",
+      "pronoun": "la",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Max regardera quoi ? → la finale. Vrouwelijk enkelvoud → la.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Samedi, Inès achètera les snacks pour la soirée.",
+      "target": "les snacks",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Samedi, Inès les achètera pour la soirée.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Inès achètera quoi ? → les snacks. Meervoud → les.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Pendant le voyage, Hugo prendra son appareil photo dans le train.",
+      "target": "son appareil photo",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Pendant le voyage, Hugo le prendra dans le train.",
+      "pronoun": "le",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Hugo prendra quoi ? → son appareil photo. Mannelijk enkelvoud → le.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "La semaine prochaine, Maya utilisera cette application pour ses révisions.",
+      "target": "cette application",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "La semaine prochaine, Maya l’utilisera pour ses révisions.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Maya utilisera quoi ? → cette application. La wordt l’ vóór utilisera.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Après le concert, Tom partagera ses vidéos dans le groupe.",
+      "target": "ses vidéos",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Après le concert, Tom les partagera dans le groupe.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Tom partagera quoi ? → ses vidéos. Meervoud → les.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Pour la compétition, Zoé choisira sa meilleure raquette.",
+      "target": "sa meilleure raquette",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Pour la compétition, Zoé la choisira.",
+      "pronoun": "la",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Zoé choisira quoi ? → sa meilleure raquette. Vrouwelijk enkelvoud → la.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Demain matin, Adam enverra le formulaire au professeur.",
+      "target": "le formulaire",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Demain matin, Adam l’enverra au professeur.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Adam enverra quoi ? → le formulaire. Le wordt l’ vóór enverra.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "À la prochaine séance, Lina expliquera son idée au reste du groupe.",
+      "target": "son idée",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "À la prochaine séance, Lina l’expliquera au reste du groupe.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Lina expliquera quoi ? → son idée. Idée is vrouwelijk; la wordt l’ vóór expliquera.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Pour le week-end, Noah préparera sa playlist dans le train.",
+      "target": "sa playlist",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Pour le week-end, Noah la préparera dans le train.",
+      "pronoun": "la",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Noah préparera quoi ? → sa playlist. Vrouwelijk enkelvoud → la.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Au prochain tournoi, Amir portera ce maillot porte-bonheur.",
+      "target": "ce maillot porte-bonheur",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Au prochain tournoi, Amir le portera.",
+      "pronoun": "le",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Amir portera quoi ? → ce maillot porte-bonheur. Mannelijk enkelvoud → le.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Ce soir, Emma finira les exercices après le dîner.",
+      "target": "les exercices",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Ce soir, Emma les finira après le dîner.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Emma finira quoi ? → les exercices. Meervoud → les.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Demain, Clara réservera les places près de la scène.",
+      "target": "les places",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Demain, Clara les réservera près de la scène.",
+      "pronoun": "les",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Clara réservera quoi ? → les places. Meervoud → les.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "Pour la sortie, Jules apportera son enceinte portable.",
+      "target": "son enceinte portable",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "Pour la sortie, Jules l’apportera.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Jules apportera quoi ? → son enceinte portable. Enceinte is vrouwelijk; la wordt l’ vóór apportera.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "La semaine prochaine, Sofia visitera cette exposition avec sa classe.",
+      "target": "cette exposition",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "La semaine prochaine, Sofia la visitera avec sa classe.",
+      "pronoun": "la",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Sofia visitera quoi ? → cette exposition. Vrouwelijk enkelvoud → la.",
+      "sentenceForm": "regular"
+    },
+    {
+      "sentence": "À la prochaine répétition, Yanis essaiera la nouvelle guitare de l’école.",
+      "target": "la nouvelle guitare de l’école",
+      "question": "Welk COD-voornaamwoord past? Zoek eerst zelf het COD.",
+      "answer": "À la prochaine répétition, Yanis l’essaiera.",
+      "pronoun": "l’",
+      "options": [
+        "le",
+        "la",
+        "l’",
+        "les"
+      ],
+      "blind": true,
+      "explanation": "Yanis essaiera quoi ? → la nouvelle guitare de l’école. La wordt l’ vóór essaiera.",
+      "sentenceForm": "regular"
     }
   ]
 }

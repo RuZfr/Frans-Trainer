@@ -1,5 +1,27 @@
 # Changelog
 
+## v1.21.0 — negatie & bevelzinnen
+- In elke COD-oefenbank van 64 zinnen staan nu exact 16 ontkennende zinnen
+- In elke COD-oefenbank van 64 zinnen staan nu exact 8 bevestigende bevelzinnen
+- Dit geldt voor oefening 1, 1.1, 2, 2.1 en 2.2
+- Bij vervangoefeningen wordt de speciale regel voor het bevestigend bevel correct toegepast: Ferme-la ! / Prenez-les !
+- Uitleg aangevuld met COD bij ontkenning en bevel
+- De resterende 40 zinnen per oefening blijven gewone bevestigende zinnen
+- sentenceForm-metadata toegevoegd voor inhoudscontrole en toekomstige variatie
+- GitHub-ready ZIP behouden
+
+
+## v1.20.0 — COD 2.2 zonder hint
+- Nieuwe oefening 2.2: COD vervangen zonder dat het COD vooraf wordt aangeduid
+- 64 volledig nieuwe zinnen, verschillend van oefening 2.1
+- Leerling zoekt eerst zelf het COD en kiest daarna le, la, l’ of les
+- Pas na het antwoord wordt het gevonden COD samen met de volledige correcte zin getoond
+- Mix ★ en ★★ blijven ongewijzigd
+- Nieuwe zinnen gebruiken herkenbare tienerthema’s en variëren in tijd, ontkenning en passé composé
+- Sessies blijven 10 vragen lang en vermijden reeds geziene zinnen zolang er nieuwe beschikbaar zijn
+- GitHub-ready ZIP behouden
+
+
 ## v1.19.0 — veel meer COD-variatie
 - Oefening 1 bevat nu 64 verschillende zinnen
 - Oefening 1.1 bevat nu 64 verschillende zinnen
